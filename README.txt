@@ -3,3 +3,6 @@
 - 대화가 시작되는 시점에 녹음 시작
 - 대화가 끝나고 종료를 알리는 멜로디가 끝나고 난 후에 녹음 끝
 - 대화가 끝나는 동시에 녹음을 끝내면 마지막 문장은 A-B구간 설정하기 어려워짐
+
+2. emoji
+- https://www.webpagefx.com/tools/emoji-cheat-sheet/
