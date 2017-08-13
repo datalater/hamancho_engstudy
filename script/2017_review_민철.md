@@ -3,6 +3,16 @@
 
 ---
 
+### 20170721 해수사우나
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 그래, 오늘 오후에는 뭘 하고 싶어요? | Alright, what do you want to do in the afternoon? | So, what do you want to do this afternoon? | ★ |
+| 2 | 우리 해수 사우나에 가는 게 어때요? | How about going to sea water sauna? | How about going to the ocean spa? | ★ |
+| 3 | 부두 근처에 있는 거 말이에요? | You mean the place near Boodo? | You mean the one near the dock? | ★ |
+| 4 | 거기 물이 깨끗하고 미네랄도 풍부하다고 들었어요. | I heard it has clean water, which is filled with minerals. | I heard the water there is clean and full of minerals | ★ |
+| 5 | 우리 거기 가기 전에 점심부터 먹읍시다. | Let's get a lunch before we go there. | Let's have lunch before we head over there. | ★ |
+
 ### 20170714 아침호텔식사
 
 | No. | Expression | JMC | Correct | star |
