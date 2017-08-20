@@ -1,5 +1,69 @@
 ⓒ JHI 2017
 
+
+### 20170216 Do you know somesone who has OCD? ###
+
+> OCD: Obsessive compulsive disorder
+
+mental
+mental health
+physical health
+disorder
+repeatedly
+symptom
+certain
+routine
+behavior
+common
+be unable to 
+a short period of time
+throw something out
+such people
+common behaviors
+
+1. I actually know several
+2. two of my patients back in austrailia they had OCD 
+3. both of were females
+4. one, she washed her hands very very hot water until she had blister
+5. the other patient, she brushed her teeth **with so much force**
+6. her teeth worn down
+
+### JHI ###
+
+1. I know someone who wash his hair **with so much force**
+2. He is my father
+3. Before going to the company, my father always washed his hair with too much power
+4. I asked my father not to wash his hair with so mouch force
+5. However, he said it makes him feel cool to shampoo his hair strongly
+6. Althouhg he have lost hir hair **for a long period of time**, he performed his action **repeatedly**
+
+
+
+
+### 20170213 What kind of sound scares you? ###
+
+1. For me, it's not the type of sound but when it's a sudden
+2. you know when i'm walking in the pedestrian ???
+3. and the taxi, they honk for a brief second
+4. in case when you are looking for the taxi
+5. that always makes me jump
+6. when they don't have enough passengers, and when they are passing by passengers
+7. they honk for very very second to get their attention
+8. And that always makes me jump and I block my ear 
+
+### JHI ###
+
+1. I am really scared by horror sound when I watched the horror movie.
+2. And that sound always **makes me get goose bumps and jump**.
+3. For me it's really hard to understand why people enjoy watching horror or ghost movie.
+4. When just hearing the horror sound, I am really getting bad and stress goes up.
+5. That's why I really don't like watching horror movie because of horrible sound.
+
+
+
+
+
+
 ---
 
 ### 20170209 Did you cry a lot as a kid?

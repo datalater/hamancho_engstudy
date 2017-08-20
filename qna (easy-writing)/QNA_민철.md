@@ -1,6 +1,47 @@
+
 ⓒ JMC 2017
 
+---
 
+### 20170215 Do you know someone who has OCD?
+
+#### Answer#1
+
+1. I **actually** know **several**.
+2. Two of my patients, back in Austrailia, they had OCD.
+3. Uh, both were female, um, and for both of them, their main, a sort of, ritual centered around cleaning.
+4. So one, she washed her hands in very, very hot water.
+5. **Until** she had blisters and they were raw and red.
+6. And the other patient, she brushed her teeth with so much force.
+7. That her teeth were all worn out. (The gums or the teeth?)
+9. The teeth. Really hard bristles, and brushing, and I'm talking two hours, three hours a day.
+10. The toothpaste, it's actually very abrasive, so if you brush for that long, that can happen.
+11. **So those are** pretty extreme **cases of OCD**.
+
+#### JMC
+
+1. Well, I must confess this is not a first time I'm hearing this term OCD, but it's been a so long time ago.
+2. So, I tried to think of any person who has it, but nothing comes to mind.
+3. So, I reflected on myself and I **actually** found **several**.
+4. First, I always wash my hands first when I get home from being anywhere.
+5. Even if I've just been for a walk alone for a short time.
+6. Why I always do that?
+7. Well, you know, I'm not a person who is a germ freak, I mean, who is obssesive with cleanliness like 서장훈.
+8. But, uhm, while washing my hands, I think I can feel my hands being cleaned and it makes me feel better.
+9. Let's suppose I couldn't wash my hands because of some reasons, like someone else is already using the bathroom, or I got a phone call.
+10. You know what? Within a few minutes, I can feel some desire is arising and it makes me wash my hands.
+11. Second, I think this is a real OCD I have, it's unbearable to think I fail this.
+12. When there is something I can be good at and I care about it, then I always try to get it **until** I convince myself that I did my best.
+13. For example, let's say, I took the math exam and I studied with my best the other day.
+14. But I got a low score. What do I do then? How do I feel about it?
+15. I never feel sad or bad. Because I know I did my best, I just take it and stay calm.
+16. But, let me say, I just jump to the conclusion that I can't make it without much effort.
+17. And after the challenge, say, I come to realize that it's not that hard and it was doable for me.
+18. Then I feel very, very bad and irritated and it makes me regret.
+19. So I usaully try to make an effort not to regret and I don't regret very often.
+20. **So those are my cases of OCD**.
+
+**끝.**
 
 ---
 

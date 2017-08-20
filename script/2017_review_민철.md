@@ -3,6 +3,16 @@
 
 ---
 
+### 20170728 운전중휴대전화
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 운전 중에 전화통화를 하셔서 세운 겁니다. | I pulled you over because you used your phone in driving. | I pulled you over for talking on the phone while driving. | ★ |
+| 2 | 아들한테서 온 급한 전화였어요. | It was the emergent call from my son. | It was an emergency call from my son. | ★ |
+| 3 | 잠깐 전화한 건데요. | It was just a moment. | It was a short call. | ★ |
+| 4 | 그래도 그건 불법입니다. | It's illegal anyway. | That's still illegal. | ★ |
+| 5 | 이번만 봐주세요. | Forgive me this time, please. | Please, let it go this time. | ★ |
+
 ### 20170721 해수사우나
 
 | No. | Expression | JMC | Correct | star |
