@@ -44,7 +44,7 @@
 | 3 | 약을 좀 줄게. | I'll give you some pills. | I'll give you some medicine. | ★ |
 | 4 | 이 약 먹고 침대에 누워서 쉬어. | Take these pills and lie down the bed to get some rest. | Take this medicine and rest in bed. | ★ |
 | 5 | 운동은 꼭 하도록 해. | I recommend you to work out. | Don't forget to exercise. | ★ |
-| 6 | 그렇게 할게요.  | I'll do that. |I'll try | ★ |
+| 6 | 그렇게 할게요.  | I'll do that. | I'll try | ★ |
 
 
 ### 20170602 회의시작

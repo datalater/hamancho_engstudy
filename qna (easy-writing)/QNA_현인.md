@@ -1,5 +1,27 @@
 ⓒ JHI 2017
 
+### 20170217 Do you have a phobia for something? ###
+
+1. I don't think so.
+2. I mean I have a dislike for something
+3. But I wouldn't call it phobia
+
+1. I have a phobia for dogs
+2. If the dog is really really mild and it's well behaved,
+3. If the dog bark,
+4. Something psysiological is wrong with you?
+
+
+### JHI ###
+
+1. I have a phobia for taking medicine such as pills
+2. When I was sick such as catching a cold, I'm trying not to take pills.
+3. The reason I have avoided them is I'm afraid of super bacteria
+4. I belive whenever I take pills, the immune system becomes weaker
+5. So it's possible I meet super bacteria.
+6. I hope my strong immune system can fight against super bacteria.
+7. Therefore I have a phobia for taking medicine.
+
 
 ### 20170216 Do you know somesone who has OCD? ###
 

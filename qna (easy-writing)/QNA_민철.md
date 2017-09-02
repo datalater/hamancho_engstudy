@@ -3,6 +3,31 @@
 
 ---
 
+### 20170218 Do you have a phobia for something?
+
+#### Answer#1
+
+1. I don't think so.
+2. I mean I have a dislike for something, but I won't call them phobias.
+3. What about you?
+
+#### JMC
+
+1. I actually have acrophobia.
+2. But it doesn't mean that I'm always scared of heights.
+3. When I ride something at the amusement park, I'm not terrified at all.
+4. It just makes me excited.
+5. The situation I feel acrophobia is when there's no safety equipment so that I can easily imagine the scene of an accident with a high possibility.
+6. But you know what? When I was younger than now, like 16 or 17, until then, I've never felt a fear of heights.
+7. I even have a experience that I sit on the top of the school building with my friends, when I was 6th grade in the elementary school.
+8. It was like the height of about 7 to 8 story aprtment buildling, so if someone had pushed me at least 5cm away, I would have been dead.
+9. But at that time, I enjoyed the feeling of a thrill and I used to push myself to the extreme so I never felt any phobia.
+10. And I still naturally hate to be afraid of something, so when I find something scary or hard to control, then I try to get over it by any means if it feels like a obstacle in my life.
+11. But, considering that I have acrophobia and it's not that easy to get over now, I think I'm getting older and weaker.
+12. I miss my youth and my bravery so much.
+
+---
+
 ### 20170215 Do you know someone who has OCD?
 
 #### Answer#1
