@@ -3,6 +3,24 @@
 
 ---
 
+### 20170811 수입제품주문
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 최소 주문 수량이 어떻게 되나요? | How many is the least order? | What's the minimum order volume? | ★ |
+| 2 | 각 제품별로 1000개씩이에요. | It's 1000 per a product. | 1000 units for each item | ★ |
+| 3 | 제가 돌아가서 원하는 것을 골라보겠습니다. | I'll get back and pick what I want. | I'll go back and choose what we want. | ★ |
+| 4 | 주문을 기다리고 있겠습니다. | I'll be waiting for your order. | We'll wait for your order. | ★ |
+| 5 | 여기 와 있는 동안 해주셨던 모든 것에 감사드려요. | Thank you for everything you've done while I was staying. | Thank you for everything while I was here. | ★ |
+
+### 20170804 엄마용돈
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 이리 와봐. | Come here. | Come over here. | ★ |
+| 2 | 씀씀이를 조절해보려구요. | I'll try to control my expenditure. | I'll try to control my spending. | |
+| 3 | 그 얘기는 학년이 더 올라가면 다시 하기로 하자. | Then let's talk about it next grade. | Let's discuss it again when you're older. | ★ |
+
 ### 20170728 운전중휴대전화
 
 | No. | Expression | JMC | Correct | star |

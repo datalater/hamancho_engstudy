@@ -3,6 +3,34 @@
 
 ---
 
+### 20170220 Until when do you want to work?
+
+#### Answer#1
+
+1. **Well, my current plan, as I have told you before, is to** stay in Korea until I'm around 40, at which point I will return to Austrailia and continue working as a dentist **until I physically can**.
+2. So **my wish is to**, even if it's only for a day or two or a week, I would like to continue working for **as long as I can**.
+3. (Do you have a ballpark as to round what age that will be for a dentist?)
+4. Hmm, For a dentist, so, most of the times, a lot of my senior, they stop working because of back problems.
+5. Yeah. Because the posture is really bad.
+6. If you're really careful, 75. So I'm looking at that.
+7. It happens if you look after yourself well.
+8. And some of my friends, their aims is I'm gonna **save enough money** by 35 and retire when I'm 35, but me? No.
+9. I want to work for as long as I can.
+
+#### JMC
+
+1. **Well, my current plan, as I have told you before, is to** **save enough money** and retire early and go and live in Jeju island or something and teach students there **until I physically can**.
+2. That's the plan I made when I was around 22.
+5. So if your question is to ask about when I want to retire, then my answer is the sooner is the better.
+3. But I should make it clear that my retiring from work doesn't mean that I'll never work anymore.
+4. It just means to be financially independent.
+5. And I believe I can achieve it after I become a professional in a particular area.
+6. So after I retire from making a living, then I will share my experiences or knowledge to younger generation.
+7. And I think that's the second work that's waiting for me.
+8. To summarize, **my wish is to** retire form making a money as soon as I can, but I want to work **as long as I can** if I can contribute to make a better world.
+
+---
+
 ### 20170218 Do you have a phobia for something?
 
 #### Answer#1

@@ -1,5 +1,16 @@
 ⓒ JHI 2017
 
+### 20170220 Until when do you want to work ###
+
+### JHI ###
+
+1. Well, my current plan is to work until I am round 65-year-old
+2. However, I hope the retirement age is extended as the average life expectancy is also increased
+3. In case of the public company, it guarantee the retirement 
+3. When I am thinking about the life after retirement, it will be very boring.
+4. Therefore I would like to work as long as I can
+
+
 ### 20170217 Do you have a phobia for something? ###
 
 1. I don't think so.
