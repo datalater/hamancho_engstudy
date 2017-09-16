@@ -3,6 +3,16 @@
 
 ---
 
+### 20170818 식사가는이지
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 이제 배가 좀 고프네요. | Now I'm a little bit starving. | Now I'm kind of hungry. | ★ |
+| 2 | 뭐가 먹고 싶니? | What do you want to eat? | What are you in the mood for? | ★ |
+| 3 | 뭐든 맛있는 거요. | Whatever tastes good. | Anything yummy. | ★ |
+| 4 | 그럼 이 식당에서 해산물을 좀 먹어보자. | Then let's eat some seafood in this restaurant. | Then let's try some seafood in this restaurant. | ★ |
+| 5 | 당신이 주차하는 동안 우리가 가서 자리잡고 있을게요. | While you're parking, we go and get a seat, | We'll go and get a table while you park the car. | ★ |
+
 ### 20170811 수입제품주문
 
 | No. | Expression | JMC | Correct | star |
