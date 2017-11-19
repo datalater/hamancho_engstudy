@@ -1,5 +1,36 @@
 ⓒ JHI 2017
 
+### 20170222 What comes to mind when you think of Spain? ###
+
+recently
+simple
+customer
+free
+meal
+inequality
+crisis(국가 및 사회 단위, cf. 개인은 trouble)
+by day 낮에는, at night 밤에는
+each(every) day 매일
+
+1. When I think of Spain, I think of Barcelona
+2. Because I stayed in Barcelona for about two weeks, not too long.
+3. But I went and the city is  full of really 커비? interesting redegisned bulidings by ~
+4. So when I think of Spain, I think of the holiday that I had with my mom and all the beautiful architecture
+
+
+### JHI ###
+1. When I think of Spain, I think of two things: spanish, soccer
+2. First, I learned Spanish every week for two years in university.
+3. Although I forgot most of the things I learned except for a few words
+4. like 'hola, come estats, muy bien', it was interesting to learn another language.
+5. And also I come up with soceer because of Real Madrid and FC Barcelona
+6. As most of the people know, two teams are the best soccer club in the world.
+7. That's why I would like to go to Spain and watch the soccer game.
+8. In conclusion, when I think of Spain, I think of spanish and soccer.  
+
+
+
+
 ### 20170220 Until when do you want to work ###
 
 ### JHI ###

@@ -3,6 +3,44 @@
 
 ---
 
+### 20170810 Do you like proverbs and quotes?
+
+**Answer#1**:
+
+1. I do.
+2. Uh, sometimes when I come across particular saying or quote that really speaks to me, I write it out in my diary.
+3. Um, a diary that I keep with me everywhere I go.
+4. So that when I have a break or something like, I can read it.
+
+**JMC**:
+
+1. I do.
+2. Uh, sometimes when I come across particular saying or quote that really speaks to me, I write it out in my blog or smartphone.
+3. Well, I must confess that I don't read it very often.
+4. But once I read it, it really helps a lot.
+5. So when you're in trouble and if you're lucky enough to find some saying that can make you feel better, you should write it out.
+6. Because life repeats itself and you can face the similar troubles.
+7. So the quote can save you again.
+
+---
+
+### 20170222 What comes to mind when you think of Spain?
+
+#### Answer#1
+
+1. When I think of Spain, I think of Barcelona.
+2. Because I stayed in Barcelona for about just two weeks, not too long.
+3. Um, but I went, and the city was full of really curvy interesting redesinged buildings by the architect Gaudi.
+4. So whenever I think of Spain, I think of the holiday that I had there with my mom and all the beautiful architecture, the buildings, the cathedrals that I saw.
+
+#### JMC
+
+1. When I think of Spain, I think of the national soccer team in 2002.
+2. That's the first time that I saw the foregin soccer player's playing.
+3. 즉석 talk
+
+---
+
 ### 20170220 Until when do you want to work?
 
 #### Answer#1
