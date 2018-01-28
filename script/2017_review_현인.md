@@ -1,7 +1,69 @@
 
 ⓒ JHI 2017
 
----
+### 20180105 사리진 비니 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 재밌게 놀았니? | Did you have a good time? | Did you have fun?  |  |
+| 2 | 여기 또 오고 싶어요 | I wanna come here again  | I'd love to come here again |  |
+| 3 | 지막으로 언제 봤는지 기억나니? | Do you remember when did you see last time? | Can you remember when you last saw it?  |  |
+
+
+### 20171229 좋은 이름 생각 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 이 강아지를 뭐라고 부를까요?  | How could we call this dog?  |  What can we call him?  | ★ |
+| 2 | 얘한테 좋은 이름을 생각해보자  | Let's come up with good name for this dog.  | Let's come up with a good name for him |  |
+| 3 | 진짜 제 동생인 것 같잖아요. | It seems like my real brother.  | It sounds like his my real brother. |  |
+| 4 | 이걸로 정해진거야| We fix it  | It settled  | ★ |
+
+### 20170915 축제당일학생준비 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 |  너무 우승하는 것만 생각하지마.  | You should not be obsessed with the winning  | Don't think too much about winning. |  |
+| 2 | 이제 필요한 게 있는지 다 확인하고 | we have to check whether we miss something or not  | Now check if we have everything we need  |  |
+
+### 20170908 야근아내허브차 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 오랫동안 일을 했네요  | worked so late  | worked so long |  |
+| 2 | 우리 팀원 전부  | all of the teammates | all our team members  |   |
+| 3 | 커피를 가져다주다 | Do you wanna drink coffee? | get you some coffee | ★ | 1
+| 4 | 우리는 다음달에 중요한 도서전이 있다 |  we have important book competition | we have a big book fair next month  | ★ | 1
+| 5 | 성공적으로 끝내다 | to success | make it successful | ★ | 1
+| 6 | 이렇게 늦게 카페인을 섭취하면 잠을 못 자요 | I can't sleep to drink caffein so late | I won't fall asleep if I have caffein this late  | ★ |
+
+
+### 20170901 음악선물 보답 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 좋아요 | great |  Pretty good | ★ |
+| 2 | 이지씨는요? | how about you, Eazy? | yourself? | ★ |
+| 3 | 저 혹시 제가 드린 음악은 들어보셨나요? | Have you ever played the music I gave? | Did you happen to listen to a music I gave you? | ★ |
+| 4 | 제가 보답으로 피클을 드리려고 만들었어요. |  I made pickle to give you in return  | I made some pickles for you in return  | ★ |
+| 5 |  안 그러셔도 되는데...  | you don't have to do that...  | you shoudn't have. | ★ |
+
+
+### 20170825 헨리식당서비스 ###
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 문자 받았어요 | I received your message  | I got your text | ★ |
+| 2 | 이 식당에서 먹어보다 |  I really wanna visit this restaurant as soon as I can  | try this restaurant | ★ |
+| 3 | 콘센트 | concent | outlet | ★ |
+| 4 | 전자기기를 충전하다 | charge electronic device |charge electronic devices | |  
+| 5 | 빨리 이 식당가서 먹어보고 싶다 | I really wanna visit this restaurant as soon as I can |I love to try this restaurant soon | ★ |
+| 6 | 누가 ~할 수 있게 | So  |so that ~  |  |
+| 7 | 정말 편리하네요 | It is so convenient |How handy(convenient), what a handy idea |★ |
+| 8 | 혼자 밥먹는 사람들이 온라인으로 소통할 수 있다 |  people who eat alone can communicate with other people online |people eating alone can chat online | ★ |  
+
+
+
 
 ### 20170818 식사가는이지
 
@@ -23,7 +85,7 @@
 | 3 | 제가 돌아가서 원하는 것을 골라보겠습니다. | I'm gonna choose what I want when I go back. | I'll go back and choose what we want. | ★ |
 | 4 | 주문을 기다리고 있겠습니다. |I'm looking forward to your order | We'll wait for your order. | ★ |
 | 5 | 여기 와 있는 동안 해주셨던 모든 것에 감사드려요. | Thank you for everything you've done while I was staying. | Thank you for everything while I was here. | ★ |
-| 6 | 귀사와 좋은 관계가 되었으면 좋겠습니다. | I hope I have a great relatonship with you. | Thank you for everything while I was here. | ★ |
+| 6 | 귀사와 좋은 관계가 되었으면 좋겠습니다. | I hope I have a great relatonship with you. | I hope we have a fruitful relationship. | ★ |
 
 ### 20170804 엄마용돈
 
@@ -112,7 +174,7 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 거래가 성사되었다. | The deal was done. | The deal is sealed. | ★ |
 | 2 | 당신이 해냈어요 | You did it | You made it happen | ★ |
-| 3 | 계약서에 사인을 할 겁니다. |They are going to sign on the contract | We sign the contract. | ★ |
+| 3 | 계약서에 사인을 했습니다. | They are going to sign on the contract | We signed the contract. | ★ |
 | 4 | 정말요? | Is that true? | Seriously? | |
 | 5 | 네가 곧 승진할 것 같아. | It feels like you are going to be promoted soon | I feel like you're going to get promoted soon. | ★ | 1
 
@@ -150,10 +212,10 @@
 
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 의미있는 시간을 보내다 | spend meaningful time | spend some quality time| ★ |
+| 1 | 의미있는 시간을 보내다 | spend meaningful time | spend some quality time| ★ | 2
 | 2 | 꼭 ~ 하세요 | Don't forget to ~ | Don't forget to ~ |  |
 | 3 | 위생적인 이유로 | for hygienic reasons | for hygienic reasons |  |
-| 4 | 집에 오다 | come to home | be home | ★ |
+| 4 | 집에 오다 | come to home | be home | ★ | 2
 
 
 ### 20170331 프로그램소개

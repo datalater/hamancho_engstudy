@@ -3,13 +3,62 @@
 
 ---
 
+### 20180105 사라진비니
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 재밌게 놀았어? | Did you enjoy? | Did you have fun? |  |
+| 2 | 여기 또 오고 싶어요. | I'd love to be here again. | I'd love to come here again. | |
+| 3 | 알았다. 다음 달에 다시 오지 뭐. | Alright, let's come here next month. | Alright, we can come back again. | ★ |
+| 4 | 저기 이 비니 네 꺼니? | Um, Is this your beanie? | Execuse me, is this beanie yours? | ★ |
+
+### 20171229 좋은이름생각
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 생각해보자, 강아지의, 좋은 이름 | None | Let's come up with a good name for him. | ★ |
+| 2 | 왜냐하면 비슷하잖아, 내이름. | None | Because it's similar to my name. | |
+| 3 | 마치 들린다, 그가 진짜 내 남동생. | None | It sounds like he's my real brother. |  |
+| 4 | 좋아 그러면 정해졌어. | None | Okay then, it's settled. | ★ |
+
+### 20170915 축제당일학생준비
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 너무 우승하는 것만 생각하지마. | Don't try to concentate too much on winning. | Don't think too much about winning. |  |
+| 2 | 좋아, 이제 필요한 게 다 있는지 확인하고. |  Alright, now make sure you have all you need. | Alright, now check if you have everything you need. | ★ |
+| 3 | 저 너무 떨려서 애들 앞에서 노래를 못 부를 것 같아요. | I'm so nervous that I can't sing in front of people. | I'm too nervous to sing in front of everyone. |  |
+| 4 | 걱정마. 너는 잘할거야. | Don't worry. You'll be good. |  Don't worry. You'll do a good job. | ★ |
+
+
+### 20170908 야근아내허브차
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 오늘 너무 오랫동안 일을 했네요. | You've worked for a long time today. | You worked so long today. | ★ |
+| 2 | 그러게요. | You're right. | You can say that again. | ★ |
+| 3 | 사실 다음 달에 중요한 도서전이 있거든요. | Actually I have an important book concert next month. | Actually we have a big book fair next month. | ★ |
+| 4 | 그래서 우리 팀원 전부가 그거 성공시키려고 집중하고 있어요. | So all team members are trying hard to make it successful. | So all our team members are focusing to make it successful. | ★ |
+| 5 | 그렇군요. 커피 좀 갖다줄까요? | Alright. You need some coffee? | I see. Do you want me to get you some coffee? | ★ |
+| 6 | 이렇게 늦게 카페인을 섭취하면 잠을 못 자요. | Taking caffeine too late make you not sleep. | I won't fall asleep if I have caffeine this late. | ★ |
+| 7 | 그럼 내가 허브차를 갖다줄게요. | Then, I'll give you a cup of herb tea. | Then I'll get you some herb tea. | ★ |
+
+### 20170901 음악선물보답
+
+| No. | Expression | JMC | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 좋아요. 이지 씨는요? | I'm good. What about you, Eazy? | Pretty good. Yourself? | ★ |
+| 2 | 저기 혹시 제가 드린 음악은 들어보셨나요? | Well, have you heard of the music I gave to you? | So, did you happen to listen to the music I gave you? | ★★ |
+| 3 | 노래들이 다 아주 편안하더라고요 | All songs are comfortable. | All songs were so relaxing. | ★ |
+| 4 | 어, 안 그러셔도 되는데. | Oh, you don't have to. | Oh, you shouldn't have. | ★ |
+
 ### 20170825 헨리식당서비스
 
 | No. | Expression | JMC | Correct | star |
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | 빨리 이 식당에 가보고 싶다. | I'm really looking forward to going to this restaurant quick. | I'd love to **try** this restaurant soon. | ★ |
 | 2 | 그래 가봐. | Yeah, you should go. | Go for it. | ★ |
-| 3 | 전자기기를 충전할 수 있게 탁자마다 콘센트도 있고. | And every table has a consent to charge electronics. | They also have outlets to every table to charge your electronics devices. | ★★ |
+| 3 | 전자기기를 충전할 수 있게 탁자마다 콘센트도 있고. | And every table has a consent to charge electronics. | They also have outlets at every table to charge your electronic devices | ★★ |
 | 4 | 정말 편리하다. | It's so comfortable. | How handy! |  |
 | 5 | 이런 식당들 중 어떤 곳에는 탁자에 태블릿 PC도 있다니까. | Some of them has a tablet PC per every table. | At some of these restaurants, they have tablets on the tables. | ★★ |
 | 6 | 혼자 밥을 먹는 사람들이 온라인으로 소통할 수 있게? | Those who eat meals alone can communicate online? | So that solo diners can socialize online? | ★ |

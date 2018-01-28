@@ -1,5 +1,31 @@
 ⓒ JHI 2017
 
+### 201700105 Have you seen this book? ###
+
+1. Have you seen the book titlted 'the book is the ax' written by Park Woong-Hyun.
+2. The book shows various feelings when the author read the book
+3. And the author would like to share that feelings and wants readers to read the book
+4. I read the book first when I was in junior in the university.
+5. And I have been reading the book second times when I go to the company.
+6. And there are some expressions I share with you
+7. First, 보고 만질 수 없는 '사랑'을 볼 수 있고 만질 수 있게 하고 싶은 외로움이, 사람의 몸을 만들어낸 것인지도 모른다.
+8. Second, 시이불견 청이불문. 시청은 흘려 보고 듣는 것이고 견문은 깊이 보고 듣는 것이다.
+9. In addition to these expressions, the book incldues precious senntences.
+10. I hope many people read the book and enjoy a thrilling experience of reading books.  
+
+
+
+### 20170817 Have you seen this movie? ###
+
+1. Have you seen the movie titled 'COCO'
+2. I watched this movie yesterday
+3. Frankly speaking, I didn't expect that movie because it's just the animation
+4. However, It was wrong. It gave me the lesson.
+5. You'll not be daed if you are not forgottern by anyone.
+6. You'll live forever if someone in this world remembers you.
+7. After I watched the movie, I swear that I have an positive impact on the world and be remembered forever in people.
+8. That's why I recommend people watch the movie and think their life once again.
+
 ### 20170222 What comes to mind when you think of Spain? ###
 
 recently
