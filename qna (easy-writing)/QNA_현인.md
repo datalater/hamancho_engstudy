@@ -1,5 +1,22 @@
 ⓒ JHI 2017
 
+### 201700112 Have you seen this book? ###
+
+1. I would like to introduce 'the book is the ax' again.
+2. This week, the author talks about 고은 who is the poet and publish '순간의 꽃'
+3. 고은 said 노를 젓다가 노를 놓쳐버렸다. 비로소 넓은 물을 돌아다보았다
+4. And also said 내려갈 때 보았네. 올라갈 때 보지 못한 그 꽃.
+5. I think these sentences remind me of the life.
+6. We live so fast and do not look back on our life.
+7. If we live like that, we might regret our life in future and don't cherish this moment.
+8. Recently, Our comanpy has personnel changes. So three people in the department is going to the other branch. 
+9. When I heard the news, I feel so sad because they are nice people and treat me well.
+10. I should have done well to them. 
+11. Anyway, After I read the 고은 senctenenes, I promise to cherish every moment.
+
+
+
+
 ### 201700105 Have you seen this book? ###
 
 1. Have you seen the book titlted 'the book is the ax' written by Park Woong-Hyun.

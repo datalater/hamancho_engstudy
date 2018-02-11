@@ -3,6 +3,30 @@
 
 ---
 
+### 20170817 Do you have a special preference for ramyun?
+
+1. I didn't have a special preference for ramyun until I become a college student.
+2. While I was in freshman in college, I used to enjoy ramyuns in the cafeteria.
+3. And one day, I ordered my ramyun and I was running to get it and, next to my ramyun tray, I found a bowl of red pepper powder.
+4. It was kind of confusing and I thought, 'Oh is it for ramyun? Do people here put the powder on ramyun?'
+5. I wasn't sure but I thought it would be kind of helpul to make my ramyun delicious, you know, because red pepper makes a ramyun more spicy and spicy ramyun is tasty.
+6. So I put it on and, what a surprise, it was fantastic. I really enjoyed the ramyun with red pepper powder.
+7. And from that day, whenever I found a red pepper powder, I put it on my ramyun.
+8. But you should know it only happens at the restaruant, I do not this at home, because red pepper is expensive.
+
+disassmeble
+
+1. 나는 없었다, 특별한 선호가, 라면의, 되기 전까지, 대학생이.
+2. 대학교 1학년일 때, 라면을 즐겨 먹었다, 학교 구내 식당에서.
+3. 그러다 어느 날, 라면을 주문해서, 받으러 달려 가는데, 라면 쟁반 옆에, 발견했다, 통으로 된 고춧가루,
+4. 약간 헷갈렸고, 생각했다, '라면에 넣으라고 있는건가? 여기서는 그렇게도 먹나?'
+5. 확실하진 않았지만, 생각했다, 도움이 될거라고, 내 라면이 맛있어지는데, 알다시피, 고춧가루는 라면을 더 맵게 하고, 매운 라면을 맛있으니까.
+6. 그래서 고춧가루를 넣었는데, 와 놀랍게도, 매우 맛있었다. 고춧가루 넣은 그 라면을 정말 맛있게 먹었다.
+7. 그래서 그날 이후로, 고춧가루를 발견하면, 라면에 넣는다.
+8. 그런데, 밖에 식당에서만 그러지, 집에서는 안 그런다, 왜냐하면 고춧가루는 비싸니까.
+
+---
+
 ### 20170810 Do you like proverbs and quotes?
 
 **Answer#1**:

@@ -1,6 +1,23 @@
 
 ⓒ JHI 2017
 
+### 20180112 영어노래부르기
+
+| No. | Expression | JHI | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 준 과장님이랑 영어로 연습하니까 더 재미있네요. | It is more funny to practice English with you. | It's more enjoyable to practice English with you.  |  |
+| 2 | 말하기를 연습하는 다른 방법들을 아세요? | do you know other ways to speak English? | do you know any other ways to practice speaking? |  |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 말하기를 연습하는 다른 방법들을 아세요? | 그런데 아세요, 다른 방법들을, 연습하는, 말하기를? | By the way, do you know any other ways to practice speaking? | |
+| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | |
+| 3 | 노래방에 가서 영어 노래를 부르는 것도 좋은 방법이라고 들었어. | 들었어요, 좋은 방법이라고, 영어 노래를 부르는 것도, 노래방에 가서. | I heard that singing English songs at Noraebang is a also a good way. |
+| 4 | 그래요? 그럼 우리 가요, 노래방에. | 그래요? 그럼 우리 가요, 노래방에. | Is it? Then let's go to a Noraebang. |
+| 5 | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | Now? Wait, it's too early. I'm hungry. |
+| 6 | 나도 그래요. 먼저 저녁부터 먹죠. | 나도 그래요. 저녁부터 먹죠, 먼저. | I feel the same way. Let's have dinner first. |
+
+
 ### 20180105 사리진 비니 ###
 
 | No. | Expression | JHI | Correct | star | count |
@@ -30,24 +47,22 @@
 
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 오랫동안 일을 했네요  | worked so late  | worked so long |  |
-| 2 | 우리 팀원 전부  | all of the teammates | all our team members  |   |
-| 3 | 커피를 가져다주다 | Do you wanna drink coffee? | get you some coffee | ★ | 1
+| 1 | 오랫동안 일을 했네요  | worked so late  | worked so long | |
+| 2 | 우리 팀원 전부 | all of the teammates | all our team members | |
+| 3 | 커피를 가져다주다 | Do you wanna drink coffee? | get you some coffee | ★ | 2
 | 4 | 우리는 다음달에 중요한 도서전이 있다 |  we have important book competition | we have a big book fair next month  | ★ | 1
-| 5 | 성공적으로 끝내다 | to success | make it successful | ★ | 1
+| 5 | 성공적으로 끝내다 | to success | make it successful | ★ | 2
 | 6 | 이렇게 늦게 카페인을 섭취하면 잠을 못 자요 | I can't sleep to drink caffein so late | I won't fall asleep if I have caffein this late  | ★ |
-
 
 ### 20170901 음악선물 보답 ###
 
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 좋아요 | great |  Pretty good | ★ |
-| 2 | 이지씨는요? | how about you, Eazy? | yourself? | ★ |
+| 2 | 이지 씨는요? | how about you, Eazy? | yourself? | ★ | 1
 | 3 | 저 혹시 제가 드린 음악은 들어보셨나요? | Have you ever played the music I gave? | Did you happen to listen to a music I gave you? | ★ |
 | 4 | 제가 보답으로 피클을 드리려고 만들었어요. |  I made pickle to give you in return  | I made some pickles for you in return  | ★ |
-| 5 |  안 그러셔도 되는데...  | you don't have to do that...  | you shoudn't have. | ★ |
-
+| 5 | 안 그러셔도 되는데...  | you don't have to do that...  | you shoudn't have. | ★ | 1
 
 ### 20170825 헨리식당서비스 ###
 
@@ -57,13 +72,10 @@
 | 2 | 이 식당에서 먹어보다 |  I really wanna visit this restaurant as soon as I can  | try this restaurant | ★ |
 | 3 | 콘센트 | concent | outlet | ★ |
 | 4 | 전자기기를 충전하다 | charge electronic device |charge electronic devices | |  
-| 5 | 빨리 이 식당가서 먹어보고 싶다 | I really wanna visit this restaurant as soon as I can |I love to try this restaurant soon | ★ |
+| 5 | 빨리 이 식당가서 먹어보고 싶다 | I really wanna visit this restaurant as soon as I can |I love to try this restaurant soon | ★ | 1
 | 6 | 누가 ~할 수 있게 | So  |so that ~  |  |
 | 7 | 정말 편리하네요 | It is so convenient |How handy(convenient), what a handy idea |★ |
-| 8 | 혼자 밥먹는 사람들이 온라인으로 소통할 수 있다 |  people who eat alone can communicate with other people online |people eating alone can chat online | ★ |  
-
-
-
+| 8 | 혼자 밥먹는 사람들이 온라인으로 소통할 수 있다 | people who eat alone can communicate with other people online | people eating alone can chat online | ★ | 1
 
 ### 20170818 식사가는이지
 
@@ -142,7 +154,7 @@
 
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 딱 좋았어. |It's just great. | That hit the spot. | ★ |
+| 1 | 딱 좋았어. |It's just great. | That hit the spot. | ★ | 1
 | 2 | 다시 회의 할까? | how about starting the meeting again?  | Shall we get back to the meeting? | |
 | 3 | 시간 제한을 두는 게 도움이 될 거야. | Time limit will help | It will be helpful to set a time limit. | ★ |
 | 4 | 벌써 3시 20분이네. | Ah it's already 3:20 | It's three twenty already. | ★ |
@@ -223,7 +235,7 @@
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 3가지 쇼 가운데 | among three shows | among three shows |  |
-| 2 | 이지 잉글리시가 가장 쉽다 | Easy English is the easiest | Easy English is the easiest |  |
+| 2 | 이지 잉글리시가 가장 쉽다 | Easy English is the easiest | Easy English is the easiest |  | 1
 | 3 | 두 개 국어를 말할 줄 알아야 한다 | We have to be bilingual | We have to be bilingual |  |
 | 4 | 그것들이 다 수준이 달라? | Are they  all different levels? | Are they  all different levels? | |
 

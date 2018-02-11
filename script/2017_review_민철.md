@@ -3,10 +3,32 @@
 
 ---
 
+### 20180112 영어노래부르기
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 과장님이랑 영어를 연습하니까 더 재미있네요. | 더 재미있다, 연습하니까 영어를, 과장님이랑. | It's more enjoyable to practice English with you. | ★ |
+| 2 | 저도 그래요. | 저도 (기분이) 그래요. | I feel the same way. | ★ |
+| 3 | 그런데 말하기를 연습하는 다른 방법들을 아세요? | 그런데 아세요, 다른 방법들을, 연습하는, 말하기를? | By the way, do you know any other ways to practice speaking? | |
+| 4 | 영어 노래를 부르는 것도 좋은 방법이라고 들었어요. | 들었어요, 좋은 방법이라고, 영어 노래를 부르는 것도. | I heard that singing English songs is also a good way. | |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
+| 1 | 말하기를 연습하는 다른 방법들을 아세요? | 그런데 아세요, 다른 방법들을, 연습하는, 말하기를? | By the way, do you know any other ways to practice speaking? | |
+| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | |
+| 3 | 노래방에 가서 영어 노래를 부르는 것도 좋은 방법이라고 들었어. | 들었어요, 좋은 방법이라고, 영어 노래를 부르는 것도, 노래방에 가서. | I heard that singing English songs at Noraebang is a also a good way. |
+| 4 | 그래요? 그럼 우리 가요, 노래방에. | 그래요? 그럼 우리 가요, 노래방에. | Is it? Then let's go to a Noraebang. |
+| 5 | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | Now? Wait, it's too early. I'm hungry. |
+| 6 | 나도 그래요. 먼저 저녁부터 먹죠. | 나도 그래요. 저녁부터 먹죠, 먼저. | I feel the same way. Let's have dinner first. |
+
+| No. | InterShuffle | Disassemble | Correct | star |count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
+| @ | @ | @ | @ | @ |
+
 ### 20180105 사라진비니
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 재밌게 놀았어? | Did you enjoy? | Did you have fun? |  |
 | 2 | 여기 또 오고 싶어요. | I'd love to be here again. | I'd love to come here again. | |
 | 3 | 알았다. 다음 달에 다시 오지 뭐. | Alright, let's come here next month. | Alright, we can come back again. | ★ |
@@ -14,8 +36,8 @@
 
 ### 20171229 좋은이름생각
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 생각해보자, 강아지의, 좋은 이름 | None | Let's come up with a good name for him. | ★ |
 | 2 | 왜냐하면 비슷하잖아, 내이름. | None | Because it's similar to my name. | |
 | 3 | 마치 들린다, 그가 진짜 내 남동생. | None | It sounds like he's my real brother. |  |
@@ -23,8 +45,8 @@
 
 ### 20170915 축제당일학생준비
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 너무 우승하는 것만 생각하지마. | Don't try to concentate too much on winning. | Don't think too much about winning. |  |
 | 2 | 좋아, 이제 필요한 게 다 있는지 확인하고. |  Alright, now make sure you have all you need. | Alright, now check if you have everything you need. | ★ |
 | 3 | 저 너무 떨려서 애들 앞에서 노래를 못 부를 것 같아요. | I'm so nervous that I can't sing in front of people. | I'm too nervous to sing in front of everyone. |  |
@@ -33,8 +55,8 @@
 
 ### 20170908 야근아내허브차
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 오늘 너무 오랫동안 일을 했네요. | You've worked for a long time today. | You worked so long today. | ★ |
 | 2 | 그러게요. | You're right. | You can say that again. | ★ |
 | 3 | 사실 다음 달에 중요한 도서전이 있거든요. | Actually I have an important book concert next month. | Actually we have a big book fair next month. | ★ |
@@ -45,8 +67,8 @@
 
 ### 20170901 음악선물보답
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 좋아요. 이지 씨는요? | I'm good. What about you, Eazy? | Pretty good. Yourself? | ★ |
 | 2 | 저기 혹시 제가 드린 음악은 들어보셨나요? | Well, have you heard of the music I gave to you? | So, did you happen to listen to the music I gave you? | ★★ |
 | 3 | 노래들이 다 아주 편안하더라고요 | All songs are comfortable. | All songs were so relaxing. | ★ |
@@ -54,8 +76,8 @@
 
 ### 20170825 헨리식당서비스
 
-| No. | Expression | JMC | Correct | star |
-| :---: | :--- | :--- | :--- | :---: |
+| No. | Expression | JMC | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 빨리 이 식당에 가보고 싶다. | I'm really looking forward to going to this restaurant quick. | I'd love to **try** this restaurant soon. | ★ |
 | 2 | 그래 가봐. | Yeah, you should go. | Go for it. | ★ |
 | 3 | 전자기기를 충전할 수 있게 탁자마다 콘센트도 있고. | And every table has a consent to charge electronics. | They also have outlets at every table to charge your electronic devices | ★★ |
@@ -87,9 +109,9 @@
 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 이리 와봐. | Come here. | Come over here. | ★ |
+| 1 | 이리 와봐. | Come here. | Come over here. | ★ | 1
 | 2 | 씀씀이를 조절해보려구요. | I'll try to control my expenditure. | I'll try to control my spending. | | 1 |
-| 3 | 그 얘기는 학년이 더 올라가면 다시 하기로 하자. | Then let's talk about it next grade. | Let's discuss it again when you're older. | ★ |
+| 3 | 그 얘기는 학년이 더 올라가면 다시 하기로 하자. | Then let's talk about it next grade. | Let's discuss it again when you're older. | ★ | 1
 
 ### 20170728 운전중휴대전화
 
@@ -99,7 +121,7 @@
 | 2 | 아들한테서 온 급한 전화였어요. | It was the emergent call from my son. | It was an emergency call from my son. | ★ |
 | 3 | 잠깐 전화한 건데요. | It was just a moment. | It was a short call. | ★ |
 | 4 | 그래도 그건 불법입니다. | It's illegal anyway. | That's still illegal. | ★ |
-| 5 | 이번만 봐주세요. | Forgive me this time, please. | Please, let it go this time. | ★ |
+| 5 | 이번만 봐주세요. | Forgive me this time, please. | Please, let it go this time. | ★ | 1
 
 ### 20170721 해수사우나
 
@@ -117,9 +139,9 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 얼마나 기다리셨어요? | How long did you wait? | How long have you been waiting? | ★ |
 | 2 | 방금 왔어요. | I just got arrived now. | I just got here. | ★ |
-| 3 | 아침 먹으러 2층으로 올라가시죠. | Let's go to second floor to have a breakfast | Let's go up to the second floor for breakfast. | ★ |
-| 4 | 저기 있는 계단으로 올라가면 되겠네요. | We may use the stair over there. | We can take the stairs over there. | ★ |
-| 5 | 잘 주무셨어요? | Did you sleep well? | How did you sleep? |  |
+| 3 | 아침 먹으러 2층으로 올라가시죠. | Let's go to second floor to have a breakfast | Let's go up to the second floor for breakfast. | ★ | 1
+| 4 | 저기 있는 계단으로 올라가면 되겠네요. | We may use the stair over there. | We can take the stairs over there. | ★ | 1
+| 5 | 잘 주무셨어요? | Did you sleep well? | How did you sleep? |  | 1
 | 6 | 푹 잘 잤습니다.  | I slept very well. | I slpet like a baby | ★ |
 
 
@@ -131,7 +153,7 @@
 | 2 | 어디가 안 좋니? | Do you have any problem? | What's wrong? |  |
 | 3 | 약을 좀 줄게. | I'll give you some pills. | I'll give you some medicine. | ★ |
 | 4 | 이 약 먹고 침대에 누워서 쉬어. | Take these pills and lie down the bed to get some rest. | Take this medicine and rest in bed. | ★ |
-| 5 | 운동은 꼭 하도록 해. | I recommend you to work out. | Don't forget to exercise. | ★ |
+| 5 | 운동은 꼭 하도록 해. | I recommend you to work out. | Don't forget to exercise. | ★ | 1
 | 6 | 그렇게 할게요.  | I'll do that. | I'll try | ★ |
 
 
@@ -141,19 +163,19 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 딱 좋았어. | It's just good. | That hit the spot. | ★ |
 | 2 | 좋아. | Alright. | Sounds good. |  |
-| 3 | 다시 회의 할까? | Sould we start the meeting again? | Shall we get back to the meeting? | |
+| 3 | 다시 회의 할까? | Sould we start the meeting again? | Shall we get back to the meeting? | | 1
 | 4 | 우리 이 회의 4시에 끝내는 게 어때? | How about finishing this meeting at 4? | How about we finish this meeting by 4? | ★ |
 | 5 | 시간 제한을 두는 게 도움이 될 거야. | It would be helpful to make a deadline. | It will be helpful to set a time limit. | ★ |
 | 6 | 벌써 3시 20분이네. | It's already 20 minutes to 3. | It's three twenty already. | ★ |
-| 7 | 우리 이 주제에 시간 얼마나 썼지? | How much did we spend the time on this topic? | How much time did we spend on this topic? | ★ |
-| 8 | 1시간 반 정도? | About one and a half? | About an hour and a half? | ★ |
+| 7 | 우리 이 주제에 시간 얼마나 썼지? | How much did we spend the time on this topic? | How much time did we spend on this topic? | ★ | 1
+| 8 | 1시간 반 정도? | About one and a half? | About an hour and a half? | ★ | 1
 
 
 ### 20170526 업사이클링
 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 업사이클링으로 물건 두 개 만들었어. | I made two things with upcycling. | I made two different things by upcycling. | |
+| 1 | 업사이클링으로 물건 두 개 만들었어. | I made two things with upcycling. | I made two different things by upcycling. | | 1
 | 2 | 내가 환경에 도움이 되고 있는 것 같아. | I think I'm helpful to the environment. | I think I'm helping the environment | ★ |
 | 3 | 네가 쓰레기를 줄이는 데 도움을 주고 있어. | You're giving a help to reduce garbage. | You're helping cut down on waste. | ★ |
 | 4 | 텔레비전 프로그램 | television show | TV show | ★ |
@@ -168,7 +190,7 @@
 | 1 | (오후) 안녕하세요. | Hi. | Good afternoon. | |
 | 2 | 저희는 5시에 스트라스부르로 가는 기차를 탈 거에요. | We will take a train to Strassbur at 5. | We're taking the train to Strasbourg at 5. | ★ |
 | 3 | 6월 18일까지요. | By June 18th. | Until June 18th (the 18th of June) | ★ |
-| 4 | 여행 잘 하세요. | Take a good trip. | Have a nice trip. | |
+| 4 | 여행 잘 하세요. | Take a good trip. | Have a nice trip. | | 1
 
 ### 20170512 신규거래처
 
@@ -179,16 +201,16 @@
 | 3 | 공로를 인정받을 만하다. | You're deserved the credit. | You deserved the credit. | ★ |
 | 4 | 너 승진이 될 것 같아. | You will be promoted. | You will get promoted. | |
 | 5 | 정말요? | Are you serious? | Seriously? | |
-| 6 | 네가 해냈어. | You made it. | You made it happen. | ★ |
-| 7 | 네가 곧 ~할 것 같아. | I guess you will be promoted soon. | I feel like you're going to get promoted soon. | ★ |
+| 6 | 네가 해냈어. | You made it. | You made it happen. | ★ | 1
+| 7 | 네가 곧 ~할 것 같아. | I guess you will be promoted soon. | I feel like you're going to get promoted soon. | ★ | 1
 
 ### 20170428 주말뮤지컬
 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 재밌었어. | It was so fun. | I had a great time. | ★ |
-| 2 | 해설사가 마음에 들더라. | I liked the explainator. | I liked the docent. | |
-| 3 | 그 여자 박학다식하더라. | She was very brilliant. | She was so knowledgeable | ★ |
+| 2 | 해설사가 마음에 들더라. | I liked the explainator. | I liked the docent. | | 1
+| 3 | 그 여자 박학다식하더라. | She was very brilliant. | She was so knowledgeable | ★ | 1
 | 4 | 또 주말이 다가오네. | Weekend is coming again. | Another weekend is coming up. | ★ |
 | 5 | 뮤지컬 보러 갈까? | How about going to musical? | How about going to a musical? | ★ |
 
@@ -196,7 +218,7 @@
 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 모든 게 다 마음에 들더라. | Loved it all. | Liked everything. | |
+| 1 | 모든 게 다 마음에 들더라. | Loved it all. | Liked everything. | | 1
 | 2 | 너랑 와서 아주 재미있었어. | Had a fun being with you. | Had a great time with you | ★ |
 | 3 | 너는 어디서 내리지? | Where do you get off? | Where are you getting off? | |
 | 4 | 너는 거기서 갈아타야지? | Probably transfer from there? | Should transfer there? | |
