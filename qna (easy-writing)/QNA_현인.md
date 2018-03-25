@@ -1,5 +1,36 @@
 ⓒ JHI 2017
 
+### 20180225 Have you seen this movie? ###
+
+1. I want to introduce the movie titled Black Panther' I think you already watched.  
+2. I am a big fan of Marvel movie and I try to watch all marvel movies.
+3. Thefore, I watched 'Black Panther', new hero of Marvel.
+4. Black Panther is the king of Wakanda hidden area of the world.
+5. Wakanda have a advanced science technology than any other countries thanks to Vibranium, the special material that only Wakanda have. 
+6. And the king of Wakanda wears a special suit made of Vibranium.
+7. The suit absorbs the blow damage and explode the energy.
+8. The story is the same thing as the other hero movies. 
+9. However, the movie expects me of the next movie. The avengers Infitiy wars.
+10. In a trailer of the avengers, they are going to fight in Wakanda. 
+11. Theat's why the movie helps me to understand the avengers and the new hero in detail.
+12. Anyway, 'Black Pantner' is enough fun as the other marvel movies and hope you also enjoyed it.
+
+
+### 20170817 Do you have a special preference for ramyun?
+
+1. I have a special preference for ramyun whenever I eat ramuyn.
+2. I hadn't have a special recipe before I watched the 스펀지, TV show that experienced many curious things.
+3. One day, they showed me how to cook delicous ramyun when I was in middle school.  
+4. I wrote down special recipe and tried it.
+5. And I would like to share special recipe with you.
+6. First, you put one and half cups of water on the pot.
+7. Second, As soon as water boild, you put noodle first and add powder.
+8. Third, you have to until one and 15 seconds
+9. And you have to catch noodles and raise and lowser them about 30 seconds to make elastic noodles.
+10. Last, you have to turn off the light when the time becomes 2 and 30 seconds.
+11. If you cook ramyun like this recipe, you can enjoy delicious ramyun.
+
+
 ### 201700112 Have you seen this book? ###
 
 1. I would like to introduce 'the book is the ax' again.

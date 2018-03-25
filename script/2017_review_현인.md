@@ -1,6 +1,36 @@
 
 ⓒ JHI 2017
 
+### 20180126 돌아오는티켓
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 |  한 달 내에 베트남에 오신적 있나요? | 오신적 있나요, 베트남에, 한 달 내에? | Have you visited Vietnam within a month? | |  
+| 2 | 베트남에는 얼마나 계실건가요? | 얼마나, 계실건가요, 베트남에? | How long are you staying in Vietnam? | |  
+| 3 | 비자 없이 베트남에 15일 간 계실 수 있습니다 | 계실 수 있습니다, 배트남에, 15일 간, 비자 없이 | You can stay in Vietnam for fifteen days without a visa | ★ |  
+| 4 | 귀국편 항공권은 가지고 계신가요? | 가지고 계신가요, 귀국편 항공권은?  | Do you have a return ticket?  | ★ |
+
+| No. | Shuffle | Disassemble | Correct | star | count
+| :---: | :--- | :--- | :--- | :---: | :---:
+| 1 | 베트남에 비자 없이 얼마나 있을 수 있나요? | 얼마나, 있을 수 있나요, 베트남에, 비자 없이?   | How long can I stay in Vietnam without a visa?   | ★
+| 2 | 만약 한 달 내로 방문하신거면 베트남에 계실 수 없어요. | 계실 수 없어요, 베트남에, 만약, 방문하신거면, 한 달내에. | You can't stay in Vietnam if you have visited within a month | ★
+
+### 20180119 도서관책대출
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 도서대출증을 보여주세요 | 보여주세요, 도서대출증을 | show me your library card | |
+| 2| 이 책들을 언제 반납해야 하나요? | 언제, 반납해야 하나요, 이 책들을? | When should I return these books? | ★ |
+| 3 | 2월 2일까지요 | 만기는 2월 2일 입니다. | They are due on the second of February  | ★ |
+| 4 | 그때까지 언제든 연장할 수 있어요 | 연장할 수 있어요, 그때까지, 언제나 | You can renew them anytime ultil then | ★ |
+
+| No. | Shuffle | Disassemble | Correct | star | count
+| :---: | :--- | :--- | :--- | :---: | :---:
+| 1 | 도서대출증을 반납하려고 하는데요. | 반납하려고 하는데요, 도서대출증을. |  I'd like to return library card.   | |
+| 2 | 마감일이 2월 18일 이네요 | 마감일이 2월 18일 이네요 | The due date is the eighteenth of February.   | |
+| 3 | 혹시 도서대출증을 연장할 수 있나요? | 혹시, 연장할 수 있나요, 도서대출증을? | I Excuse me, Can I renew library card? |  |
+| 4 | 언제든지 연장할 수 있어요 | 연장할 수 있어요, 언제든지 | you can renew it anytime |  |
+
 ### 20180112 영어노래부르기
 
 | No. | Expression | JHI | Correct | star | count |
@@ -11,7 +41,7 @@
 | No. | Shuffle | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 말하기를 연습하는 다른 방법들을 아세요? | 그런데 아세요, 다른 방법들을, 연습하는, 말하기를? | By the way, do you know any other ways to practice speaking? | |
-| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | |
+| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | | 1
 | 3 | 노래방에 가서 영어 노래를 부르는 것도 좋은 방법이라고 들었어. | 들었어요, 좋은 방법이라고, 영어 노래를 부르는 것도, 노래방에 가서. | I heard that singing English songs at Noraebang is a also a good way. |
 | 4 | 그래요? 그럼 우리 가요, 노래방에. | 그래요? 그럼 우리 가요, 노래방에. | Is it? Then let's go to a Noraebang. |
 | 5 | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | Now? Wait, it's too early. I'm hungry. |
@@ -41,7 +71,7 @@
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 |  너무 우승하는 것만 생각하지마.  | You should not be obsessed with the winning  | Don't think too much about winning. |  |
-| 2 | 이제 필요한 게 있는지 다 확인하고 | we have to check whether we miss something or not  | Now check if we have everything we need  |  |
+| 2 | 이제 필요한 게 있는지 다 확인하고 | we have to check whether we miss something or not  | Now check if we have everything we need  |  | 1
 
 ### 20170908 야근아내허브차 ###
 
@@ -51,7 +81,7 @@
 | 2 | 우리 팀원 전부 | all of the teammates | all our team members | |
 | 3 | 커피를 가져다주다 | Do you wanna drink coffee? | get you some coffee | ★ | 2
 | 4 | 우리는 다음달에 중요한 도서전이 있다 |  we have important book competition | we have a big book fair next month  | ★ | 1
-| 5 | 성공적으로 끝내다 | to success | make it successful | ★ | 2
+| 5 | 성공적으로 끝내다 | to success | make it successful | ★ | 3
 | 6 | 이렇게 늦게 카페인을 섭취하면 잠을 못 자요 | I can't sleep to drink caffein so late | I won't fall asleep if I have caffein this late  | ★ |
 
 ### 20170901 음악선물 보답 ###
@@ -86,7 +116,7 @@
 | 2 | 뭐가 먹고 싶니? | What do you want to eat? | What are you in the mood for? | ★ |
 | 3 | 뭐든 맛있는 거요. | I like whatever something delicious | Anything yummy. | ★ |
 | 4 | 그럼 이 식당에서 해산물을 좀 먹어보자. | How about eating seafood in this restaurant? | Then let's try some seafood in this restaurant. | ★ |
-| 5 | 당신이 주차하는 동안 우리가 가서 자리잡고 있을게요. | we're gonna take a seat while parking | We'll go and get a table while you park the car. | ★ |
+| 5 | 당신이 주차하는 동안 우리가 가서 자리잡고 있을게요. | we're gonna take a seat while parking | We'll go and get a table while you park the car. | ★ | 1
 
 ### 20170811 수입제품주문
 
@@ -133,7 +163,7 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 얼마나 기다리셨어요? | How long have you been waiting? | How long have you been waiting? | ★ |
 | 2 | 아침 먹으러 2층으로 올라가시죠. | go upstairs to eat breakfast | Let's go up to the second floor for breakfast. | ★ |
-| 3 | 저기 있는 계단으로 올라가면 되겠네요. | let's use that stairs | We can take the stairs over there. | ★ |
+| 3 | 저기 있는 계단으로 올라가면 되겠네요. | let's use that stairs | We can take the stairs over there. | ★ | 1
 | 4 | 잘 주무셨어요? | Do you sleep well? | How did you sleep? |  | 2
 | 5 | 푹 잘 잤습니다.  | I got a deep sleeping | I slpet like a baby | ★ |
 
@@ -227,7 +257,7 @@
 | 1 | 의미있는 시간을 보내다 | spend meaningful time | spend some quality time| ★ | 2
 | 2 | 꼭 ~ 하세요 | Don't forget to ~ | Don't forget to ~ |  |
 | 3 | 위생적인 이유로 | for hygienic reasons | for hygienic reasons |  |
-| 4 | 집에 오다 | come to home | be home | ★ | 2
+| 4 | 집에 오다 | come to home | be home | ★ | 3
 
 
 ### 20170331 프로그램소개
