@@ -3,6 +3,63 @@
 
 ---
 
+### 20180216 우리가하는일
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 고객들이 골치아플 때가 있어요. | 고객들이 고통이 될 수 있다 | Customers can be a pain. | ★ |
+| 2 | 나는 그 사람들의 태도를 그렇게 많이 신경쓰지 않아요. | 나는 많이 신경쓰지 않는다, 그들의 태도를 | I don't think too much about their attitude | |
+
+**#01 shuffling**
+
+A: 사람들에게 물건을 파는 일이 골치아플 때가 있어요. 그게 귀찮지는 않으세요?      
+B: 음 그렇죠. 그래도 그게 우리가 하는 일이잖아요. 우리는 영업사원이니까요.  
+A: 고객들을 다루는 게 어렵지 않아요?  
+B: 나는 그 사람들의 태도를 그렇게 많이 신경쓰지 않아요. 나는 내가 하는 일에 자부심이 있어요.  
+A: 당신은 얼굴에 걱정이 없어 보여요.
+
+A: To sell things to people can be a pain. Doesn't that bother you?  
+B: Well yes. But that's what we do. We are salespeople.  
+A: Isn't it hard to deal with customers?  
+B: I don't think too much about their attitude. I'm proud of my job.  
+A: It looks like You don't have any worries.
+
+### 20180209 방과후음식
+
+**#01 "잘못 둔 상품권" 복습**
+
+A: 엄마 저 왔어요.  
+B: 오늘 너의 하루는?  
+A: 기분이 좋지 않아요. 도서관 카드를 잃어버렸거든요.  
+B: 어떻게 잃어버렸니?  
+A: 잘 모르겠어요. 체육 시간에 축구했는데 옷 갈아입다가 어디 잘못 뒀나 봐요.  
+B: 확실해?  
+A: 생각해보니까 친구들이랑 방과 후에 뭐 좀 사먹었거든요. 거기에 두고 온 것 같아요.  
+
+A: Mom, I'm home.  
+B: How was your day?  
+A: I feel bad. I lost my library card.  
+B: How did you lose it?  
+A: I don't know. We played football in P.E. and it seems like I must've misplaced it when changing clothes.  
+B: Are you sure?  
+A: Come to think of it, I grabbed some food after school with my friends. And I think I left it there.
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 오늘 어땠니? | 오늘 너의 하루는? | How was your day? | |
+| 2 | 체육 시간에 축구 했거든요. | 축구 했거든요, 체육 시간에. | We played football in P.E. | |
+| 3 | 아 잘했네. | 아 잘했네. | Oh cool. | |
+| 4 | 가서 씻고 옷 갈아 입을게요. | 가서 씻고 옷 갈아 입을게요. | I'll go wash up and change clothes.  | ★ |
+
+### 20180202 잘못둔상품권
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 생각해보니까 상품권을 잃어버렸어요. | 생각해보니까, 상품권을 잃어버렸어요. | Come to think of it, I lost a gift certificate. | |
+| 2 | 어떻게 잃어버렸니? | 어떻게 잃어버렸니? | How did you lose it? | |
+| 3 | 어디에다 잘못 둔 것 같아요. | 어디에다 잘못 둔 것 같아요. | I must've misplaced it. | ★ |
+| 4 | 그걸 잃어버리지 않았다면, 넌 돈을 더 썼을 거야. | 그걸 잃어버리지 않았다면, 넌 돈을 더 썼을지도 몰라. | If you had not lost it, you might have spent more money.  | ★ |
+
 ### 20180126 돌아오는티켓
 
 | No. | Expression | Disassemble | Correct | star | count |
@@ -207,7 +264,7 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 업사이클링으로 물건 두 개 만들었어. | I made two things with upcycling. | I made two different things by upcycling. | | 1
 | 2 | 내가 환경에 도움이 되고 있는 것 같아. | I think I'm helpful to the environment. | I think I'm helping the environment | ★ |
-| 3 | 네가 쓰레기를 줄이는 데 도움을 주고 있어. | You're giving a help to reduce garbage. | You're helping cut down on waste. | ★ |
+| 3 | 네가 쓰레기를 줄이는 데 도움을 주고 있어. | You're giving a help to reduce garbage. | You're helping cut down on waste. | ★ | 1
 | 4 | 텔레비전 프로그램 | television show | TV show | ★ |
 | 5 | 뭐에 대한 건데? | What about it? | About what? | ★ | 1 |
 | 6 | 얼마나 오염되었는지 | how it is polluted | how polluted it is | ★ |
@@ -218,8 +275,8 @@
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | (오후) 안녕하세요. | Hi. | Good afternoon. | |
-| 2 | 저희는 5시에 스트라스부르로 가는 기차를 탈 거에요. | We will take a train to Strassbur at 5. | We're taking the train to Strasbourg at 5. | ★ |
-| 3 | 6월 18일까지요. | By June 18th. | Until June 18th (the 18th of June) | ★ |
+| 2 | 저희는 5시에 스트라스부르로 가는 기차를 탈 거에요. | We will take a train to Strassbur at 5. | We're taking the train to Strasbourg at 5. | ★ | 1
+| 3 | 6월 18일까지요(내내). | By June 18th. | Until June 18th (the 18th of June) | ★ | 1
 | 4 | 여행 잘 하세요. | Take a good trip. | Have a nice trip. | | 2
 
 ### 20170512 신규거래처

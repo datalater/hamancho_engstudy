@@ -1,5 +1,34 @@
 ⓒ JHI 2017
 
+### 20180309 Have you seen this movie? ###
+
+1. Today I would like to introduce the movie titled "Be with you", in Korean 지금 만나러 갑니다.
+2. The original film is in Japan and is remaked by Korea.
+3. And the main story is that the dead wife return in rainy season and take care of the husband and her child.
+4. And They had spent happy time until the mom came back to heaven.
+5. The movie might be a liitle bit childish
+6. But I was absorbed by the mood that the movie showed me.
+7. Espescially thanks to rainy day and the voice of the main woman actor,
+8. I can focus on the movie and think of the beautiful day I will pursue.
+9. Sometimes I miss the movie and am going to watch the movie when it is raining.  
+
+
+
+### 20180302 What was most serious lie you've ever done? ###
+
+1. The most serious lie I'ver ever done is I'm trying to find the job for you in the company.
+2. Frankly speaking, I was trying to be honest man and almost didn't lie before entering the company.
+3. However, After I got a job, I have to meet many people and handle lots of work.
+4. So it is not easy to provide man-to-man service for every customer.
+5. Sometimes, the customer called me and asked did you find the for me?
+6. And I said Yes, but it is not easy to find customized for you. 
+7. Thay's why I didn't call you, I'm sorry. I'll call you back after finding the job.
+8. I think it happened many times for 9 months. And it will happen more than before.
+9. I realized that it was hard to live without lies.
+10. Although it is hard to live without lies, I live hard and try to be a honest man.  
+
+
+
 ### 20180225 Have you seen this movie? ###
 
 1. I want to introduce the movie titled Black Panther' I think you already watched.  

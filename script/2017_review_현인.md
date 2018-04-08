@@ -1,14 +1,79 @@
 
 ⓒ JHI 2017
 
+### 20180216 우리가 하는 일
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 사람들에게 물건파는 일이 어렵지 않나요? | 어렵지 않나요, 물건파는 일이, 사람들에게?  | Isn't it hard to sell the products to people?  | |  |
+| 2 | 고객들이 골치 아플때가 있어요 | 골치 아플때가 있어요, 고객들이 |   Customers can be a pain  | |  |
+| 3 | 나는 그 사람들의 태도를 많이 신경쓰지 않아요 | 나는, 신경쓰지 않아요, 많이, 사람들의 태도를 |  I don't think too much about their attitude.  | |  |
+
+**#01 이직을 준비하는 사원**  
+
+A: 모르는 사람과 어울리는 게 어렵지 않나요?  
+B: 맞아요. 상담하는게 가끔 골치 아플 때가 있어요.  
+   하지만 그게 우리가 하는 일이잖아요.  
+A: 그게 힘드네요. 저는 이직 준비를 해야겠어요. 제 자신과 약속이 마음에 걸리네요.  
+B: 알겠어요. 당신의 태도가 자랑스럽습니다.             
+
+
+A: Isn't it hard to get along with unfamilar people?  
+B: Alright. Sometimes counseling with them can be a pain.
+   But that's what we do.      
+A: But it bothers me. I have to prepare for changing jobs.
+   I think too much about promise with myself.  
+B: It's OK. I am proud of your attitude.         
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 모르는 사람과 어울리는 게 어렵지 않나요? | 어렵지 않나요, 어울리는게, 모르는 사람과? | Isn't it hard to get along with unfamilar people? | | |
+| 2 | 하지만 그게 우리가 하는 일이잖아요 | 하지만, 그게 일이잖아요, 우리가 하는 |  But that's what we do | | |
+
+
+### 20180209 방과후음식
+
+**#01 고기가 먹고 싶은 아들**  
+
+A: 엄마, 배고파요. 간식먹어요.  
+B: 알겠어. 생각해보니 고기가 없네.  
+A: 한 달 동안 야채만 억지로 먹었잖아요.  
+B: 알겠어. 니가 씻는동안 마트 가서 장 볼게.            
+
+
+A: Mom, I'm hungry. Let's go grab a bite.  
+B: Alright. Come to think of it. We don't have a meat.  
+A: I was fored to eat vegetables for a month.  
+B: Ok, I'll go shopping while you wash up.
+
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 가서 씻고 옷 갈아입을게요 | 가서 씻고, 옷 갈아입을게요  | I'll go wash up and change clothes  | |  |
+| 2 | 가서 씻고 옷 갈아입을게요 | 학교끝나고 친구들이랑 뭐 좀 먹었어요  |I grabbed some food after school with my friends  | |  |
+
+### 20180202 잘못둔상품권
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 생각해보니까 제가 상품권을 잃어버렸어요. | 생각해보니까, 제가, 잃어버렸어요, 상품권을  | Come to think of it. I lost gift certificate.  | ★ |   |
+| 2 | 어디다가 잘못둔 것 같아요 | 잘못둔 것 같아요, 어디다가  |  I must've misplaced it | |   |
+| 3 | 그걸 잃어버리지 않았다면 너는 돈을 더 썼을거야 | 잃어버리지 않았다면, 그걸, 너는 더 썼을거야, 돈을 | If you had not lost it, you might've spent more money | |   |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 다음에는 반드시 제 자리에 둬라 | 반드시, 제 자리에 둬라, 다음에는 |  Don't forget to put it back in its place next time | ★ | 1 |
+
+
+
 ### 20180126 돌아오는티켓
 
 | No. | Expression | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 |  한 달 내에 베트남에 오신적 있나요? | 오신적 있나요, 베트남에, 한 달 내에? | Have you visited Vietnam within a month? | |  
-| 2 | 베트남에는 얼마나 계실건가요? | 얼마나, 계실건가요, 베트남에? | How long are you staying in Vietnam? | |  
+| 2 | 베트남에는 얼마나 계실건가요? | 얼마나, 계실건가요, 베트남에? | How long are you staying in Vietnam? | | 1
 | 3 | 비자 없이 베트남에 15일 간 계실 수 있습니다 | 계실 수 있습니다, 배트남에, 15일 간, 비자 없이 | You can stay in Vietnam for fifteen days without a visa | ★ |  
-| 4 | 귀국편 항공권은 가지고 계신가요? | 가지고 계신가요, 귀국편 항공권은?  | Do you have a return ticket?  | ★ |
+| 4 | 귀국편 항공권은 가지고 계신가요? | 가지고 계신가요, 귀국편 항공권은?  | Do you have a return ticket?  | ★ | 1
 
 | No. | Shuffle | Disassemble | Correct | star | count
 | :---: | :--- | :--- | :--- | :---: | :---:
@@ -21,14 +86,14 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 도서대출증을 보여주세요 | 보여주세요, 도서대출증을 | show me your library card | |
 | 2| 이 책들을 언제 반납해야 하나요? | 언제, 반납해야 하나요, 이 책들을? | When should I return these books? | ★ |
-| 3 | 2월 2일까지요 | 만기는 2월 2일 입니다. | They are due on the second of February  | ★ |
-| 4 | 그때까지 언제든 연장할 수 있어요 | 연장할 수 있어요, 그때까지, 언제나 | You can renew them anytime ultil then | ★ |
+| 3 | 2월 2일까지요 | 만기는 2월 2일입니다. | They are due on the second of February  | ★ | 1
+| 4 | 그때까지 언제든 연장할 수 있어요 | 연장할 수 있어요, 그때까지, 언제나 | You can renew them anytime until then | ★ |
 
 | No. | Shuffle | Disassemble | Correct | star | count
 | :---: | :--- | :--- | :--- | :---: | :---:
 | 1 | 도서대출증을 반납하려고 하는데요. | 반납하려고 하는데요, 도서대출증을. |  I'd like to return library card.   | |
 | 2 | 마감일이 2월 18일 이네요 | 마감일이 2월 18일 이네요 | The due date is the eighteenth of February.   | |
-| 3 | 혹시 도서대출증을 연장할 수 있나요? | 혹시, 연장할 수 있나요, 도서대출증을? | I Excuse me, Can I renew library card? |  |
+| 3 | 혹시 도서대출증을 연장할 수 있나요? | 혹시, 연장할 수 있나요, 도서대출증을? | Excuse me, Can I renew library card? |  |
 | 4 | 언제든지 연장할 수 있어요 | 연장할 수 있어요, 언제든지 | you can renew it anytime |  |
 
 ### 20180112 영어노래부르기
@@ -41,7 +106,7 @@
 | No. | Shuffle | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 말하기를 연습하는 다른 방법들을 아세요? | 그런데 아세요, 다른 방법들을, 연습하는, 말하기를? | By the way, do you know any other ways to practice speaking? | |
-| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | | 1
+| 2 | 예를 들면 영어 노래를 부르는 것처럼 다른 방법으로 영어를 연습하니까 훨씬 더 재미있어. | 훨씬 더 재미있다, 연습하니까 영어를, 다른 방법으로. 예를 들면, 영어 노래를 부르는 것. | It's much more enjoyable to practice English in other ways like singing English songs. | | 2
 | 3 | 노래방에 가서 영어 노래를 부르는 것도 좋은 방법이라고 들었어. | 들었어요, 좋은 방법이라고, 영어 노래를 부르는 것도, 노래방에 가서. | I heard that singing English songs at Noraebang is a also a good way. |
 | 4 | 그래요? 그럼 우리 가요, 노래방에. | 그래요? 그럼 우리 가요, 노래방에. | Is it? Then let's go to a Noraebang. |
 | 5 | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | 지금요? 어 잠깐만요. 너무 이른데요. 배고파요. | Now? Wait, it's too early. I'm hungry. |
@@ -54,7 +119,7 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 재밌게 놀았니? | Did you have a good time? | Did you have fun?  |  |
 | 2 | 여기 또 오고 싶어요 | I wanna come here again  | I'd love to come here again |  |
-| 3 | 지막으로 언제 봤는지 기억나니? | Do you remember when did you see last time? | Can you remember when you last saw it?  |  |
+| 3 | 마지막으로 언제 봤는지 기억나니? | Do you remember when did you see last time? | Can you remember when you last saw it?  |  | 1
 
 
 ### 20171229 좋은 이름 생각 ###

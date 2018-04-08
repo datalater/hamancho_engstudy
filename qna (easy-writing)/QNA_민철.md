@@ -3,6 +3,45 @@
 
 ---
 
+### 20180408 영화소개 :: Ready Player One
+
+1. Today I'm gonna introduce the movie 'Ready Player One'.
+2. `movie info` In the year 2045, people can escape their harsh reality in the OASIS, an immersive virtual world where you can go anywhere, do anything, be anyone-the only limits are your own imagination. OASIS creator James Halliday left his immense fortune and control of the Oasis to the winner of a contest designed to find a worthy heir. When unlikely hero Wade Watts conquers the first challenge of the reality-bending treasure hunt, he and his friends-known as the High Five-are hurled into a fantastical universe of discovery and danger to save the OASIS and their world.
+3. Generally it feels like watching game videos.
+4. You know when you start the STARCRAFT there is a trailer that shows the history of how the three tribes begin to war.
+5. The advantage is this movie paradied some famous scenes from other movies like Stanly Kubrick's Shining and it was enjoyble to watch to spectators who already knew or seen that movie.
+6. And another good point was it's computer graphic quality was awesome. It was really vivid.
+6. The disadvatange is its story line was too simple so the villain is just villain and hero is just the hero so the relationship between chracteres are so expectable
+7. And furthermore lots of events which happend in the film were highly improbable.
+7. Like when the heroine got into the villans company there are no secuity system that can catch intruder although the company is second largest IT company in the world.
+8. The most important thing that I care about when watching films is how much the events have great relationship between cause and effect.
+9. So consequently I'll give the movie 2.5 stars out of five.
+
+
+### April Fool's Day :: The harshest lie I've ever done?
+
+1. Basically I believe I'm not a man who lies often.
+2. Because technically I don't like lies and I can't hide lies well, my face just tells my mind.
+3. But in my memory something came up to my mind.
+4. I was in the middle school, my age was 15 or 16.
+5. At that time I was dating my girlfriend.
+6. But I wasn't serious with her and actually my heart was directed to another girl, so I decided to break up with her.
+7. But I couldn't tell her the truth that I have someone I like.
+8. So I just told her "I'm sorry I don't like you anymore."
+9. And that's the harshest lie I've ever done.
+
+한글
+
+1. 기본적으로 나는 믿는다, 나는 어떤 사람이 아니다, 자주 거짓말을 하는.
+2. 왜냐하면 말하자면 나는 거짓말을 좋아하지 않고 거짓말을 잘 숨기지 못하고, 얼굴에서 마음이 드러난다.
+3. 그런데 내 기억속에 어떤 게 떠올랐다.
+4. 나는 중학생이었고 15에서 16살이었다.
+5. 그때 나는 데이트 하는 여자친구가 있었다.
+6. 그러나 그녀와 진지한 사이가 아니었고 사실 내 마음은 다른 여자에게 가 있어서 그녀와 헤어지기로 결정했다.
+7. 그러나 내가 누군가를 좋아한다는 사실을 말할 수 없었다.
+8. 그래서 나는 너를 더 이상 좋아하지 않는다고 말했다.
+9. 그게 내가 한 가장 심한 거짓말이다.
+
 ### 20170817 Do you have a special preference for ramyun?
 
 1. I didn't have a special preference for ramyun until I become a college student.
