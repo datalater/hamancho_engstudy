@@ -1,5 +1,23 @@
 ⓒ JHI 2017
 
+### 20180309 Have you seen this movie? session2  ###
+
+1. Today I would like to introduce the movie titled "지금 만나러갑니다".
+2. There are two reasosns I decided to watch this movie
+3. First, I have liked 손예진 since I watched the "첫사랑사수궐기대회" in 2003.
+4. Second, It's been a so long time to watch the romantic movie. 
+5. For these reasons, I watched that movie.
+6. Fransly speaking, before I saw the movie, I worried about the mood that the original film showed in Japan.
+7. Because some people said that the original film is better than the remaked one.
+5. But after watching that movie, I think it is enough good movie although I don't watch the original film.
+6. The reason is that this movie is also enough to show the mood, just watching rainy day and 손예진
+7. I think 손예진 has the unique mood and the vocie that only she has.
+7. And 소지섭 also expressed well his dedicated and romantic husband role different from his own image.
+8. Because I didn't watch the 소지섭's romantic film.
+9. It is going to be rainy season soon.
+10. If you would like to meet the touching mind when raining day,
+11. this movie is appropriate for this season.
+
 ### 20180309 Have you seen this movie? ###
 
 1. Today I would like to introduce the movie titled "Be with you", in Korean 지금 만나러 갑니다.

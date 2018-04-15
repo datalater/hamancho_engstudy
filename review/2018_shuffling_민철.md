@@ -2,6 +2,32 @@
 
 ---
 
+### 20180223 티켓에 네 이름
+
+**original**
+
+A: 아 이런 내가 무슨 생각을 한거야. 왜 내가 내 성을 적어 넣은 거지?  
+B: 그래. 새 티켓은 받았어?  
+A: 아니 아직. 여기 있다. 방금 확약서 받았어. 이제 티켓이 네 이름으로 되어 있네. 백 유로만 내면 돼.   
+
+A: 아 이런 내가 무슨 생각을 한거야. 왜 내가 적어 넣었지 내 성을?  
+B: 그래. 새 티켓은 받았어?  
+A: 아니 아직. 여기 있다. 방금 확약서 받았어. 이제 티켓이 네 이름으로 되어 있네. 백 유로만 내면 돼.   
+
+A: Oh no. What was I thinking? Why did I put in my last name?  
+B: So, did you get a new ticket?  
+A: No, not yet. It's here. I just got a confirmation. The ticket is in your name now. We just have to pay 100 euros.  
+
+**#01 shuffling**
+
+A: 아 이런 내가 무슨 생각을 한거야. 왜 내가 적어 넣었지 네 성을?  
+B: 그래. 확약은 받았어?  
+A: 아니 아직. 여기 있다. 이제 티켓이 네 이름으로 되어 있네. 백 유로만 내면 돼.
+
+A: Oh no. What was I thinking? Why did I put in your last name?  
+B: So, did you get a confirmation?  
+A: No, not yet. It's here. The ticket is in your name now. We just have to pay 100 euros.
+
 ### 20180112 영어 노래 부르기
 
 **original**

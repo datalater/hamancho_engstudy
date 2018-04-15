@@ -3,6 +3,15 @@
 
 ---
 
+### 20180223 티켓에네이름
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아 이런 내가 무슨 생각을 한거야? | 아 이런 내가 무슨 생각을 한 거야? | Oh no. What was I thinking? | ★ |
+| 2 | 왜 내가 내 성을 적어 넣은 거지? | 왜 내가 적어 넣었지 내 성을? | Why did I put in my last name? | ★ |
+| 3 | 방금 확약서 받았어. | 방금 확약 받았어 | I just got a confirmation.  |   |
+| 4 | 백 유로만 내면 돼.  | 백 유로들만 내면 돼. | We just have to pay 100 euros.  |   |
+
 ### 20180216 우리가하는일
 
 | No. | Expression | Disassemble | Correct | star | count |
