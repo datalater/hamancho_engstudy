@@ -3,6 +3,35 @@
 
 ---
 
+### 20180420 몇명이나
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 저 내일 공항 가는 셔틀을 예약할 수 있을까요? | 저 예약할 수 있을까요, 셔틀을, 공항 가는 길을 내일? | Can I reserve a shuttle to the airport tomorrow? | ★ |
+| 2 | 비행기가 몇 시 출발이죠? | 비행기가 몇 시죠? | What time is your flight? | ★ |
+| 3 | 그럼 늦어도 7시 10분쯤에는 셔틀을 타셔야겠네요. | 그럼 셔틀을 타야겠네요 7시 10분쯤에 늦어도 | Then you should take the shuttle around seven ten at the latest | ★ |
+| 4 | 몇 분이시죠? | 몇 분이시죠? | For how many people? |  |
+| 5 | 저 혼자에요. | 저 혼자에요. | Just myself. | ★ |
+
+### 20180413 마지막에취소
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 이번 주말에 뭐 할거야? | 뭐 할 계획이야, 주말에? | What are your plans for the weekend? | ★ |
+| 2 | 아마 밀린 잠이나 잘까해. | 아마 따라 잡으려고 해 밀린 잠을. | Maybe I'm going to catch up on my sleep. | ★ |
+| 3 | 가족 모임이 있다고 하지 않았어? | 있다고 하지 않았어, 가족 모임이? | Didn't you say that you have a family get-together? |   |
+| 4 | 근데 막판에 취소 되었어. | 근데 취소 되었어 막판에. | But it was canceled at the last minute. |  |
+| 5 | 누나가 못 온대. | 누나가 말하길 못 온대. | My older sister said she couldn't make it. | ★ |
+
+### 20180406 그가행복하길
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아들 전학시키는 것은 괜찮았어? | 괜찮았어, 아들 전학시키는 것? | Was it easy to have your son transferred? | ★ |
+| 2 | 음 그게 솔직히 좀 쉬운 결정이었어. | 음 그게 솔직히 좀 쉬운 결정이었어. | Well honestly it was kind of an easy decision. | ★ | 1
+| 3 | 새 학교에서는 어때? | 어때 새 학교에서? | How about at the new school? |   |
+| 4 | 지금까지는 잘 지내고 있어. | 잘 지내고 있어 지금까지는. | He's been doing okay so far. |  |
+
 ### 20180223 티켓에네이름
 
 | No. | Expression | Disassemble | Correct | star | count |
@@ -154,7 +183,7 @@ A: Come to think of it, I grabbed some food after school with my friends. And I 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 오늘 너무 오랫동안 일을 했네요. | You've worked for a long time today. | You worked so long today. | ★ | 2
-| 2 | 그러게요. | You're right. | You can say that again. | ★ |
+| 2 | 그러게요. | You're right. | You can say that again. | ★ | 1
 | 3 | 사실 다음 달에 중요한 도서전이 있거든요. | Actually I have an important book concert next month. | Actually we have a big book fair next month. | ★ | 1
 | 4 | 그래서 우리 팀원 전부가 그거 성공시키려고 집중하고 있어요. | So all team members are trying hard to make it successful. | So all our team members are focusing to make it successful. | ★ | 3
 | 5 | 그렇군요. 커피 좀 갖다줄까요? | Alright. You need some coffee? | I see. Do you want me to get you some coffee? | ★ | 2
@@ -166,7 +195,7 @@ A: Come to think of it, I grabbed some food after school with my friends. And I 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: |:---: |
 | 1 | 좋아요. 이지 씨는요? | I'm good. What about you, Eazy? | Pretty good. Yourself? | ★ |
-| 2 | 저기 혹시 제가 드린 음악은 들어보셨나요? | Well, have you heard of the music I gave to you? | So, did you happen to listen to the music I gave you? | ★★ | 1
+| 2 | 저기 혹시 제가 드린 음악은 들어보셨나요? | Well, have you heard of the music I gave to you? | So, did you happen to listen to the music I gave you? | ★★ |2
 | 3 | 노래들이 다 아주 편안하더라고요 | All songs are comfortable. | All songs were so relaxing. | ★ |
 | 4 | 어, 안 그러셔도 되는데. | Oh, you don't have to. | Oh, you shouldn't have. | ★ | 1
 
@@ -174,12 +203,12 @@ A: Come to think of it, I grabbed some food after school with my friends. And I 
 
 | No. | Expression | JMC | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: |:---: |
-| 1 | 빨리 이 식당에 가보고 싶다. | I'm really looking forward to going to this restaurant quick. | I'd love to **try** this restaurant soon. | ★ |
-| 2 | 그래 가봐. | Yeah, you should go. | Go for it. | ★ |
+| 1 | 빨리 이 식당에 가보고 싶다. | I'm really looking forward to going to this restaurant quick. | I'd love to **try** this restaurant soon. | ★ | 1
+| 2 | 그래 가봐. | Yeah, you should go. | Go for it. | ★ | 1
 | 3 | 전자기기를 충전할 수 있게 탁자마다 콘센트도 있고. | And every table has a consent to charge electronics. | They also have outlets at every table to charge your electronic devices | ★★ | 2
 | 4 | 정말 편리하다. | It's so comfortable. | How handy! |  | 1
 | 5 | 이런 식당들 중 어떤 곳에는 탁자에 태블릿 PC도 있다니까. | Some of them has a tablet PC per every table. | At some of these restaurants, they have tablets on the tables. | ★★ | 3
-| 6 | 혼자 밥을 먹는 사람들이 온라인으로 소통할 수 있게? | Those who eat meals alone can communicate online? | So that solo diners can socialize online? | ★ | 2
+| 6 | 혼자 밥을 먹는 사람들이 온라인으로 소통할 수 있게? | Those who eat meals alone can communicate online? | So that solo diners can socialize online? | ★ | 3
 
 ### 20170818 식사가는이지
 

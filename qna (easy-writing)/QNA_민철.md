@@ -3,7 +3,18 @@
 
 ---
 
-### 20180408 영화소개 :: Ready Player One
+### 20180413 영화 관람평 :: Avengers Infinity War
+
+1. First of all, I'll give it four stars out of five.
+2. I can tell you three good things.
+3. First, the most impressive character in this episode was Thor, which is my favorite character in Marvel.
+4. So it was very fun to watch Thor being powerful.
+5. Second, I like all the characters in Guardians of Galaxy and mixing them into the Avengers story wasn't unnatural at all.
+6. I want to give a big hand to the director's ability to give every single characters its own personality and make them in harmony in one episode.
+7. And the last one is how the movie finished its story.
+8. It was overwhelming because nobody expected that a lot of Avengers characters would disappeared in the end.
+
+### 20180408 영화 소개 :: Ready Player One
 
 1. Today I'm gonna introduce the movie 'Ready Player One'.
 2. `movie info` In the year 2045, people can escape their harsh reality in the OASIS, an immersive virtual world where you can go anywhere, do anything, be anyone-the only limits are your own imagination. OASIS creator James Halliday left his immense fortune and control of the Oasis to the winner of a contest designed to find a worthy heir. When unlikely hero Wade Watts conquers the first challenge of the reality-bending treasure hunt, he and his friends-known as the High Five-are hurled into a fantastical universe of discovery and danger to save the OASIS and their world.

@@ -1,5 +1,41 @@
 ⓒ JHI 2017
 
+### 20180413 What are your review on Avengers Infinity War ###
+1. I was really really looking forward to watching Avengers Infinity War for a long time.
+3. And after watching it, The movie was interested and also shocking me for two reasons.
+4. First, I feel like I'm in the movie because I watched the movie through IMAX 3d.
+5. I was overwhelmed by the big scale when many heroes fought against the Thanos.
+6. They fought in the earth, nowhere and other planets.
+7. Just watching the big fighting scene, the movie satisfed me.
+8. And I was also shocked by the last 10 minute scene because it was beyond my expectation.
+9. I expected that Captain America or Iron man will be dead.
+10. The director and the magazine said there will be shocking dead in this movie.
+11. So many people including me predicted that the main hero will be dead.
+12. However, it was wrong. 
+13. Except for Captain America and Iron man, many heroes became dust and gone.
+14. That's why I was shocked and I couldn't believe their death.
+15. And I can't wait the next year and really expect the next story.
+16. So I would like to give 4.5 star on Avengers Infinity War.   
+
+
+
+### 20180406 How do you releive stress? ###
+
+1. There are many ways for me to relieve stress.
+2. I would like to say two main things to ruduce stress.
+3. First, I go to baseball baseball stadium in weekeds.
+4. As you know, Sajik stadium is famous for passionate cheer.
+5. So I can yell with many people and relieve stress.
+6. Although it was very tired and exhausted after game, I felt like all of stress was out from my body.
+7. Second, I enjoy playing soccer game after work.
+8. I can't go baseball stadium everyday.
+9. So I have to find the way I can do everyday to relieve stress.
+10. And I decide to play 1 or 2 soccer games. It helps me to reduce kind of stress.
+11. In addition to these things, I also enjoy watching movie and TV shows.
+12. However, I think it'll be also good to find to do physical activities such as squash and tennis.
+13. In conclusion, there are two main ways for me go to the baseball stadium and play soccer game to reduce stress. 
+
+
 ### 20180309 Have you seen this movie? session2  ###
 
 1. Today I would like to introduce the movie titled "지금 만나러갑니다".
@@ -9,14 +45,14 @@
 5. For these reasons, I watched that movie.
 6. Fransly speaking, before I saw the movie, I worried about the mood that the original film showed in Japan.
 7. Because some people said that the original film is better than the remaked one.
-5. But after watching that movie, I think it is enough good movie although I don't watch the original film.
-6. The reason is that this movie is also enough to show the mood, just watching rainy day and 손예진
-7. I think 손예진 has the unique mood and the vocie that only she has.
+5. But after watching that movie, I realize it is also good movie although I don't watch the original film.
+6. The reason is that this movie also shows the touching mood, just watching rainy day and 손예진
+7. I think 손예진 has the unique mood and vocie that only she has.
 7. And 소지섭 also expressed well his dedicated and romantic husband role different from his own image.
 8. Because I didn't watch the 소지섭's romantic film.
 9. It is going to be rainy season soon.
-10. If you would like to meet the touching mind when raining day,
-11. this movie is appropriate for this season.
+10. If you would like to miss the sadness when raining day,
+11. I'm sure this movie is appropriate for this season.
 
 ### 20180309 Have you seen this movie? ###
 

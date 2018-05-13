@@ -1,6 +1,55 @@
 
 ⓒ JHI 2017
 
+### 20180420 얼마나많은사람 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 저 내일 공항가는 셔틀을 예약할 수 있을까요? | 예약할 수 있을까요, 셔틀을, 공항가는, 내일?  | Can I reserve a shuttle to the airport tomorrow? | ★ |  |
+| 2 | 비행기가 몇 시 출발이죠? | 몇 시 출발이죠, 비행기가?  | what time is your flight? | ★ |  |
+| 3 | 그럼 늦어도 7시 10분쯤에는 셔틀을 타셔야겠네요. | 그럼 타셔야겠네요, 셔틀을, 7시 10분쯤에는, 늦어도. |Then you should take the shuttle around 7 10 at the latest. | ★ |  |
+
+
+### 20180413 마지막에취소 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아마 밀린 잠이나 잘까해. | 아마 밀린 잠이나 잘까해. | Maybe I'm going to catch up on my sleep. | ★ |  |
+| 2 | 가족모임이 있다고 하지 않았니? | 하지 않았니, 가족모임이 있다고? | Didn't you say that you have a family get-together? | ★ |  |
+| 3 | 누나가 못 온대. | 못 온대, 누나가. | My older sister said she couldn't make it. | ★ |  |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 야근때문에 내가 못 갈 것 같아서 미리 취소했어 | 미리 취소했어, 내가 못 갈 것 같아서, 야근때문에. |  I canceled it in advance because I couldn't make it due to overtime work. | ★ | |
+| 2 | 노쇼가 될 순 없지 |될 순 없지, 노쇼가. |  I can't be a no show | ★ | |
+| 3 |내가 낼게 | 내가 낼게 | I'll treat you | ★ | |
+
+
+### 20180406 그의행복바람 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아들 전학시키는 건 괜찮았어? | 괜찮았어, 아들 전학시키는 건? | Was it easy to have your son transferred?  | ★ |  |
+| 2 | 그게 솔직히.. 좀 쉬운 결정이었어 | 그게 솔직히.. 좀 쉬운 결정이었어 |  Well... honestly, it was kind of easy decision  | ★ |  |
+| 3 | 지금까지는 잘 지내고 있어 | 잘 지내고 있어, 지금까지는 | He's been doing ok so far |  |  |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 일 그만두고 새로운 일자리 찾는건 괜찮았어? | 괞찮았어, 일 그만두고 새로운 일자리 찾는건?  | Was it easy to quit your job and get a new one? | ★ | |
+
+### 20180213 티켓에네이름 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 내가 무슨 생각을 한거야? | 내가 무슨 생각을 한거야?| What was I thinking?  | ★ |  |
+| 2 | 왜 내가 내 성을 적어 넣은거지? | 왜 내가 적어 넣은거지, 내 성을? | Why did I put in my last name?  | |  |
+| 3 | 방금 확약서 받았어 | 받았어, 방금, 확약서 | I just got a confirmation  | ★ |  |
+
+| No. | Shuffle | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 내가 네 이름 대신에 내 성을 적어 넣었네 | 내가, 적어 넣었네, 내 성을, 대신에, 네 이름.  | I put in my last name instead of your first name | | |
+
+
 ### 20180216 우리가 하는 일
 
 | No. | Expression | Disassemble | Correct | star | count |
@@ -50,7 +99,7 @@ B: Ok, I'll go shopping while you wash up.
 | No. | Expression | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 가서 씻고 옷 갈아입을게요 | 가서 씻고, 옷 갈아입을게요  | I'll go wash up and change clothes  | |  |
-| 2 | 가서 씻고 옷 갈아입을게요 | 학교끝나고 친구들이랑 뭐 좀 먹었어요  |I grabbed some food after school with my friends  | |  |
+| 2 | 가서 씻고 옷 갈아입을게요 | 학교끝나고 친구들이랑 뭐 좀 먹었어요  |I grabbed some food after school with my friends  | | 1 |
 
 ### 20180202 잘못둔상품권
 
@@ -62,7 +111,7 @@ B: Ok, I'll go shopping while you wash up.
 
 | No. | Shuffle | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 다음에는 반드시 제 자리에 둬라 | 반드시, 제 자리에 둬라, 다음에는 |  Don't forget to put it back in its place next time | ★ | 1 |
+| 1 | 다음에는 반드시 제 자리에 둬라 | 반드시, 제 자리에 둬라, 다음에는 |  Don't forget to put it back in its place next time | ★ | 2 |
 
 
 
@@ -78,7 +127,7 @@ B: Ok, I'll go shopping while you wash up.
 | No. | Shuffle | Disassemble | Correct | star | count
 | :---: | :--- | :--- | :--- | :---: | :---:
 | 1 | 베트남에 비자 없이 얼마나 있을 수 있나요? | 얼마나, 있을 수 있나요, 베트남에, 비자 없이?   | How long can I stay in Vietnam without a visa?   | ★
-| 2 | 만약 한 달 내로 방문하신거면 베트남에 계실 수 없어요. | 계실 수 없어요, 베트남에, 만약, 방문하신거면, 한 달내에. | You can't stay in Vietnam if you have visited within a month | ★
+| 2 | 만약 한 달 내로 방문하신거면 베트남에 계실 수 없어요. | 계실 수 없어요, 베트남에, 만약, 방문하신거면, 한 달내에. | You can't stay in Vietnam if you have visited within a month | ★ | 1
 
 ### 20180119 도서관책대출
 
@@ -157,7 +206,7 @@ B: Ok, I'll go shopping while you wash up.
 | 2 | 이지 씨는요? | how about you, Eazy? | yourself? | ★ | 1
 | 3 | 저 혹시 제가 드린 음악은 들어보셨나요? | Have you ever played the music I gave? | Did you happen to listen to a music I gave you? | ★ |
 | 4 | 제가 보답으로 피클을 드리려고 만들었어요. |  I made pickle to give you in return  | I made some pickles for you in return  | ★ |
-| 5 | 안 그러셔도 되는데...  | you don't have to do that...  | you shoudn't have. | ★ | 1
+| 5 | 안 그러셔도 되는데...  | you don't have to do that...  | you shoudn't have. | ★ |2
 
 ### 20170825 헨리식당서비스 ###
 
