@@ -3,6 +3,14 @@
 
 ---
 
+### 20180427 쪼그라듦
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 이거 여자애 건가? | 이거 여자애 건가? | Is it for a little girl? | |
+| 2 | 뭐 어떡하겠어 | 글쎄 우리가 뭘 할 수 있겠어 | Well what can we do? | |
+| 3 | 실수하면서 배우는 거지 뭐. | 배우는 거지 실수로부터. | We're learning from our mistakes. | ★ |
+
 ### 20180420 몇명이나
 
 | No. | Expression | Disassemble | Correct | star | count |

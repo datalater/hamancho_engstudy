@@ -2,6 +2,37 @@
 
 ---
 
+### 20180427 쪼그라듦
+
+**original**
+
+A: 오 이런, 이 스웨터 좀 봐. 이거 여자애 건가? 쪼그라들었어.  
+B: 하하하하. 내가 그랬잖아. 따로 빨았어야 했어.  
+A: 당신 말이 맞았네. 이게 웬 낭비야. 이거 비싼 스웨터였는데.  
+B: 뭐 어떡하겠어. 실수하면서 배우는 거지 뭐.  
+
+A: 오 이런, 이 스웨터 좀 봐. 이거 여자애 건가? 쪼그라들었어.  
+B: 하하하하. 내가 그랬잖아. 따로 빨았어야 했어.  
+A: 당신 말이 맞았네. 이게 웬 낭비야. 이거 비싼 스웨터였는데.  
+B: 뭐 어떡하겠어. 배우는 거지 실수로부터.  
+
+A: Oh no, look at this sweater. Is it for a little girl? It's shrunk.  
+B: Hahaha. I told you. You should have washed it separately.  
+A: You were right. What a waste. This was an expensive sweater.  
+B: Well what can we do? We're learning from our mistakes.   
+
+**#01 shuffling**
+
+A: 오 이런, 이 스웨터 좀 봐. 이거 남자애 건가? 쪼그라들었어.  
+B: 하하하. 내가 그랬잖아. 손으로 빨았어야 했어.  
+A: 당신 말이 맞았네. 이게 웬 낭비야. 이 스웨터에 돈 많이 썼는데.  
+B: 뭐 어떡하겠어. 너무 늦었어. 그것에 대해 할 수 있는 게 없어. 배우는 거지 실수로부터.  
+
+A: Oh my, look at this sweater. Is this for a little boy? It's shrunk.  
+B: Hahaha. I told you. You should have washed it by hand.  
+A: You were right. What a waste. I spent a lot of money on that sweater.  
+B: Well what can we do? It's too late. There's nothing we can do about it. We're learning from our mistakes. 
+
 ### 20180420 몇명이나
 
 **original**

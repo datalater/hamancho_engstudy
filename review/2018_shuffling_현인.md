@@ -2,6 +2,40 @@
 
 ---
 
+### 20180427 쪼그라듦 ###
+
+**original**
+
+A: 어, 이런. 이 스웨터 좀 봐. 이거 여자애껀가. 쪼그라들었어.   
+B: 하하. 내가 그랬잖아. 따로 빨았어야 했어.     
+A: 아, 당신 말이 맞았네. 이게 웬 낭비야. 이거 비싼 스웨터였는데.   
+B: 뭐 어떡하겠어. 실수하면서 배우는거지 뭐.  
+
+A: 어, 이런. 좀 봐, 이 스웨터. 이거 여자애껀가. 쪼그라들었어.    
+B: 하하. 내가 그랬잖아. 빨았어야 했어, 따로.   
+A: 이, 당신 말이 맞았네. 이게 웬 낭비야. 이거 비싼 스웨터였는데.   
+B: 뭐 어떡하겠어. 배우는거지 뭐, 실수하면서.    
+
+A: Oh, no. Look at this swaeter. Is it for little girl?. It's shrunk.   
+B: hahaha, I told you. You should have washed it separately.    
+A: You're right. What a waste. This was an expensive swater.   
+B: Well, what can we do. We are learning from our mistakes.
+
+**#01 경기 예약을 놓쳤지만 긍정적인 친구**  
+
+A: 어, 이런. 경기 예약을 못했네.
+B: 뭐라고? 저번에 예약했다고 말했잖아.
+A: 다른 날짜였어. 다시 한 번 체크했어야 했는데...
+   엄청난 경기라서 기대했는데.
+A: 우리가 지금 할 수 있는게 없지. 시행착오를 겪으면서 배우는거지.
+
+A: Oh, no. I didn't make a reservavion.
+B: What? you said you had already done it.
+A: I found it was different date. I should've checked it once again.  
+   I expected because it must be breathtaking game.  
+A: There's nohting we can do about it now.
+   We are learning from trian and error.
+
 ### 20180420 얼마나많은사람 ###
 
 **original**

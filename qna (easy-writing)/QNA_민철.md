@@ -3,6 +3,19 @@
 
 ---
 
+### 20180427 노래 소개 :: Lost Boy, Ruth B
+
+1. Today I'm gonna introduce the song titled "Lost Boy" sung by Ruth B.
+2. I first listened to that song while I was watching a TV show "어서와 한국은 처음이지 on Spain Episode".
+3. The music was inserted when a spanish-korean man was crying.
+4. So it's kind of a sad song.
+5. Now I'll tell you about the lyrics.
+6. There is a boy who is alone.
+7. He has no one to hang out with and no place to go.
+8. Then one night someone came to him and he said 'Peter Pan, that's what they call me.'
+9. Since that day, the boy plays with Peter pan and his friends.
+10. So I want you to listen to that song now.
+
 ### 20180413 영화 관람평 :: Avengers Infinity War
 
 1. First of all, I'll give it four stars out of five.

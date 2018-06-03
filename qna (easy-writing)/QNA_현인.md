@@ -1,5 +1,19 @@
 ⓒ JHI 2017
 
+#### 20180427 Have you ever listend this song ####
+1. I would like to recommend the song titled '지나오다' by 닐로.
+2. You must listen that song because it used to be the first rank in Melon.
+2. I think I listened this song when I was in cafe about one month ago.
+3. It can be just passed like many other songs.
+4. But it didn't.
+5. The melody and lyrics came to me even when I didn't think about the song.
+6. And I found the song and posted my playlist.
+7. I think this song's lyrics is really great and the voice is appealing.
+8. That's why I keep listening this song recently.
+9. But I heard this song's rank was fabricated by the agency.
+10. And many peeple were really disappointed by this fact.
+11. Although the rank was fabricated, I think it was lucky for me to listen this song. 
+
 ### 20180413 What are your review on Avengers Infinity War ###
 1. I was really really looking forward to watching Avengers Infinity War for a long time.
 3. And after watching it, The movie was interested and also shocking me for two reasons.

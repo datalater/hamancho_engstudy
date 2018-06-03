@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+### 20180427 쪼그라듦 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 내가 그랬잖아  | 내가 그랬잖아 | I told you | ★ |  |
+| 2 | 따로 빨았어야 했어 | 빨았어야 했어, 따로 | You should have washed it separately | ★ |  |
+| 3 | 뭐 어떡하겠어 | 뭐 어떡하겠어 | Well, what can we do | ★ |  |
+| 4 | 실수하면서 배우는거지 뭐 |배우는거지 뭐, 실수하면서 | We are learning from our mistakes | ★ |  |
+
 ### 20180420 얼마나많은사람 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
