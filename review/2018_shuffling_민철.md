@@ -2,6 +2,52 @@
 
 ---
 
+### 20180504 식욕없음
+
+**original**
+
+A: 팬케이크 먹을 사람?  
+B: 저요. 냄새가 정말 좋아요 엄마.  
+C: 저는 안 먹을래요. 입맛이 없어요.  
+A: 아 그럼 죽을 끓여줄게.  
+C: 고맙습니다, 엄마.  
+A: 오늘은 학교에 갈 수 있을 것 같니?  
+C: 네 이제 몸이 좀 나아졌어요.  
+
+A: 팬케이크 원하는 사람?  
+B: 저요. 냄새가 정말 좋아요 엄마.  
+C: 저는 넘어갈게요. 입맛이 없어요.  
+A: 아 그럼 죽을 끓여줄게 너를 위해.  
+C: 고맙습니다, 엄마.  
+A: 너가 생각하기에 오늘은 학교에 갈 수 있니?  
+C: 네 이제 기분이 더 나아졌어요.  
+
+A: Who wants pancakes?  
+B: Me. They smell so good, mom.  
+C: I will pass. I don't have an appetite.  
+A: Oh, then I will make you some porridge for you.  
+C: Thank you mom.  
+A: Do you think you can go to school today?  
+C: Yep. I'm feeling better now.    
+
+**#01 shuffling**
+
+A: 초콜릿 케이크 원하는 사람?  
+B: 저요. 냄새가 정말 좋아요 엄마.  
+C: 저는 넘어갈게요. 입맛이 없어요. 속이 느글거려요.  
+A: 아 그럼 김치전을 만들어줄게 너를 위해.  
+C: 고맙습니다, 엄마.  
+A: 너가 생각하기에 오늘은 영화보러 갈 수 있니?  
+C: 네 이제 기분이 더 나아졌어요.  
+
+A: Who wants chocolate cakes?  
+B: Me. They smell so good, mom.  
+C: I will pass. I don't have an appetite. I feel nauseous.  
+A: Oh, then I will make you some Kimchi pancake for you.  
+C: Thank you mom.  
+A: Do you think you can go to a movie today?  
+C: Yep. I'm feeling better now.  
+
 ### 20180427 쪼그라듦
 
 **original**
@@ -31,7 +77,7 @@ B: 뭐 어떡하겠어. 너무 늦었어. 그것에 대해 할 수 있는 게 �
 A: Oh my, look at this sweater. Is this for a little boy? It's shrunk.  
 B: Hahaha. I told you. You should have washed it by hand.  
 A: You were right. What a waste. I spent a lot of money on that sweater.  
-B: Well what can we do? It's too late. There's nothing we can do about it. We're learning from our mistakes. 
+B: Well what can we do? It's too late. There's nothing we can do about it. We're learning from our mistakes.
 
 ### 20180420 몇명이나
 

@@ -1,7 +1,17 @@
 
-ⓒ JMC 2017
+ⓒ JMC 2017-2018
 
 ---
+
+### 20180504 식욕없음
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 팬케이크 먹을 사람? | 팬케이크 원하는 사람? | Who wants some pancakes? | |
+| 2 | 저는 안 먹을래요. | 저는 넘길게요. | I will pass. | |
+| 3 | 아 그럼 죽을 끓여줄게. | 아 그럼 죽을 끓여줄게 너를 위해. | Oh then I will make you some porridge for you. |  |
+| 4 | 오늘은 학교에 갈 수 있을 것 같니? | 너가 생각하기에 학교 갈 수 있니? | Do you think you can go to school today? | ★ |
+| 5 | 이제 몸이 좀 나아졌어요.  | 이제 기분이 더 나아졌어요. | I'm feeling better now. | ★ |
 
 ### 20180427 쪼그라듦
 

@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20180504 식욕없음 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 저는 안 먹을래요  | 저는 안 먹을래요 | I'll pass | ★ |  |
+| 2 | 아, 그럼 죽을 끓여 줄게  | 아, 그럼 끓여 줄게, 죽을 | Oh, then I'll make some porridge for you | ★ |  |
+| 3 | 입맛이 없어요  | 입맛이 없어요 | I don't have an appetite | ★ |  |
+
 ### 20180427 쪼그라듦 ###
 
 | No. | Expression | Disassemble | Correct | star | count |

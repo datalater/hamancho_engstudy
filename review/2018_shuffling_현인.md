@@ -2,6 +2,48 @@
 
 ---
 
+### 20180504 식욕없음 ###
+
+**original**
+
+A: 팬케이크 먹을 사람?   
+B: 저요. 냄새가 정말 좋아요, 엄마.    
+C: 저는 안 먹을래요. 입맛이 없어요.  
+A: 아, 그럼 죽을 끓여 줄게.    
+C: 고맙습니다, 엄마.   
+A: 오늘은 학교에 갈 수 있을 것 같니?  
+C: 네, 이제 몸이 좀 나아졌어요.  
+
+A: 먹을 사람, 팬케이크?    
+B: 저요. 냄새가 정말 좋아요, 엄마.     
+C: 저는 안 먹을래요. 입맛이 없어요.     
+A: 아, 그럼 끓여 줄게, 죽을.        
+C: 고맙습니다, 엄마.    
+A: 갈 수 있을 것 같니, 학교에, 오늘.    
+C: 네, 몸이 좀 나아졌어요, 이제.   
+
+A: Who wants pancakes?   
+B: Me. They smell so good, mom.   
+C: I'll pass. I don't have an appetite.   
+A: Oh, then I'll make some porridge for you.    
+C: Thank you, mom.    
+A: Do you think you can go to school today?  
+C: Yepp. I'm feeling better now.   
+
+**#01 치킨을 먹지 않는 친구**  
+
+A: 치킨 먹을 사람?
+B: 냄새가 정말 좋다. 근데 나는 안 먹을게.
+A: 어디 아파? 뭐 먹고 싶니?
+A: 입맛이 없어. 죽을 끓여줄 수 있겠니?
+B: 당연하지.
+
+A: Who wants chicken?
+B: It smells so good. But I'll pass.  
+A: Are you sick? What are you in the mood for?  
+B: I don't have an appetite. Do you think you can make some porridge for me?  
+A: Sure.  
+
 ### 20180427 쪼그라듦 ###
 
 **original**

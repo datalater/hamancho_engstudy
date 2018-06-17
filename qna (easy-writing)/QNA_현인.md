@@ -1,5 +1,21 @@
 ⓒ JHI 2017
 
+#### 201800504 Could you recommend the song for me? ####
+
+1. Today I would like to recommend the song titlled '봄날' by BTS.
+2. Franksly speaking, I didn't listen the song by BTS.
+3. But one day, I saw the article, saying BTS recorded high rank in billboard chart.
+4. And I wonder who BTS is.
+5. After this, I start listening many kinds of songs.
+6. Among many songs, I think '봄날' is one of the best songs in BTS.
+7. In this song, the man missed the girl left him.
+8. And keep saying, I miss you.
+9. Some day, spring day will come and wish we meet again.
+10. The reason I like this song is that Most of the songs in BTS are dance songs.
+11. Therefore, it is not easy to show their singing ability and feeling.
+12. However, 봄날 shows their ability and proves why BTS is recognized in the world.
+
+
 #### 20180427 Have you ever listend this song ####
 1. I would like to recommend the song titled '지나오다' by 닐로.
 2. You must listen that song because it used to be the first rank in Melon.
