@@ -2,6 +2,42 @@
 
 ---
 
+### 20180511 놀람
+
+**original**
+
+A: 아침에 길이 무지 막히더라구요.  
+B: 프레드 과장님, 오늘은 운전하고 오셨어요?  
+A: 네. 아르망 씨 덕분에 차가 이제 완벽해졌어요.  
+B: 아 다행이네요.  
+A: 7년은 더 이 차를 몰 수 있을 것 같아요. 아르망 씨가 차를 참 잘 고치네요. 깜짝 놀랐어요.  
+
+A: 교통이 끔찍했어요 오늘 아침.  
+B: 브래드 과장님, 운전했어요 오늘?  
+A: 네. 아르망 씨 덕분에 차가 완벽해졌어요 이제.  
+B: 기뻐요 그런 말을 들어서.  
+A: 7년은 더 이 차를 몰 수 있을 것 같아요. 아르망 씨가 차를 참 잘 고치네요. 깜짝 놀랐어요.  
+
+A: The traffic was terrible this morning.  
+B: Brad, did you drive today?  
+A: Yes. Thanks to Arman, my car is perfect now.  
+B: Glad to hear that.  
+A: I think I'll be able to drive this car for another 7 years. Arman is very good at fixing cars. I was amazed.  
+
+**#01 shuffling**
+
+A: 교통이 끔찍했어요 오늘 아침.  
+B: 브래드 과장님, 운전했어요 오늘?  
+A: 네. 근데 아르망 씨 덕분에 기분이 좋아졌어요 이제.  
+B: 기뻐요 그런 말을 들어서.  
+A: 10년은 더 아르망 씨와 일할 수 있을 것 같아요. 아르망 씨가 남들과 소통을 참 잘 하네요. 깜짝 놀랐어요.  
+
+A: The traffic was terrible this morning.  
+B: Brad, did you drive today?  
+A: Yes. but thanks to Arman, I'm feeling better now.  
+B: Glad to hear that.  
+A: I think I'll be able to work with Arman for another 10 years. Arman is very good at communicating with others. I was amazed.  
+
 ### 20180504 식욕없음
 
 **original**

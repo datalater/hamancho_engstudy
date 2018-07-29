@@ -1,5 +1,30 @@
 ⓒ JHI 2017
 
+#### 201800518 Could you recommend the song for me? ####
+1. I want to introduce the song named '어떻게 사랑이 그래요' by 이승환.
+2. Before listening this song, I only knew the '천일동안' among many 이승환's songs.
+3. And I happend to listen this song on youtube that recommend this song.
+4. In the 'hiddend singer' program, the particpants competed against them.
+5. And the original singer shows why he is the best.
+6. I also listened this song by 김나영 in 복면가왕.
+7. She was also good at singing.
+8. And like many other love songs, this also shows I miss you and please come back again.
+9. Now listen the song together.
+
+
+#### 201800511 Could you recommend the song for me? ####
+1. Today I would like to introduce the song titled '그 겨울의 찻집' by 조용필.
+2. I think most of the people may know this song.
+3. I knew the highlight of the song before listening the full song.
+4. You also might know the highlight.
+4. One day, I watched 조용필 participated in 평양 concert.
+5. And I come to know song title and sometimes listend this song.
+6. The lyrics is very short and say I missed you in the cafe in very cold winter.
+7. 조용필 called 가왕 shows sad feeling from starting to end.
+8. Especially when the song comes to the highlight, the sad becomes more deeper.
+9. I hope you listen this song thinking about the cafe far away from the city in very cold winter. 
+
+
 #### 201800504 Could you recommend the song for me? ####
 
 1. Today I would like to recommend the song titlled '봄날' by BTS.

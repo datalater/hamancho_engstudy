@@ -2,6 +2,47 @@
 
 ---
 
+### 20180511 놀람 ###
+
+**original**
+
+A: 아침에 길이 무지무지 막히더라구요.  
+B: 브레드 과장님, 오늘은 운전하고 오셨어요?    
+A: 네. 아르만씨 덕분에 차가 이제 완벽해졌어요.   
+B: 아 다행이네요.    
+A: 7년은 더 차를 몰 수 있을 것 같아요. 아르만씨가 차를 잘 고치네요.  
+  깜짝 놀랐어요.
+
+A: 길이 무지무지 막히더라구요, 아침에.  
+B: 브레드 과장님, 운전하고 오셨어요, 오늘은?    
+A: 네. 차가 완벽해졌어요 이제, 아르만씨 덕분에.   
+B: 아, 다행이네요.    
+A: 차를 몰 수 있을 것 같아요, 7년은 더. 아르만씨가 차를 고치네요, 잘.  
+  깜짝 놀랐어요.   
+
+A: The traffic was terrible this morning.  
+B: Bread, did you drive today?    
+A: Yes, thanks to arman, my car is perfect now.  
+B: Glad to hear that.
+A: I think I'll be able to drive this car for another 7 years. Arman is very good at fixing cars. I was amzed.  
+
+**#01 운전을 하지 못하는 친구**  
+
+A: 늦어서 미안해. 저녁에 길이 무지 막히더라구요.
+B: 로이, 오늘 운전하고 오셨어요?  
+A: 아니요. 앞으로 3개월은 더 운전할 수 없을 것 같아요. 저 운전을 정말 못해요.  
+B: 안타깝네요.
+A: 대중교통 덕분에 운전을 잘 못해도 불편하지는 않네요.
+B: 서울 대중교통시스템은 볼때마다 놀랍네요.   
+
+A: I'm sorry for being late. The traffic was horrible this evening.  
+B: Roy, did you drive today?  
+A: No, I think I'll not be able to drive the car for another 3 months. I am not good at driving.  
+B: Sorry to hear that.  
+A: I think it is alright although I don't drive well thanks to public transportation.
+B: Whenever I see the public transportaion system in Seoul, I was amazed. 
+
+
 ### 20180504 식욕없음 ###
 
 **original**

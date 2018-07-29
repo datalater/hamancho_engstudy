@@ -3,6 +3,15 @@
 
 ---
 
+### 20180511 놀람
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아침에 길이 무지 막히더라구요. | 교통이 끔찍했어요 오늘 아침. | The traffic was terrible this morning. | ★ |
+| 2 | 오늘은 운전하고 오셨어요? | 운전했어요 오늘? | Did you drive today? | |
+| 3 | 7년은 더 이차를 몰 수 있을 것 같아요. | 내가 생각하기에 이 차를 몰 수 있을 것 같다, 또 다른 7년 동안. | I think I'll be able to drive this car for another 7 years. | ★ |
+| 4 | 다행이네요. | 기뻐요 그런 말을 들어서. | Glad to hear that | |
+
 ### 20180504 식욕없음
 
 | No. | Expression | Disassemble | Correct | star | count |

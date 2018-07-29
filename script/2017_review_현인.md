@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20180511 놀람 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아침에 길이 무지무지 막히더라구요 | 길이 무지무지 막히더라구요, 아침에  | The traffic was terrible this morning  | ★ |  |
+| 2 | 7년은 더 차를 몰 수 있을 것 같아요  | 차를 몰 수 있을 것 같아요, 7년은 더  |  I think I'll be able to drive this car for another 7 years | ★ |  |
+| 3 | 아르만씨가 차를 잘 고치네요 | 아르만씨가 차를 고치네요, 잘  | Arman is very good at fixing cars | ★ |  |
+
 ### 20180504 식욕없음 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
