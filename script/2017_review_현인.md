@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20180518 매뉴얼 가져가기 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 제가 꼭 명심해야 할 것이 있나요? | 할 것이 있나요, 제가 꼭 명심해야?| Is there anything that I should keep in mind? | ★ |  |
+| 2 | 이 도시에서는 서행 차선으로 추월하시면 안됩니다 | 이 도시에서는, 추월하시면 안됩니다, 서행 차선으로, | In this city, you can't use the slow lane for passing | ★ |  |
+| 3 |  빨간불일 때는 우회전을 하시면 안돼요 | 우회전을 하시면 안돼요, 빨간불일 때는 | you can't turn right on red | ★ |
+
 ### 20180511 놀람 ###
 
 | No. | Expression | Disassemble | Correct | star | count |

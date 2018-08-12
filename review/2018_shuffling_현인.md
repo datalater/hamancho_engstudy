@@ -2,6 +2,48 @@
 
 ---
 
+### 20180518 매뉴얼 가져가기 ###
+
+**original**
+
+A: 제가 꼭 명심해야 할 것이 있나요?  
+B: 이 메뉴얼을 가지고 가세요. 운전하시기 전에 읽어보세요.  
+  이 도시에서는 서행 차선으로 추월하시면 안됩니다.  
+  그리고 빨간불일 때는 우회전을 하시면 안돼요.  
+A: 어, 알겠습니다. 감사합니다.    
+B: 이쪽으로 오시죠. 차를 보여드릴게요.    
+A: 이거 정말 힘이 있는 경차네요, 그렇죠?  
+
+A: 할 것이 있나요, 제가 꼭 명심해야 ?
+B: 이 메뉴얼을 가지고 가세요. 읽어보세요, 운전하시기 전에.  
+  추월하시면 안됩니다, 서행 차선으로, 이 도시에서는.  
+  그리고,  우회전을 하시면 안돼요, 빨간불일 때는.  
+A: 어, 알겠습니다. 감사합니다.  
+B: 이쪽으로 오시죠. 보여드릴게요, 차를.     
+A: 이거 정말 힘이 있는 경차네요, 그렇죠?    
+
+A: Is there anything that I should keep in mind?   
+B: Take this manual with you. Read it before you start driving.  
+  In this city, you can't use the slow lane for passing.  
+  And you can't turn right on red.    
+A: Oh, I see. Thank you.   
+B: Please come this way. I'll show you your car.    
+A: It's a very powerful compact car, right?  
+
+**#01 인턴으로 회사에 온 사원**  
+
+A: 제가 꼭 명심해야 할 사항이 있나요?
+B: 이 매뉴얼을 가지고 가세요. 회의 참석하기 전에 읽어보세요.    
+B: 감사합니다.
+A: 그리고 지하주차장에서 주차할 때 선을 넘지 않도록 하세요.
+B: 걱정마세요. 경차는 주차하기 쉬워요.
+
+A: Is there anything that I should keep in mind?  
+B: Take this manual with you. Read it before attening the meeting.  
+A: Thank you.
+A: And don't `pass the lane` when you park the car in the underground parking lot.  
+B: Don't worry. The compact car is easy to park.  
+
 ### 20180511 놀람 ###
 
 **original**
@@ -40,7 +82,7 @@ B: Roy, did you drive today?
 A: No, I think I'll not be able to drive the car for another 3 months. I am not good at driving.  
 B: Sorry to hear that.  
 A: I think it is alright although I don't drive well thanks to public transportation.
-B: Whenever I see the public transportaion system in Seoul, I was amazed. 
+B: Whenever I see the public transportaion system in Seoul, I was amazed.
 
 
 ### 20180504 식욕없음 ###

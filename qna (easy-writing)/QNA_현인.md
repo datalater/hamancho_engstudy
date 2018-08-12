@@ -1,5 +1,19 @@
 ⓒ JHI 2017
 
+#### 201800525 Could you recommend the song for me? ####
+
+1. Today I would like to introduce the song titled '한번 더 이별' by 성시경.
+2. When I was in university, the roommate recommended this for me.
+3. He was a big fan of 성시경.
+4. That's why I came to listene the most of the 성시경's songs.
+5. And this was one of the many songs I listen many times.
+6. I think it is not easy to imagine that another singer sings this song.
+7. No one may not replace 성시경's voice.
+8. I believe only 성시경 can deliver the unique feeling.
+9. And listen the song together.
+
+
+
 #### 201800518 Could you recommend the song for me? ####
 1. I want to introduce the song named '어떻게 사랑이 그래요' by 이승환.
 2. Before listening this song, I only knew the '천일동안' among many 이승환's songs.
