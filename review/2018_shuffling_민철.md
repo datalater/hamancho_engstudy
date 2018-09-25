@@ -2,6 +2,65 @@
 
 ---
 
+### 20180803
+
+**original**
+
+A: 엄마 저기 연우가 있어요. 연우야 타.  
+B: 안녕, 데리러 와주셔서 고맙습니다.  
+A: 너 내일 영어 학원 가?  
+B: 아니 토요일에는 학원 안 가.  
+A: 그럼 나랑 축구 할래? 엄마 우리 내일 축구해도 돼요?  
+C: 안돼 민준아. 너 발목 삐었잖아. 연우랑 다른 거 해.  
+
+A: 엄마 저기 연우가 있어요. 연우야 타.  
+B: 안녕, 데리러 와주셔서 고맙습니다.  
+A: 너 내일 영어 학원 가?  
+B: 아니 토요일에는 학원 안 가.  
+A: 그럼 나랑 축구 할래? 엄마 우리 내일 축구해도 돼요?  
+C: 안돼 민준아. 너 발목 삐었잖아. 연우랑 다른 거 해.  
+
+A: Mom, there's Yeonwoo. Yeonwoo, get in.  
+B: Hi. Thank you for picking me up.  
+A: Are you going to an English hakwon tommorow?  
+B: No, I don't go to any hakwons on Saturdays.  
+A: Then, do you want to play soccer with me? Mom, can we play soccer tomorrow?  
+C: No Minjun. You sprained your ankle. Do something eles with Yeonwoo.  
+
+**#01 shuffling**
+
+A: 엄마 저기 연우가 있어요. 연우야 타.  
+B: 안녕, 데리러 와주셔서 고맙습니다.  
+A: 너 내일 학원 가는 거 있어?  
+B: 아니 토요일에는 학원 안 가.  
+A: 그럼 나랑 축구 할래? 엄마 우리 내일 축구해도 돼요?  
+C: 안돼 민준아. 잊어버렸니? 너 발목 다쳤잖아. 연우랑 다른 거 해.  
+
+A: Mom, there's Yeonwoo. Yeonwoo, get in.  
+B: Hi. Thank you for picking me up.  
+A: Are you going to any hakwons tommorow?  
+B: No, I don't go to any hakwons on Saturdays.  
+A: Then, do you want to play soccer with me? Mom, can we play soccer tomorrow?  
+C: No Minjun. Did you forget? You hurt your ankle. Do something eles with Yeonwoo.  
+
+### 20180525 가치있다
+
+A: 생각해보니까 우리 올해는 비가 많이 안 내리네.  
+B: 농작물, 야채나 과일이 매우 비싸, 가뭄 때문에.  
+
+A: Come to think of it, we haven't had much rain this year.  
+B: The farm products, the vegetables and fruits, they are very expensive because of the drought.  
+
+A: 우와 당신 정말 감정 조절의 고수네.  
+B: 그런 것 같아? 그럴 만한 가치가 있잖아. 기분이 좋아, 시간을 쓰면, 부정적인 생각을 없애버리기 위해.  
+A: 어떻게 하는 건지 나한테 알려줄 수 있어?  
+B: 그럼 최대한 활용해보자, 20분을, 우리가 가진.
+
+A: Wow, you are such a pro of mind control.  
+B: Do you think so? Well, it's worthwhile. It feels good to spend time to clear negative thoughts.  
+A: Can you teach me how to do that?  
+B: Then let's make the most of the 20 minutes that we have here.
+
 ### 20180518 매뉴얼가져가
 
 **original**

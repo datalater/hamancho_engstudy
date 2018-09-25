@@ -3,13 +3,30 @@
 
 ---
 
+### 20180803 축구할래
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 너 발목 삐었잖아. | 너 발목 삐었잖아. | You sprained your ankle. | ★ |
+| 2 | 연우랑 다른 거 해. | 다른 거 해 연우랑. | Do something else with Yeonwoo. | ★ |
+
+### 20180525 가치있다
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 생각해보니까 우리 요새는 택배가 많이 안 온 것 같네. | 생각해보니까 우리 요새는 택배가 많이 없네. | Come to think of it, we haven't had many deliveries recently. | ★ |
+| 2 | 나 물건을 사는 것 대신에 경험을 하거나 어떤 일을 해보기로 했어. | 나 해보기로 했어, 경험을 하거나 어떤 일을, 물건을 사는 것 대신에. | I decided to try expriencing or doing things instead of buying things. | ★ |
+| 3 | 우와 당신 정말 소확행의 고수네. | 우와 당신 정말 달인이네 소확행의. | Wow you are such a master of 소확행. | ★ |
+| 4 | 뭔가를 경험하기 위해서 돈을 쓰면 기분이 좋아. | 기분이 좋아, 돈을 쓰면, 뭔가를 경험하기 위해서. | It feels good to spend money to exprience something. | ★ |
+| 5 | 그럼 짐이 적어질 테니 우리 아파트 공간을 효율적으로 쓸 수 있겠네. | 그럼 더 적은 짐으로, 최대한 공간을 활용할 수 있겠네, 우리 아파트에서. | Then with less stuff, we can make the most of the space in our apartment. | ★ |
+
 # 20180518 매뉴얼가져가
 
 | No. | Expression | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 제가 꼭 명심해야 할 것이 있나요? | 있나요, 제가 꼭 명심해야 할 것이? | Is there anything that I should keep in mind? | ★ |
 | 2 | 이 도시에서는 서행 차선으로 추월하시면 안됩니다. | 이 도시에서는 추월하시면 안됩니다, 서행 차선으로. | In this city you can't use the slow lane for passing. | ★ |
-| 3 | 그리고 빨간불일 때는 우회전을 하시면 안돼요. | 그리고 우회전을 하시면 안돼요, 빨간불일 때는 | In this city you can't use the slow lane for passing. And you can't turn right on red. | |
+| 3 | 그리고 빨간불일 때는 우회전을 하시면 안돼요. | 그리고 우회전을 하시면 안돼요, 빨간불일 때는 | And you can't turn right on red. | |
 | 4 | 이거 정말 힘이 있는 경차네요. | 이거 정말 힘이 있는 경차네요. | It's a very powerful compact car. | |
 
 ### 20180511 놀람

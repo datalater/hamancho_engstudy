@@ -1,6 +1,22 @@
 
 ⓒ JHI 2017
 
+### 20180803 축구할래 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 타 | 타 | get in, jump in, hop in  | ★ |  |
+| 2 | 너 발목 삐었잖아 | 너 삐었잖아, 발목 | You sprained your ankle | ★ |  |
+| 3 | 연우랑 다른거 해 | 다른 거 해, 연우랑 | Do something else with 연우 | ★ |  |
+
+### 20180525 가치있다 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 |생각해보니까 우리 요즘 택배가 많이 안 온 것 같네 |  생각해보니까, 우리, 많이 안 온 것 같네 택배가, 요즘 | Come to think of it, we haven't had many deliveries recently. | ★ |  |
+| 2 | 뭔가를 경험하기 위해 돈을 쓰면 기분이 좋아. | 기분이 좋아, 돈을 쓰면, 뭔가를 경험하기 위해. | It feels good to spend money to experience something. | ★ |  |
+| 3 | 그럼 짐이 적어질테니 우리 아파트 공간을 효율적으로 쓸 수 있겠네 |  그럼, 짐이 적어질테니, 효율적으로 공간을 쓸 수 있겠네, 우리 아파트 | Then with less stuff, we can make the most of the space in our apartment. | ★ |  |
+
 ### 20180518 매뉴얼 가져가기 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
@@ -383,7 +399,7 @@ B: Ok, I'll go shopping while you wash up.
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 모든 게 다 마음에 들더라. | I love everything | Liked everything. | |
 | 2 | 여기 데려와줘서 고마워| thank you for taking me here | thank you for taking me here |  |
-| 3 | 최고로 맛있는 ~였어 | It was the most delicious ~  | that was the best ~ ever | |
+| 3 | 최고로 맛있는 ~였어 | It was the most delicious ~  | that was the best delicous ~ ever | |
 | 4 | ~와 좋은 시간을 보냈어 | I had a great time with ~ | I had a great time with ~ | |
 
 
@@ -401,10 +417,10 @@ B: Ok, I'll go shopping while you wash up.
 
 | No. | Expression | JHI | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 의미있는 시간을 보내다 | spend meaningful time | spend some quality time| ★ | 2
+| 1 | 의미있는(질좋은) 시간을 보내다 | spend meaningful time | spend some quality time| ★ | 2
 | 2 | 꼭 ~ 하세요 | Don't forget to ~ | Don't forget to ~ |  |
 | 3 | 위생적인 이유로 | for hygienic reasons | for hygienic reasons |  |
-| 4 | 집에 오다 | come to home | be home | ★ | 3
+| 4 | (내가) 집에 오다 | come to home | I'm home | ★ | 3
 
 
 ### 20170331 프로그램소개

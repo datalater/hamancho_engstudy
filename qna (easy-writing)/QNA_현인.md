@@ -1,5 +1,21 @@
 ⓒ JHI 2017
 
+#### 201800525 Could you recommend the movie for me? ####
+
+1. Today I would like to introduce the movie that you should not watch.
+2. The movie is Ghost sweepers, in Korean 점쟁이들.
+3. When I am in the company, I happen to watch the show introducing this movie.
+4. I was attracted by the material and the actors.
+5. There are two reasons that I decided to watch the movie
+5. First, I wonder how the movie utilize the fortune teller
+6. Second, And personally I like 이제훈.
+7. And I was really disappointed after watching.
+8. It was really boring.
+9. And I expected fortune tellers show their special ability but nothing happened.
+10. I come to know why this movie is criticized severely.
+11. Maybe you enjoy that movie. 
+12. But I recommend not to watch this movie.  
+
 #### 201800525 Could you recommend the song for me? ####
 
 1. Today I would like to introduce the song titled '한번 더 이별' by 성시경.

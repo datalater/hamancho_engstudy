@@ -2,6 +2,100 @@
 
 ---
 
+### 20180803 축구할래 ###
+
+**original**
+
+A: 엄마, 저기 연우가 있어요. 연우야 타.  
+B: 안녕. 데리러 와주셔서 고맙습니다.    
+A: 너 내일 영어학원 가?     
+B: 아니, 토요일에는 학원 안 가.   
+A: 그럼 나랑 축구할래? 엄마, 내일 우리 축구해도 돼요?  
+C: 안돼 민준아. 너 발목 삐었잖아. 연우랑 다른거 해.   
+
+A: 엄마, 연우가 있어요, 저기. 타, 연우야.   
+B: 안녕. 고맙습니다, 데리러 와주셔서.    
+A: 너, 가, 영어학원, 내일?     
+B: 아니, 안 가, 토요일에는.   
+A: 그럼 축구할래, 나랑? 엄마, 우리 축구해도 돼요, 내일?     
+C: 안돼 민준아. 너 삐었잖아, 발목. 다른 거 해, 연우랑.    
+
+A: Mom, there is 연우. 연우, get in.  
+B: Hi. Thank you for picking me up.    
+A: Are you going to an English 학원 tomorrow.     
+B: No, I don't go to any 학원s on Saturdays.   
+A: Then do you want to play soccer with me?  
+    Mom, can we play soccer tomorrow?    
+C: No, 민준. You sprained your ankle. Do something else with 연우.
+
+**#01 비오는 날 움직이기 싫은 상황**  
+
+A: Louie, 타.
+B: 태워줘서 고마워.
+A: 천만에. 너 내일 컴퓨터학원 가?
+B: 아니, 비오는 날에는 학원에 안 가.
+A: 그럼 우리집에서 플레이스테이션 할래?
+B: 안돼, 나 손목을 다쳤거든.
+A: 몸조리 잘해. 다음에 다른 거 하자.
+
+A: Louie, jump in.  
+B: Thank you for picking me up.  
+A: It's my pleasure. Are you going to a Compurer 학원 tomorrow?  
+B: No, I don't go to any 학원s on rainy days.  
+A: Then do you play Playstation in my house?  
+B: No, I sprained my wrist.  
+A: Take good care of yourself. Do something else next time.  
+
+### 20180525 가치있다 ###
+
+**original**
+
+A: 생각해보니까 우리 요즘 택배가 많이 안 온 것 같네.  
+B: 나 물건을 사는 대신에 경험을 하거나 어떤 일을 해보기로 했어.    
+A: 와 당신 정말 소확행의 고수네.    
+B: 그런 것 같아? 그럴 만한 가치가 있잖아. 뭔가를 경험하기 위해 돈을 쓰면  
+   기분이 좋아.  
+A: 그럼 짐이 적어질테니 우리 아파트 공간을 효율적으로 쓸 수 있겠네.  
+B: 맞아.  
+
+
+A: 생각해보니까, 우리, 많이 안 온 것 같네 택배가, 요즘
+B: 나, 경험을 하거나 어떤 일을 해보기로 했어, 물건을 사는 대신에,     
+A: 와 당신 정말 고수네, 소확행의,    
+B: 그런 것 같아? 그럴 만한 가치가 있잖아. 기분이 좋아, 돈을 쓰면,  
+   뭔가를 경험하기 위해.  
+A: 그럼 짐이 적어질테니, 효율적으로 쓸 수 있겠네, 우리 아파트 공간을.    
+B: 맞아.  
+
+A: Come to think of it, we haven't had many deliveries recently.  
+B: I decided to try experiencing or doing things instead of buying things.    
+A: Wow, you are such a master of 소확행.   
+B: Do you think so? Well it's worth it. It feels good to spend money to experience something.  
+A: Then with less stuff, we can make the most of the space in our apartment.   
+B: That's right.
+
+**#01 더운 여름에 맛있는 음식 먹기**  
+
+A: 너가 그 말 하니까 말인데, 요즘 비가 너무 안 온다.  
+B: 날씨가 너무 덥네. 밖을 돌아다니는 대신에 집에서 에어컨 켜고 있어.      
+B: 그럴 가치가 있지. 나는 맛있는 걸 먹는데 돈을 쓰면 기분이 좋아.  
+A: 맞아. 우리 둘 다 더운 여름을 효율적으로 보내고 있네.
+
+A: Now that you mention it, we haven't had much rain.
+B: It's so hot. I turn on the air conditioner in my house instaed of going aroud the outside.   
+A: It's worthwhile. It feels good to spend money to eat delicious food.  
+B: That's right. We make the most of our time in hot summer.   
+
+### Shadowing
+
+A: Come to think of it, we haven't had many deliveries recently.  
+B: I decided to try experiencing or doing things instead of buying things.    
+A: Wow, you are such a master of 소확행.   
+B: Do you think so? Well it's worth it. It feels good to spend money to experience something.  
+A: Then with less stuff, we can make the most of the space in our apartment.   
+B: That's right.
+
+
 ### 20180518 매뉴얼 가져가기 ###
 
 **original**
