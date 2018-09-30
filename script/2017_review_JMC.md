@@ -3,6 +3,17 @@
 
 ---
 
+### 20180810 Working at a coffee shop
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 커피숍에서 일하는 거 어때요? | 어떤지 궁금해, 커피숍에서 일하는 거 | What's it like working at a coffee shop | ★ |
+| 2 | 근데 솔직히 어떤 손님들은 상대하기 쉽지 않아요. | 근데 솔직히 쉽지 않아요 대하는 게 어떤 손님들은. | But honestly it's not easy to deal with some customers. | ★ |
+| 3 | 일 끝나면 보통 뭐 하세요? | 보통 뭐 하세요 일 이후에? | What do you usually do after work? |   |
+| 4 | 일주일에 3번 춤추러 가요. | 춤추러 가요 일주일에 3번. | I go dancing three times a week. |   |
+| 5 | 일하는 곳 근처에 괜찮은 kizomba 클럽이 있어요. | 있어요 괜찮은 kizomba 클럽이 일하는 곳 근처에 | There is a good kizomba club near work. | ★ |
+| 6 | 끌리는데요. | 매력적으로 들린다. | That sounds tempting.  | ★ |
+
 ### 20180803 축구할래
 
 | No. | Expression | Disassemble | Correct | star | count |
