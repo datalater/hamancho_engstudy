@@ -1,6 +1,24 @@
 
 ⓒ JHI 2017
 
+### 20181026 분장파티 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 드디어 디데이네 |  드디어 디데이네. | the big day is here | ★ |  |
+| 2 | 너무 오버하지마. |  너무 오버하지마. | Don't make such a big deal out of it. | ★ |  |
+| 3 | 편의점에서 마실 것 좀 사가자. |  마실 것 좀 사가자, 편의점에서. | let's pick up some drinks at the convenience store. | ★ |  |
+
+
+### 20180928 싱글친구그리워 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 그 친구들이 즐기는 자유가 당신한텐 없잖아. |  당신한테 없잖아, 자유가, 그 친구들이 즐기는.|  You don't have all the freedom they enjoyed. | ★ |  |
+| 2 | 뭐 그렇다고도 할 수 있는데, 솔직히 안 그래 | 뭐 그렇다고도 할 수 있는데, 솔직히 안 그래 | Well I could say yes, but honestly no. | ★ |  |
+| 3 | 내 미혼 친구들은 이렇게 사랑과 지지를 받는 느낌을 모를테니까. |내 미혼 친구들은 느낌을 모른테니까, 이렇게 사랑과 지지를 받는. | My single friends may not have this feeling of being loved and supported. | ★ |  |
+
+
 ### 20180810 카페에서일 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
