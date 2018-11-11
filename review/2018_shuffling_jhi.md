@@ -2,6 +2,75 @@
 
 ---
 
+### 20181026 분장파티 ###
+
+**original**
+
+A: 좋아, 드디어 디데이네. 우리 분장을 뽐낼 준비가 됐어?    
+B: 아 마이크. 너무 오버하지마. 그냥 친구들과 변장파티를 하는거잖아.    
+A: 그러게. 근데 나 이런거 할 때 신나서 좋아.    
+B: 그밖에 더 가져갈게 있나?  
+A: 내가 오후에 호박모양 쿠키를 좀 만들었어. 그리고 편의점에서 마실 것 좀 사가자. 출발하자.     
+
+A: 좋아, 드디어 드데이네. 준비가 됐어, 뽐낼, 우리 분장을?   
+B: 아 마이크. 너무 오버하지마. 그냥 하는거잖아 변장파티를 친구들과.    
+A: 그러게. 근데 나 신나서 좋아, 이런거 할 때.    
+B: 그밖에 더 가져갈게 있나?   
+A: 내가 좀 만들었어, 호박모양 쿠키를, 오후에. 그리고 마실 것 좀 사가자, 편의점에서. 출발하자.    
+
+A: Ok, the big day is here. Are you ready to reveal our costume to the world?    
+B: Oh Mike. Don't make such a big deal out of it. It's just a costume party with our friends.   
+A: I know. But I like to get excited for things like this.    
+B: Is there anything else we should bring?   
+A: I made some pumpkin shaped cookies this afternoon. And let's pick up some drinks at the convenience store. Let's hit the road.
+
+**부산으로 여행을 가는 친구들**
+
+A: 좋아, 드디어 디데이네. 스트레스 다 날릴 준비됐어?   
+B: 야, 너무 오버하지마. 그냥 부산으로 놀러가는거잖아.  
+A: 그러게 근데 나 멀리 떠나는 여행이 신나서 좋아.  
+B: 그밖에 더 가져갈게 있나?  
+A: 다 준비했지. 안성휴게소에서 소떡소떡 사먹자. 출발하자.  
+
+A: Ok, the big day is here. Are you ready to get rid of all the stress?  
+B: Hey, don't make such a big deal out of it. We just travel to Busan.  
+A: I know. But I like to get excited for travel going far.  
+B: Is there anything else we should bring?  
+A: We're all packed. Let's pick up 소떡소떡 at 안성 Service Area. Let's hit the road. 
+
+### 20180928 싱글친구그리워 ###
+
+**original**
+
+A: 추석때 자기가 우리 부모님한테 해드린거 다 고마워.
+B: 아니야. 시부모님이 나한테 늘 잘해주시는데 진짜 우리 부모님같아.   
+A: 추석이나 설날에 미혼 친구들이 그립지 않아? 그 친구들이 즐기는 자유가 당신한텐 없잖아.      
+B: 뭐 그렇다고도 할 수 있는데. 솔직히 안 그래. 내 미혼 친구들은 이렇게 사랑과 지지를 받는 느낌을 모를테니까.     
+
+A: 다 고마워, 자기가 우리 부모님한테 해드린거, 추석때.    
+B: 아니야. 시부모님이 늘 잘해주시는데 나한테, 진짜 우리 부모님같아.    
+A: 그립지 않아, 미혼 친구들이, 추석이나 설날에, 당신한테 없잖아, 자유가, 그 친구들이 즐기는.    
+B: 뭐 그렇다고도 할 수 있는데. 솔직히 안 그래. 내 미혼 친구들은 느낌을 모른테니까, 이렇게 사랑과 지지를 받는.      
+
+A: Thank you for everything you did for my parents on Chuseok.  
+B: No worries. Your parents are always nice to me. They are like my real parents.   
+A: Don't you miss your single friends during Chuseok or Seolnal? You don't have all the freedom they enjoyed.    
+B: Well I could say yes, but honestly no. My single friends may not have this feeling of being loved and supported.  
+
+**외국에서 생활하는 친구**
+
+A: 니가 추석 때 해준거 다 고마워.
+B: 아니야. 추석 때 한국에 있는 친구들이 그립지 않아?
+A: 뭐 그렇다고도 할 수 있는데, 솔직히 안 그래. 너 덕분에 사랑과 지지를 받는 느낌을 가졌으니까. 자 여기 상품권 받아.
+B: 왜 거절하겠니. 고마워.
+
+A: Thank you for everything you did for me this Chuseok.
+B: No worries. Don't you miss your friends in Korea on Chuseok?
+A: Well I could say yes, but honestly no. I have this feeling of beling loved and supported thanks to you. Take this gift certificate.  
+B: I wouldn't say no. Thank you.
+
+
+
 ### 20180810 카페에서일 ###
 
 ### Shuffling
