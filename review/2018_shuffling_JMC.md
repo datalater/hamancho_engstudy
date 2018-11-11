@@ -2,6 +2,77 @@
 
 ---
 
+## 20181026 Get excited
+
+### original
+
+A: 좋아. 드디어 D-day네. 우리 분장을 뽐낼 준비가 됐어?  
+B: 마이크 너무 오버하지마. 그냥 친구들과 변장 파티를 하는 거잖아.  
+A: 그러게. 근데 난 이런 거 할 때 신나서 좋아.  
+B: 그 밖에 더 가져갈 게 있나?  
+A: 내가 오후에 호박 모양 쿠키를 좀 만들었어. 그리고 편의점에서 마실 것 좀 사가자. 출발하자.  
+
+A: 좋아. 드디어 D-day네. 준비가 됐어, 우리 분장을 뽐낼?  
+B: 마이크 너무 오버하지마. 그냥 변장 파티를 하는 거잖아 친구들과.  
+A: 그러게. 근데 난 좋아 신나서 이런 거 할 때.  
+B: 그 밖에 더 가져갈 게 있나?  
+A: 내가 좀 만들었어 호박 모양 쿠키를 오후에. 그리고 좀 사가자 마실 것 편의점에서. 출발하자.  
+
+A: Okay. The big day is here. Are you ready to reveal our costumes to the world?  
+B: Oh, Mike. Don't make such a big deal out of it. It's just a costume party with our friends.  
+A: I know. But I like to get excited for things like this.  
+B: Is there anything else we should bring?  
+A: I made some pumpkin-shaped cookies this afternoon. And let's pick up some drinks at the convenient store. Let's hit the road.  
+
+### shuffling
+
+A: 좋아. 드디어 D-day네. 준비가 됐어, 우리 노래를 뽐낼?  
+B: 루이 너무 오버하지마. 그냥 축가를 하는 거잖아 친구 결혼식에서.  
+A: 그러게. 근데 난 좋아 신나서 이런 거 할 때.  
+B: 그 밖에 더 확인할 게 있나?  
+A: 클라이막스 부분을 한 번 더 노래해보자. 그리고 목을 생각해서 생강차 같이 마실 것을 좀 사가자 편의점에서.
+
+A: Okay. The big day is here. Are you ready to reveal our songs to the world?  
+B: Oh, Louie. Don't make such a big deal out of it. We're just singing at a friend's wedding.  
+A: I know. But I like to get excited for things like this.  
+B: Is there anything else we should check?  
+A: Let's sing the climax part again. And let's pick up some drinks like a ginger tea at the convenient store.
+
+---
+
+## 20180928 Miss single friends
+
+### original
+
+A: 추석 때 자기가 우리 부모님에게 해드린 거 다 고마워.  
+B: 아니야. 시부모님이 나한테 늘 잘해주시는데. 진짜 우리 부모님 같아.  
+A: 추석이나 설날에 미혼 친구들이 그립지 않아? 그 친구들이 즐기는 자유가 당신한테는 없잖아.  
+B: 뭐, 그렇다고도 할 수 있는데, 솔직히 안 그래. 내 미혼 친구들은 이렇게 사랑과 지지를 받는 느낌을 모를 테니까.  
+
+A: 고마워, 자기가 우리 부모님에게 해드린 거, 추석 때.  
+B: 천만에. 시부모님이 항상 나한테 잘해주시는데. 진짜 우리 부모님 같아.  
+A: 미혼 친구들이 그립지 않아, 추석이나 설날에? 당신한테는 없잖아 자유가, 그 친구들이 즐기는.  
+B: 글쎄, 그럴 수도 있겠지. 근데 솔직히 안 그래. 그들은 갖고 있지 않을 테니까, 이러한 느낌을, 사랑 받고 지지 받는.
+
+A: Thank you for everything you did for my parents on Chuseok.  
+B: No worries. Your parents are always nice to me. They're like my real parents.  
+A: Don't you miss your single friends during Chuseok or Seollal? You don't have all the freedom they enjoy.  
+B: Well, I could say yes. But honestly no. My single friends may not have this feeling of being loved and supported.
+
+### shuffling
+
+A: 고마워, 너가 나에게 해준 거, 부산에 머물 때.  
+B: 천만에. 너도 내가 서울 가면 그렇게 해주잖아.  
+A: 학생 때가 그립지 않아? 없잖아 자유가, 그때 당시에 즐겼던.  
+B: 글쎄, 그럴 수도 있겠지. 근데 솔직히 안 그래. 학생은 갖고 있지 않을 테니까, 원하는 것을 충분히 살 수 있는 경제력을.
+
+A: Thank you for everything you did for me during my stay in Busan.  
+B: No worries. You do the same thing for me when I go to Seoul.  
+A: Don't you miss your school days? You don't have all the freedom you used to enjoy.  
+B: Well, I could say yes. But honestly no. Students may not have enough money to buy what they want.
+
+---
+
 ### 20180810 Working at a coffee shop
 
 **original**
@@ -38,6 +109,8 @@ B: It's okay. But honestly it's not easy to deal with some codes.
 A: Yeah. I understand. What do you usually do after work?  
 B: I go riding three times a week. It helps me increase my stamina. There is a good bike road along TanCheon near my house.  
 A: That sounds tempting. Can I join you next time?
+
+---
 
 ### 20180803 연우야
 
@@ -80,6 +153,8 @@ B: No, I don't go to any hakwons on Saturdays.
 A: Then, do you want to play soccer with me? Mom, can we play soccer tomorrow?  
 C: No Minjun. Did you forget? You hurt your ankle. Do something eles with Yeonwoo.  
 
+---
+
 ### 20180525 가치있다
 
 A: 생각해보니까 우리 올해는 비가 많이 안 내리네.  
@@ -97,6 +172,8 @@ A: Wow, you are such a pro of mind control.
 B: Do you think so? Well, it's worthwhile. It feels good to spend time to clear negative thoughts.  
 A: Can you teach me how to do that?  
 B: Then let's make the most of the 20 minutes that we have here.
+
+---
 
 ### 20180518 매뉴얼가져가
 
@@ -135,6 +212,8 @@ A: Oh, I see. Thank you.
 B: Please come this way. I'll show you your car.  
 A: It's a very powerful mid-size car, right?  
 
+---
+
 ### 20180511 놀람
 
 **original**
@@ -170,6 +249,8 @@ B: Brad, did you drive today?
 A: Yes. but thanks to Arman, I'm feeling better now.  
 B: Glad to hear that.  
 A: I think I'll be able to work with Arman for another 10 years. Arman is very good at communicating with others. I was amazed.  
+
+---
 
 ### 20180504 식욕없음
 
@@ -217,6 +298,8 @@ C: Thank you mom.
 A: Do you think you can go to a movie today?  
 C: Yep. I'm feeling better now.  
 
+---
+
 ### 20180427 쪼그라듦
 
 **original**
@@ -247,6 +330,8 @@ A: Oh my, look at this sweater. Is this for a little boy? It's shrunk.
 B: Hahaha. I told you. You should have washed it by hand.  
 A: You were right. What a waste. I spent a lot of money on that sweater.  
 B: Well what can we do? It's too late. There's nothing we can do about it. We're learning from our mistakes.
+
+---
 
 ### 20180420 몇명이나
 
@@ -294,6 +379,8 @@ A: Sounds good.
 B: For how many people?  
 A: Just myself. Oh and can I also reserve a table for dinner tonight?
 
+---
+
 ### 20180413 마지막에 취소
 
 **original**
@@ -330,6 +417,8 @@ A: Didn't you say that you have a friend get-together?
 B: I did. But it was canceled at the last minute. Myeong-su said he couldn't make it.  
 A: I see. If you are interested, do you want to try the new Vietnamese restaurant in the evening? It's on me.
 
+---
+
 ### 20180406 그가행복하길
 
 **original**
@@ -361,6 +450,8 @@ B: To the school here? Well, honestly it was kind of an difficult decision. Hun 
 A: I see. How about at the new school?  
 B: He's been doing great so far. I want him to be happy.
 
+---
+
 ### 20180223 티켓에 네 이름
 
 **original**
@@ -386,6 +477,8 @@ A: 아니 아직. 여기 있다. 이제 티켓이 네 이름으로 되어 있네
 A: Oh no. What was I thinking? Why did I put in your last name?  
 B: So, did you get a confirmation?  
 A: No, not yet. It's here. The ticket is in your name now. We just have to pay 100 euros.
+
+---
 
 ### 20180112 영어 노래 부르기
 

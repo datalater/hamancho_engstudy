@@ -3,6 +3,29 @@
 
 ---
 
+## 20181026 Get excited
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 드디어 D-day네. | 중요한 날이 여기 있어. | The big day is here. | ★ |
+| 2 | 우리 분장을 뽐낼 준비가 됐어? | 준비가 됐어, 우리 분장을 뽐낼? | Are you ready to reveal our costumes to the world? | ★ |
+| 3 | 너무 오버하지마. | 큰 일로 만들지마. | Don't make such a big deal out of it. | ★ |
+| 4 | 그러게. | 나도 알아. | I know. | ★ |
+| 5 | 근데 난 이런 거 할 때 신나서 좋아. | 근데 난 좋아 신나는 게, 이런 거 할 때. | But I like to get excited for things like this. | ★ |
+| 6 | 그 밖에 더 가져갈 게 있나? | 더 있나 그 밖에 우리가 가져가야 할? | Is there anything else we should bring? | |
+| 7 | 그리고 편의점에서 마실 것 좀 사가자. | 그리고 마실 것 좀 사가자, 편의점에서. | Let's pick up some drinks at the convenient store. |  |
+
+### 20180928 Miss single friends
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 추석 때 자기가 우리 부모님에게 해드린 거 다 고마워. | 고마워, 자기가 우리 부모님에게 해드린 거, 추석 때. | Thank you for everything you did for my parents on Chuseok. | |
+| 2 | (고맙다는 인사에) 아니야. | (고맙다는 인사에) 아니야. | No worries. | ★ |
+| 3 | 그 친구들이 즐기는 자유가 당신한테는 없잖아. | 당신한테는 없잖아 그 모든 자유가, 그 친구들이 즐기는. | You don't have all the freedom they enjoy. | |
+| 4 | 글쎄, 그럴 수도 있겠지. |글쎄, 그렇다고 할 수도 있겠지. | Well, I could say yes. | ★ |
+| 5 | 근데 솔직히 안 그래. | 근데 솔직히 안 그래. | But honestly no. | |
+| 6 | 내 미혼 친구들은 이렇게 사랑과 지지를 받는 느낌을 모를 테니까. | 그들은 갖고 있지 않을 테니까, 이러한 느낌을, 사랑 받고 지지 받는. | My single friends may not have this feeling of being loved and supported. | ★ |
+
 ### 20180810 Working at a coffee shop
 
 | No. | Expression | Disassemble | Correct | star | count |
