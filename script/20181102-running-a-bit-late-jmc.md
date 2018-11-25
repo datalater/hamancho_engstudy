@@ -82,7 +82,7 @@ A: 근데 일찍 가서 발표인지 뭔지 준비해야 한다고 그랬잖아.
 B: 뭐라구요? 완전히 잊어버렸어요. 깨우시지 그랬어요 더 일찍.  
 A: 깨웠지. 이번이 3번째 깨우는거야.  
 B: 머리할 시간도 없잖아요.  
-A: 전화해서 선생님께 말씀드릴게 네가 좀 늦을 거라고.
+A: 애처럼 징징대지마. 그럼 내가 너희 사장한테 전화해서 너가 좀 늦는다고 말하길 바라니?
 
 A: Mincheol wake up. You're going to be late today.  
 B: Mom, I'm tired. Just give me 5 more minutes.  
