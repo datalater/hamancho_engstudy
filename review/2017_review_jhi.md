@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+### 20181102 늦잠지각 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 |  더 일찍 깨우지 그러셨어요 | 깨우지 그러셨어요, 더 일찍 |  Why didn't you wake me up earlier? | ★ |  |
+| 2 | 장기자랑에 나가기 위해 머리 할 시간도 없잖아요 | 머리 할 시간도 없잖아요, 장기자랑에 나가기 위해 | I don't even have time to fix my hair for the show | ★ |  |
+| 3 | 선생님께 전화해서 니가 좀 늦을거라고 말씀드릴게 |  선생님께 전화해서, 말씀드릴게, 니가 좀 늦을거라고 |  I'll call your teacher and tell her you're running a bit late | ★ |  |
+
+
 ### 20181026 분장파티 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
