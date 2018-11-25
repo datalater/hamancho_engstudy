@@ -1,4 +1,4 @@
-## EBS Easy English 2018928
+## EBS Easy English 20181102
 
 ### Korean-Disassemble-JHI
 
@@ -102,10 +102,10 @@ B: Honey, I'm tired. Give me ten more minites.
 A: But you should go early today to prepare for the important meeting.  
 B: What? What time is it now?  
 A: It's seven thity.  
-B: I over slpet. Why didn't you wake me up earlier?  
-A: I did. This is the second time to wake you up.  
-B: I don't even have time to fix my hair.  
-A: Don't worry. I'll call Kakao Taxi and ask the driver to run fast. 
+B: I over slept. Why didn't you wake me up earlier?  
+A: I did. This is the second time I try to wake you up.  
+B: I don't even have time to fix my hair.    
+A: Don't worry. I'll call Kakao Taxi and ask the driver to run fast.
 
 
 ### Shadowing
