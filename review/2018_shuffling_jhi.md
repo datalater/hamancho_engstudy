@@ -2,6 +2,50 @@
 
 ---
 
+### 20181109 테니스코트 ###
+
+**original**
+
+A: 니가 말한 테니스코트가 어디에 있는데?   
+B: 망원한강공원 근처에 있는 농구장 바로 옆에 있어.           
+A: 거기는 아직 공사중인 줄 알았는데.   
+B: 막 끝났어. 야외 공간이 아주 많은 아름다운 공원으로 바꿔놨지.    
+A: 저기, 다음주 금요일에 뭐해?   
+B: 모르겠는데. 아직 생각 안 해봤어.  
+A: 그 테니스코트가 있는데를 보여줄 수 있니?       
+
+A: 어디에 있는데, 테니스코트가, 니가 말한?    
+B: 바로 옆에 있어, 농구장, 망원한강공원 근처에 있는,           
+A: 알았는데, 거기는 아직 공사중인 줄.    
+B: 막 끝났어. 바꿔놨지, 아름다운 공원으로, 야외 공간이 아주 많은.    
+A: 저기, 뭐해, 다음주 금요일에?   
+B: 모르겠는데, 아지 생각 안 해 봤어.  
+A: 보여줄 수 있니, 그 테니스코트가 있는데를?        
+
+A: Where is this tennis court you mentioned?   
+B: It's right next to the basketball courts near the 망원한강 Park.        
+A: I thought that area was still under construction.   
+B: They just finished. They turned it into a beautiful park with so much open space.     
+A: Hey, what are you doing next Friday?   
+B: I don't know, I haven't thought about it yet.    
+A: Do you think you can show me where those tennis courts are?   
+
+**올림픽공원 맛집 찾기**
+
+A: 니가 말한 맛집이 어디에 있는데?  
+B: 올림픽공원 근처에 있는 경기장 바로 옆에 있어.  
+A: 거기는 아직 공사중인 줄 알았는데.  
+B: 막 끝났어. 맛집이 아주 많은 아름다운 공원으로 바꿔놨지.  
+A: 저기, 다음주 주말에 뭐해?  
+B: 모르겠는데, 아직 생각 안 해 봤어.   
+
+A: Where is the famous restaurant you mentioned?  
+B: It's right next to the stadium near the Olympic park.  
+A: I thought that area was still under construction.  
+B: They just finished. They turned it into a beautiful park with so many famous restaurants.  
+A: Hey, what are you doing next weekend?  
+B: I don't know, I haven't thought about it yet.  
+
 ### 20181102 늦잠지각 ###
 
 **original**
@@ -50,7 +94,7 @@ A: It's seven thity.
 B: I over slept. Why didn't you wake me up earlier?  
 A: I did. This is the second time I try to wake you up.  
 B: I don't even have time to fix my hair.    
-A: Don't worry. I'll call Kakao Taxi and ask the driver to run fast. 
+A: Don't worry. I'll call Kakao Taxi and ask the driver to run fast.
 
 
 ### 20181026 분장파티 ###
