@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20181109 테니스코트 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 망원한강공원 근처에 있는 농구장 바로 옆에 있어. |바로 옆에 있어, 농구장, 망원한강공원 근처에 있는 |   It's right next to the basketball courts near the 망원한강 Park. | ★ |  |
+| 2 | 야외 공간이 아주 많은 아름다운 공원으로 바꿔놨지 | 바꿔놨지, 아름다운 공원으로, 야외 공간이 아주 많은 | They turned it into a beautiful park with so much open space. | ★ |  |
+| 3 | 그 테니스코트가 있는데를 보여줄 수 있니? | 보여줄 수 있니, 그 테니스코트가 있는데를? | Do you think you can show me where those tennis courts are? | ★ |  
+
 ### 20181102 늦잠지각 ###
 
 | No. | Expression | Disassemble | Correct | star | count |

@@ -86,7 +86,7 @@ A: Do you think you can show me where those tennis courts are?
 
 **올림픽공원 맛집 찾기**
 
-A: 니가 말한 맛이 어디에 있는데?  
+A: 니가 말한 맛집이 어디에 있는데?  
 B: 올림픽공원 근처에 있는 경기장 바로 옆에 있어.  
 A: 거기는 아직 공사중인 줄 알았는데.  
 B: 막 끝났어. 맛집이 아주 많은 아름다운 공원으로 바꿔놨지.  
@@ -96,7 +96,7 @@ B: 모르겠는데, 아직 생각 안 해 봤어.
 A: Where is the famous restaurant you mentioned?  
 B: It's right next to the stadium near the Olympic park.  
 A: I thought that area was still under construction.  
-B: They just finished. They turned it into a beatiful park with so many famous restaurant.  
+B: They just finished. They turned it into a beautiful park with so many famous restaurants.  
 A: Hey, what are you doing next weekend?  
 B: I don't know, I haven't thought about it yet.  
 
