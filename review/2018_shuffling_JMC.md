@@ -2,6 +2,54 @@
 
 ---
 
+## 20181109 Have not thought about it
+
+### original
+
+A: 네가 말한 테니스 코트가 어디에 있는데?  
+B: 망원 한강 공원 근처에 있는 농구장 바로 옆에 있어.  
+A: 거긴 아직 공사 중인 줄 알았는데.  
+B: 막 끝났어. 야외 공간이 아주 많은 아름다운 공원으로 바꿔놨지.  
+A: 저기 다음주 금요일에 뭐해?  
+B: 모르겠는데. 아직 생각 안 해봤어.  
+A: 그 테니스 코트가 있는 데를 보여줄 수 있니?
+
+A: 어디에 있는데 테니스 코트가 네가 말한?  
+B: 농구장 바로 옆에 있어 망원 한강 공원 근처에 있는.  
+A: 알았는데 거긴 아직 공사 중인 줄.  
+B: 막 끝났어. 아름다운 공원으로 바꿔놨지 야외 공간이 아주 많은.  
+A: 저기 다음주 금요일에 뭐해?  
+B: 모르겠는데. 아직 생각 안 해봤어.  
+A: 보여줄 수 있니 그 테니스 코트가 있는 데를?
+
+A: Where is this tennis court that you mentioned?  
+B: It's right next to the basketball courts near the Mangwon Hangang Park.  
+A: I thought that area was still under construction.  
+B: They just finished. They turned it into a beautiful park with so much open space.  
+A: Hey, what are you doing next Friday?  
+B: I don't know. I haven't thought about it yet.  
+A: Do you think you could show me where those tennis courts are?
+
+### shuffling
+
+A: 어디에 있는데 영화관이 네가 말한?  
+B: 우체국 바로 옆에 있어 오리역 근처에 있는.  
+A: 알았는데 거긴 아직 공사 중인 줄.  
+B: 막 끝났어. 근사한 쇼핑몰로 바꿔놨지 옷 가게나 식당이 아주 많은.  
+A: 저기 다음주 금요일에 뭐해?  
+B: 모르겠는데. 아직 생각 안 해봤어.  
+A: 그 영화관에서 영화 한 편 볼 수 있을까?
+
+A: Where is the theater that you mentioned?  
+B: It's right next to the post office near Ori station.  
+A: I thought that area was under construction.  
+B: They just finished. They turned it into a cool shopping mall with so many clothing stores and restaurants.  
+A: Hey, what are you doing next Friday?  
+B: I don't know. I haven't thought about it yet.  
+A: Do you think you can watch a movie with me there?
+
+---
+
 ## 20181102 Running a bit late
 
 ### original

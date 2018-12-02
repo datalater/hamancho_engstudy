@@ -3,6 +3,17 @@
 
 ---
 
+## 20181109 Have not thought about it
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 네가 말한 테니스 코트가 어디에 있는데? | 어디에 있는데 테니스 코트가 네가 말한? | Where is this tennis court that you mentioned? | |
+| 2 | 망원 한강 공원 근처에 있는 농구장 바로 옆에 있어. | 농구장 바로 옆에 있어 망원 한강 공원 근처에 있는. | It's right next to the basketball courts near Mangwon Hangang Park. | ★ |
+| 3 | 거긴 아직 공사 중인 줄 알았는데. | 알았는데 거긴 아직 공사 중인 줄. | I thought that area was still under construction. | ★ |
+| 4 | 야외 공간이 아주 많은 아름다운 공원으로 바꿔놨지. | 아름다운 공원으로 바꿔놨지 야외 공간이 아주 많은. | They turned it into a beautiful park with so much open space. | ★ |
+| 5 | 저기 다음주 금요일에 뭐해? | 저기 다음주 금요일에 뭐해? | Hey, what are you doing next Friday? | ★ |
+| 6 | 그 테니스 코트가 있는 데를 보여줄 수 있니? | 보여줄 수 있니 그 테니스 코트가 있는 데를? | Do you think you could show me where those tennis courts are? | ★ |
+
 ## 20181102 Running a bit late
 
 | No. | Expression | Disassemble | Correct | star | count |
