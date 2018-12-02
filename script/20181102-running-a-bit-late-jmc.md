@@ -42,7 +42,7 @@ A: I'll call your teacher and tell her you're running a bit late.
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | 5분만 더 주세요. | 주세요 5분 더. | Just give me five more minutes. | ★ |
 | 2 | 근데 오늘 일찍 가서 장기자랑 준비해야 하잖아. | 근데 일찍 가서 준비해야 하잖아 장기자랑 오늘. | But you have to go early today to prepare for the talent show. | ★ |
-| 3 | 이번이 3번째 깨우는거야. | 이번이 3번째 깨우는거야. | This is the third time I tried to wake you up | ★ |
+| 3 | 이번이 3번째 깨우는거야. | 이번이 3번째 깨우는거야. | This is the third time I tried to wake you up. | ★ |
 | 4 | 장기자랑에 나가기 위해 머리할 시간도 없잖아요. | 머리할 시간도 없잖아요 장기자랑에 나가기 위해. | But I don't even have time to fix my hair for the show. | ★ |
 | 5 | 선생님께 전화해서 네가 좀 늦을 거라고 말씀드릴게. | 전화해서 선생님께 말씀드릴게 네가 좀 늦을 거라고 | I'll call your teacher and tell her you're running a bit late. | ★ |
 
