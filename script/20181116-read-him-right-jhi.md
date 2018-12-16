@@ -23,7 +23,7 @@ B: Not bad. It seems like he's good but expects very high.
 A: You're right. You definitely read him right.   
 B: However, I exactly don't know what he expects to me.   
 A: He surely likes you. Don't worry.    
-B: I hope him to accept his team.  
+B: I hope him to accept his team.    
 A: I just got text message from leader. It seems like you're going to work next to my seat next Monday. Congratulaton.         
 
 + 아주 좋은분 같은데 기대도 높으셔: He seems very nice but he also has very high expectations.  
@@ -80,7 +80,7 @@ B: It wasn't bad. He seems very nice but he also has very high expectations.
 A: Yes, you definitely read him right.  
 B: I didn't know exactly what he wanted from me though.  
 A: I'm sure he liked you. Don't worry.  
-B: I hope he lets me join the team.
+B: I hope he lets me join the team.  
 A: I just got a message from my boss. It looks like you'll be moving to the desk next to me starting next Monday. Congratulations!     
 
 **여행 갈 곳을 정하는 친구**
@@ -94,9 +94,9 @@ B: 그 애가 만족했으면 좋겠네.
 A: 방금 그 친구한테 문자가 왔어. 다음주 목요일에 오사카로 여행갈 것 같네.   
 
 A: So how did the meeting go with Louie?  
-B: It wans't bad. It's the first time for him to go overseas trip. So he has very high expectations.  
+B: It wans't bad. It's the first time for him to go on a overseas trip. So he has very high expectations.  
 A: Yes, you definitely read him right.  
-B: I didn't know exactly what he wanted to.  
+B: I didn't know exactly what he wanted to go.  
 A: He may follow your idea because he likes you. Don't worry.  
 B: I hope he is satisfied with my idea.  
 A: I just got a message from Louie. It looks like we'll be traveling to Osaka next Thursday.    
@@ -108,7 +108,7 @@ B: It wasn't bad. He seems very nice but he also has very high expectations.
 A: Yes, you definitely read him right.  
 B: I didn't know exactly what he wanted from me though.  
 A: I'm sure he liked you. Don't worry.  
-B: I hope he lets me join the team.
+B: I hope he lets me join the team.  
 A: I just got a message from my boss. It looks like you'll be moving to the desk next to me starting next Monday. Congratulations!    
 
 ---
