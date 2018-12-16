@@ -19,7 +19,7 @@ B: 나를 그 팀에 넣어주셨으면 좋겠다.
 A: 방금 우리 부장님한테서 문자가 왔어. 네가 다음주 월요일부터 내 옆자리로 옮기게 될 것 같은데? 축하해.
 
 A: So, how did the meeting with my boss go?  
-B: Not bad. he seems nice but has a lot of expectations.
+B: Not bad. He seems nice but has a lot of expectations.
 A: You're right. You definitely read him right.  
 B: But I don't know what he exactly wants about me.  
 A: I'm sure he likes you. Don't worry.  
@@ -68,7 +68,7 @@ B: 나를 그 팀에 넣어주셨으면 좋겠다.
 A: 방금 우리 부장님한테서 문자가 왔어. 네가 다음주 월요일부터 내 옆자리로 옮기게 될 것 같은데? 축하해.
 
 A: So, how did the meeting go with my boss?  
-B: It wasn't bad. he seems very nice but he also has very high expectations.  
+B: It wasn't bad. He seems very nice but he also has very high expectations.  
 A: Yes. You definitely read him right.  
 B: I didn't know exactly what he wanted from me, though.  
 A: I'm sure he liked you. Don't worry.  
@@ -96,7 +96,7 @@ A: I just got a message from Michelle. It looks like you'll have a great time wi
 ## Shadowing
 
 A: So, how did the meeting go with my boss?  
-B: It wasn't bad. he seems very nice but he also has very high expectations.  
+B: It wasn't bad. He seems very nice but he also has very high expectations.  
 A: Yes. You definitely read him right.  
 B: I didn't know exactly what he wanted from me, though.  
 A: I'm sure he liked you. Don't worry.  
