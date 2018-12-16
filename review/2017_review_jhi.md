@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+### 20181116 정확히파악 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 아주 좋은분 같은데 기대도 아주 높으셔 |아주 좋은분 같은데 기대도 아주 높으셔 |  He seems very nice but he also has very high expectations. | ★ |  |
+| 2 |  그분을 제대로 파악했네 |  그분을 제대로 파악했네 | You definitely read him right | ★ |  |
+| 3 |  나를 그 팀에 넣어주셨으면 좋겠다 | 나를 넣어주셨으면 좋겠다, 그 팀에 | I hope he lets me join the team | ★ |  |
+| 4 | 니가 다음주 월요일부터 내 옆자리로 옮기게 될 것 같은데 | 니가 옮기게 될 것 같은데, 내 옆자리로, 다음주 월요일부터 | It looks like you'll be moving to the desk next to me starting next Monday | ★ |  |
+
+
 ### 20181109 테니스코트 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
