@@ -3,6 +3,17 @@
 
 ---
 
+## 20181116 Read him right
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 그래, 우리 부장님 하고 만난 건 어떻게 됐어? | 그래, 어떻게 됐어 만난 건 우리 부장님 하고? | So, how did the meeting go with my boss? | |
+| 2 | 아주 좋은 분 같은데, 기대도 아주 높으셔. | 아주 좋은 분 같은데, 기대도 아주 높으셔. | He seems very nice but he also has very high expectations. | ★ |
+| 3 | 그 분을 제대로 파악했네. | 그 분을 제대로 읽었네. | You definitely read him right. | ★ |
+| 4 | 그런데 그분이 나에게 뭘 원하시는지 정확히 모르겠더라. | 그런데 정확히 모르겠지만 그분이 나에게 뭘 원하시는지. | I didn't know exactly what he wanted from me, though. | ★ |
+| 5 | 나를 그 팀에 넣어주셨으면 좋겠다. | 좋겠다 나를 그 팀에 넣어주셨으면. | I hope he lets me join the team. | ★ |
+| 6 | 네가 다음주 월요일부터 내 옆자리로 옮기게 될 것 같은데? | 네가 내 옆자리로 옮기게 될 것 같은데 다음주 월요일부터? | I think you'll be moving to the desk next to me starting next Monday. | ★ |
+
 ## 20181109 Have not thought about it
 
 | No. | Expression | Disassemble | Correct | star | count |
