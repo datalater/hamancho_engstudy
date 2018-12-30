@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+### 20181207 그날이오길 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 집에 가는게 좋겠어 | 집에 가는게 좋겠어 | I think we'd better go home  | ★ |  |
+| 2 |  거의 자정이 다됐다니 | 거의 자정이 다됐다니 | I can't believe it's almost midnight | ★ |  |
+| 3 |  너랑 같이 시간보내서 정말 즐거웠어 | 정말 즐거웠어, 너랑 같이 시간보내서 | I really enjoyed spending time with you | ★ |  |
+| 4 |  빨리 그날이 왔으면 좋겠다 | 빨리 그날이 왔으면 좋겠다 | I can't wait until then | ★ |  |
+
 ### 20181116 정확히파악 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
