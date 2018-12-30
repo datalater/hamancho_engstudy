@@ -3,6 +3,16 @@
 
 ---
 
+## 20181207 Can not wait until then
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 시간이 꽤 늦어졌네. | 시간이 꽤 늦어졌네. | It's getting pretty late. | ★ |
+| 2 | 집에 가는 게 좋겠어. | 집에 가는 게 좋겠어. | I think we'd better go home. | ★ |
+| 3 | 너랑 같이 시간 보내서 정말 즐거웠어. | 너랑 같이 시간 보내서 정말 즐거웠어. | I really enjoyed spending time with you. | ★ |
+| 4 | 어쨌든 가야겠다. | 어쨌든 가야겠다. | Anyway I should get going. | ★ |
+| 5 | 빨리 그 날이 왔으면 좋겠다. | 기다리기 힘들다 그날까지. | I can't wait until then. | |
+
 ## 20181116 Read him right
 
 | No. | Expression | Disassemble | Correct | star | count |
