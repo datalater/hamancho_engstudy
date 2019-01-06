@@ -3,6 +3,19 @@
 
 ---
 
+## 20181214 Help you choose the gifts
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 부장님이 식당과 날짜 모두 좋다고 하셨어. | 부장님이 좋다고 하셨어. 식당과 날짜 모두. | The boss was okay with the restauran and the date both. | |
+| 2 | 잘됐다. | 완벽해. | Perfect. | ★ |
+| 3 | 너는 이메일을 쓰지 그래? | 너는 이메일을 쓰기 시작하지 그래? | Why don't you start writing an email? | ★ |
+| 4 | 사무실 전체에 이메일을 보내자. | 이메일을 보내자 사무실 전체에. | Let's send an email to the whole office. | ★ |
+| 5 | 지금 시작할게. | 지금 시작할게. | I will get started on that now. | |
+| 6 | 나는 사무실 사람들에게 줄 선물을 맡을게. | 나는 선물을 맡을게. 사무실 사람들에게 줄. | I will take care of the gifts for the office. | ★ |
+| 7 | 선물 고르는 거 도와줄까? | 도와줄까? 너가 선물 고르는 거? | Can I help you choose the gifts? |  |
+| 8 | 너한테도 깜짝 선물이 되어야 하니까. | 깜짝 선물이 되어야 하니까. 너한테도. | It has to be a surprise for you too. | ★ |
+
 ## 20181207 Can not wait until then
 
 | No. | Expression | Disassemble | Correct | star | count |
