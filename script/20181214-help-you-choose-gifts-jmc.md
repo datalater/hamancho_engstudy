@@ -87,7 +87,7 @@ A: 좋았어. 나는 선물을 맡을게. 사무실 사람들에게 줄.
 B: 어? 도와줄까? 선물 고르는 거?   
 A: 아니야. 너한테도 깜짝 선물이 되어야 하니까.  
 
-A: The boss was oaky with the restaruant and the date for the year-end party.
+A: The boss was okay with the restaruant and the date for the year-end party.  
 B: Perfect. What's the next step we need to take?   
 A: Why don't you start writing an message? Let's send an message to the whole office chat group.  
 B: Sure. I'll get started on that now.  
