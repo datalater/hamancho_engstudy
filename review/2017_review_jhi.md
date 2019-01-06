@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+### 20181214 선물고르기 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 부장님이 식당과 날짜 모두 좋다고 하셨어 | 부장님이 좋다고 하셨어, 식당과 날짜  | The boss was ok with the restaurant and date  | ★ |  |
+| 2 | 다음으로 우리가 해야하는게 뭐야? | 다음으로 뭐야, 우리가 해야하는게?  | What's the next step we need to take?  | ★ |  |
+| 3 |  사무실 전체에 이메일을 보내자 | 이메일을 보내자, 사무실 전체에 | Let's send an email to the whole office. | ★ |  |
+| 4 |  나는 사무실 사람들에게 줄 선물을 맡을게 | 나는 선물을 맡을게, 사무실 사람들에게 줄 | I'll take care of the gifts for the office | ★ |  |
+
+
 ### 20181207 그날이오길 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
