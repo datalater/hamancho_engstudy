@@ -18,7 +18,7 @@
 ---
 
 * **Chris** I just wanna encourage people because I can feel the pain of exam stress. So keep going!
-* **Chirs** One of the things that I really wanted to do was to visit some students, Those who were doing their Suneung (university entrance exam). To be able to go in, see them, hear their side of the story. Spend a little bit of time with them. Hopefully if we can, in some small way, offer them some encouragemnet.
+* **Chirs** One of the things that I really wanted to do was to visit some students, Those who were doing their Suneung (university entrance exam). To be able to go in, see them, hear their side of the story. Spend a little bit of time with them. Hopefully if we can, in some small way, offer them some encouragement.
 
 ---
 
@@ -35,7 +35,7 @@
 * **Chris** How do you feel?
 * **Students** Very tense.
 * **Chris** And after Suneung, you go to university?
-* **Students** We each get our own grades, and then depending on like how much you got on a particular test. They divide you and they assort you to the universities you can go to.
+* **Students** We each get our own grades. And then depending on like how much you got on a particular test, they divide you and they assort you to the universities you can go to.
 * **Josh** Oh my gosh!
 * **Students** We go to school until 8 o'clock in the morning and finish school at 10 o'clock at night.
 * **Chris** No!
@@ -47,7 +47,7 @@
 
 * **Jenny** They were just really hard-working.
 * **Chris** You're quite disciplined though. I'm not disciplined.
-* **Chris** I remmeber being at Cambridge and not wanting to sit in my room, but wanting to go a library and work there. Possibily, you...
+* **Chris** I remember being at Cambridge and not wanting to sit in my room, but wanting to go a library and work there. Possibily, you...
 * **Jenny** Distract me.
 * **Chris** You might be there. Alriiight!
 * **Chris** She still did well. She may have done better if she didn't know me, but then you know, she got to marry me.
