@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+### 20190104 커피먹자 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 우리 커피 마시러 가죠 | 우리 커피 마시러 가죠  |  Let's go grab a coffee  | ★ |  |
+| 2 | 카푸치노 한 잔, 카라멜 마끼야또에 시럽이랑 휘핑크림 추가해주시고 초콜릿칩 쿠키 3개 주세요 |  카푸치노 한 잔, 카라멜 마끼야또에 시럽이랑 휘핑크림 추가해주시고 초콜릿칩 쿠키 3개 주세요 | I'll take Cappuccino, Caramel Macchiato with extra syrup and whipped cream, and three chocolate chip cookies. | ★ |  |
+| 3 | 새해 결심은 어떻게 된거에요? | 어떻게 된거에요, 새해 결심은? | what happened to your New Year's resolution? | ★ |  |
+
+
 ### 20181214 선물고르기 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
