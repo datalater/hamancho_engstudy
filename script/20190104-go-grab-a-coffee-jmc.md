@@ -1,109 +1,89 @@
-# EBS Easy English 20181214
+# EBS Easy English 20190104
 
-## Korean-Disassemble-JMC
+## Dialog
 
-A: 부장님이 식당과 날짜 모두 좋다고 하셨어.  
-B: 잘됐다. 다음으로 우리가 해야 하는 게 뭐야?  
-A: 아르만은 이메일을 쓰지 그래? 사무실 전체에 이메일을 보내자.  
-B: 그래. 지금 시작할게.  
-A: 좋았어. 나는 사무실 사람들에게 줄 선물을 맡을게.  
-B: 어? 선물 고르는 거 도와줄까?   
-A: 아니야. 아르만한테도 깜짝 선물이 되어야 하니까.  
+### Source
 
-A: 부장님이 좋다고 하셨어. 식당과 날짜 모두.  
-B: 잘됐다. 뭐야? 다음으로 우리가 해야 하는?   
-A: 아르만은 이메일을 쓰지 그래? 이메일을 보내자 사무실 전체에.  
-B: 그래. 지금 시작할게.  
-A: 좋았어. 나는 선물을 맡을게. 사무실 사람들에게 줄.  
-B: 어? 도와줄까? 선물 고르는 거?   
-A: 아니야. 아르만한테도 깜짝 선물이 되어야 하니까.  
+* **A** 그거 아주 좋은 선택이네요.
+* **B** 이거 읽으려고 하니까 신이 나요. 도와줘서 고마워요.
+* **A** 우리 커피 마시러 가죠. 카푸치노 한 잔, 카라멜 마키아토에 시럽이랑 휘핑 크림 추가해주시고 초콜릿칩 쿠키 3개 주세요.
+* **B** 알렉스. 새해 결심은 어떻게 된 거에요?
+* **A** 아 맞다. 초콜릿칩 쿠키 2개 주세요.
 
-A: My boss said the restaurant and the date both are okay.
-B: Great. What is the next thing to do?   
-A: Why don't you write emails? Let's send emails for the whole office people.  
-B: Okay. I'll get started now.  
-A: All right. I'll take the gifts to give to office people.  
-B: Well? Can I help you choose the gifts?   
-A: No. It should be also the suprise to you.  
+### Preprocess
 
-## Correct
+* **A** 그거 아주 좋은 선택이네요.
+* **B** 이거 읽으려고 하니까 신이 나요. 도와줘서 고마워요.
+* **A** 우리 커피 마시러 가죠. 카푸치노 한 잔, 카라멜 마키아토에 시럽이랑 휘핑 크림 추가해주시고 초콜릿칩 쿠키 3개 주세요.
+* **B** 알렉스. 새해 결심은 어떻게 된 거에요?
+* **A** 아 맞다. 초콜릿칩 쿠키 2개 주세요.
 
-A: The boss was oaky with the restaruant and the date.
-B: Perfect. What's the next step we need to take?   
-A: Why don't you start writing an email? Let's send an email to the whole office.  
-B: Sure. I'll get started on that now.  
-A: Great. I'll take care of the gifts for the office.  
-B: Oh? Can I help you choose the gifts?   
-A: No no. It has to be a suprise for you too.
+### Draft
+
+* **A** That's a great choice.
+* **B** I'm very excited to try to read it. Thanks for your help.
+* **A** Let's go grab a coffee. I want one cappucino and caramel macchiato with syrup and whipped cream and three chocolate chip cookies.
+* **B** Alex. What about your new year's resolution?
+* **A** Oh right. Just give me two chocolate chip cookies.
+
+## Answer
+
+* **A** That's a great choice.
+* **B** I'm excited to start reading it. Thanks for your help.
+* **A** Let's go grab a coffee. I'll take a cappucino, caramel macchiato with extra syrup and whipped cream and three chocolate chip cookies.
+* **B** Alex. What happend to your new year's resolution?
+* **A** Oh right. Make that two chocolate chip cookies.
 
 ## Learning
 
 | No. | Expression | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| 1 | 부장님이 식당과 날짜 모두 좋다고 하셨어. | 부장님이 좋다고 하셨어. 식당과 날짜 모두. | The boss was okay with the restauran and the date both. | |
-| 2 | 잘됐다. | 완벽해. | Perfect. | ★ |
-| 3 | 너는 이메일을 쓰지 그래? | 너는 이메일을 쓰기 시작하지 그래? | Why don't you start writing an email? | ★ |
-| 4 | 사무실 전체에 이메일을 보내자. | 이메일을 보내자 사무실 전체에. | Let's send an email to the whole office. | ★ |
-| 5 | 지금 시작할게. | 지금 시작할게. | I will get started on that now. | |
-| 6 | 나는 사무실 사람들에게 줄 선물을 맡을게. | 나는 선물을 맡을게. 사무실 사람들에게 줄. | I will take care of the gifts for the office. | ★ |
-| 7 | 선물 고르는 거 도와줄까? | 도와줄까? 너가 선물 고르는 거? | Can I help you choose the gifts? |  |
-| 8 | 너한테도 깜짝 선물이 되어야 하니까. | 깜짝 선물이 되어야 하니까. 너한테도. | It has to be a surprise for you too. | ★ |
+| 1 | 이거 읽으려고 하니까 신이 나요. | 이거 읽으려고 하니까 신이 나요. | I'm excited to start reading it. | |
+| 2 | 커피 마시러 가죠. | 커피 마시러 가죠. | Let's go grab a coffee. | ★ |
+| 3 | 카푸치노 한 잔 주세요. | 카푸치노 한 잔 주세요. | I'll take a cappucino. | ★ |
+| 4 | 카라멜 마키아토에 시럽이랑 휘핑 크림 추가해주시고 초콜릿칩 쿠키 3개 주세요. | 카라멜 마키아토에 시럽이랑 휘핑 크림 추가해주시고 초콜릿칩 쿠키 3개 주세요. | I'll take a caramel macchiato with extra syrup and whipped cream and three chocolate chip cookies. | ★ |
+| 5 | 새해 결심은 어떻게 된 거에요? | 새해 결심은 어떻게 된 거에요? | What happend to your new year's resolution? | |
+| 6 | (이전 주문을 수정) 초콜릿칩 쿠키 2개로 해주세요. | (이전 주문을 수정) 초콜릿칩 쿠키 2개로 해주세요. | Make that two chocolate chip cookies. | ★ |
 
-## Shuffling
+---
 
-### original
+# Shuffling
 
-A: 부장님이 식당과 날짜 모두 좋다고 하셨어.  
-B: 잘됐다. 다음으로 우리가 해야 하는 게 뭐야?  
-A: 아르만은 이메일을 쓰지 그래? 사무실 전체에 이메일을 보내자.  
-B: 그래. 지금 시작할게.  
-A: 좋았어. 나는 사무실 사람들에게 줄 선물을 맡을게.  
-B: 어? 선물 고르는 거 도와줄까?   
-A: 아니야. 아르만한테도 깜짝 선물이 되어야 하니까.  
+## Original
 
-A: 부장님이 좋다고 하셨어. 식당과 날짜 모두.  
-B: 잘됐다. 뭐야? 다음으로 우리가 해야 하는?   
-A: 아르만은 이메일을 쓰지 그래? 이메일을 보내자 사무실 전체에.  
-B: 그래. 지금 시작할게.  
-A: 좋았어. 나는 선물을 맡을게. 사무실 사람들에게 줄.  
-B: 어? 도와줄까? 선물 고르는 거?   
-A: 아니야. 아르만한테도 깜짝 선물이 되어야 하니까.  
+### Source
 
-A: The boss was oaky with the restaruant and the date.
-B: Perfect. What's the next step we need to take?   
-A: Why don't you start writing an email? Let's send an email to the whole office.  
-B: Sure. I'll get started on that now.  
-A: Great. I'll take care of the gifts for the office.  
-B: Oh? Can I help you choose the gifts?   
-A: No no. It has to be a suprise for you too.
+* **A** 그거 아주 좋은 선택이네요.
+* **B** 이거 읽으려고 하니까 신이 나요. 도와줘서 고마워요.
+* **A** 우리 커피 마시러 가죠. 카푸치노 한 잔, 카라멜 마키아토에 시럽이랑 휘핑 크림 추가해주시고 초콜릿칩 쿠키 3개 주세요.
+* **B** 알렉스. 새해 결심은 어떻게 된 거에요?
+* **A** 아 맞다. 초콜릿칩 쿠키 2개 주세요.
 
-### shuffling
+### Answer
 
-A: 대표님이 송년회로 식당과 날짜 모두 좋다고 하셨어.  
-B: 잘됐다. 이제 다음으로 뭐 해야 하지?   
-A: 너는 메시지를 쓰지 그래? 사무실 단체 카톡방에 메시지를 보내자.  
-B: 그래. 지금 시작할게.  
-A: 좋았어. 나는 선물을 맡을게. 사무실 사람들에게 줄.  
-B: 어? 도와줄까? 선물 고르는 거?   
-A: 아니야. 너한테도 깜짝 선물이 되어야 하니까.  
+* **A** That's a great choice.
+* **B** I'm excited to start reading it. Thanks for your help.
+* **A** Let's go grab a coffee. I'll take a cappucino, caramel macchiato with extra syrup and whipped cream and three chocolate chip cookies.
+* **B** Alex. What happend to your new year's resolution?
+* **A** Oh right. Make that two chocolate chip cookies.
 
-A: The boss was okay with the restaruant and the date for the year-end party.  
-B: Perfect. What's the next step we need to take?   
-A: Why don't you start writing an message? Let's send an message to the whole office chat group.  
-B: Sure. I'll get started on that now.  
-A: Great. I'll take care of the gifts for the office.  
-B: Oh? Can I help you choose the gifts?   
-A: No no. It has to be a suprise for you too.
+## Customized
 
-## Shadowing
+### Source
 
-A: The boss was oaky with the restaruant and the date.
-B: Perfect. What's the next step we need to take?   
-A: Why don't you start writing an email? Let's send an email to the whole office.  
-B: Sure. I'll get started on that now.  
-A: Great. I'll take care of the gifts for the office.  
-B: Oh? Can I help you choose the gifts?   
-A: No no. It has to be a suprise for you too.
+* **A** 오늘 날씨가 영하 8도에요.
+* **B** 네. 출근길이 엄청 춥더라고요.
+* **A** 우리 커피 마시러 가죠. 망고 바나나 한 잔, 토피넛라떼에 시럽이랑 휘핑 크림 추가해주시고 마카다미아 쿠키 3개 주세요.
+* **B** 현인. 새해 결심은 어떻게 된 거에요?
+* **A** 아 맞다. 마카다미아 쿠키 2개 주시고 휘핑 크림은 빼주세요.
+
+### Answer
+
+* **A** It's eight degrees below zero today.
+* **B** Yeah. It was freezing on my way to work.
+* **A** Let's go grab a coffee. I'll take a mango banana, toffeenut latte with extra syrup and whipped cream and three macadamia chip cookies.
+* **B** Louie. What happend to your new year's resolution?
+* **A** Oh right. Make that two macadamia chip cookies and no whipped cream please.
 
 ---
 
