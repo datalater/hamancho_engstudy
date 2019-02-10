@@ -2,6 +2,53 @@
 
 ---
 
+# 20190110 Let me get this
+
+## Original
+
+### Source
+
+* **A** 우리 영화 보면서 먹을 간식거리 좀 살까?
+* **B** 그래. 근데 빨리 사자. 영화 시작 전에 하는 예고편을 놓치기 싫거든.
+* **A** 알았어. 중간 사이즈 팝콘이랑 음료수 두 개 어때?
+* **B** 좋아. 내 멤버십 카드로 할인 받을 수 있어. 내가 이거 살게.
+* **A** 고마워. 아마도 내가 널 좀 더 오래 사귀게 될 것 같다.
+* **B** 잠깐만. 뭐라고?
+
+### Answer
+
+* **A** Here's your ticket. Should we get some snacks for the movie?
+* **B** Sure. But let's be quick. I don't want to miss the trailers before the movie.
+* **A** Okay. How about medium popcorn and two soft drinks?
+* **B** Great. I can get a discount with my membership card. Let me get this.
+* **A** Thanks. Maybe I should keep you around a little longer.
+* **B** Wait. What?
+
+## Customized
+
+### Source
+
+* **A** 우리 아카데미 시상식 보면서 먹을 간식거리 좀 살까?
+* **B** 그래. 중간 사이즈 팝콘이랑 음료수 두 개 어때?
+* **A** 좋지. 그럼 팝콘은 오리지날, 치즈, 어니언 중에서 어떤 걸 원해?
+* **B** 치즈는 손가락에 묻어서 좀 불편하니까 어니언으로 하자.
+* **A** 그래. 시간이 거의 다 됐으니 빨리 편의점에 가서 사와야겠다.
+* **B** 시상식 시작 전에 광고하니까 천천히 해도 돼.
+* **A** 응. 혹시 할인 받을 수 있는 멤버심 카드 있어?
+* **B** 응. 그러면 내가 카드 줄테니 내 카드로 사.
+
+### Answer
+
+* **A** Should we get some snakcs for the academy awards?
+* **B** Sure. How about medium popcorn and two sodas?
+* **A** Great. Then which flavor do you prefer out of original, cheese and onion?
+* **B** I want onion because cheese makes my fingers dirty and it's unpleasant.
+* **A** Alright. Time is almost up so I should be quick.
+* **B** There're always commercials before the awards so you don't have to be in a hurry.
+
+
+---
+
 # 20190104 Go grab a coffee
 
 ## Original

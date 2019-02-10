@@ -3,6 +3,18 @@
 
 ---
 
+## 20190210 Let me get this
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 우리 영화 보면서 먹을 간식거리 좀 살까? | 좀 살까, 간식거리, 영화를 위한. | Should we get some snacks for the movie? | ★ |
+| 2 | 근데 빨리 사자. | 근데 빨리 하자. | But let's be quick. | ★ |
+| 3 | 영화 시작 전에 하는 예고편을 놓치기 싫거든. | 놓치기 싫거든, 예고편을, 영화 시작 전에 하는. | I don't want to miss the trailers before the movie. | ★ |
+| 4 | 중간 사이즈 팝콘이랑 음료수 두 개 어때? | 어때, 중간 사이즈 팝콘이랑 음료수 두 개? | How about medium popcorn and two soft drinks? | ★ |
+| 5 | 아마도 내가 널 좀 더 오래 사귀게 될 것 같다. | 아마도 내가 사귀게 될 것 같다, 너를, 좀더 오래 | Maybe I should keep you around a little longer. | ★ |
+
+> **Notes**: ~ 하는 것이 좋은 아이디어가 아닐까? == Should we ~ ? | soft drinks == pop == soda == cola
+
 ## 20190104 Go grab a coffee
 
 | No. | Expression | Disassemble | Correct | star | count |
