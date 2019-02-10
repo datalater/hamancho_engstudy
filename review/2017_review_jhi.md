@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+### 20190104 내가낼게 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 우리 영화보면서 먹을 간식거리 좀 살까? | 우리 간식거리 좀 살까, 영화보면서 먹을? |  Should we get some snacks for the movie? | |
+| 2 | 빨리 사자 | 빨리 사자 | let's be quick | ★ |
+| 3 | 중간 사이즈 팝콘이랑 음료수 2개 어때? | 어때, 중간 사이즈 팝콘이랑, 음료수 2개? | How about a medium popcorn and two soft drinks? | ★ |
+| 4 | 내가 이거 살게 | 내가 이거 살게 | let me get this | ★ |
+
+
 ### 20190104 커피먹자 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
