@@ -3,7 +3,20 @@
 
 ---
 
-## 20190210 Let me get this
+## 20190118 There is so much to look forward to
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 승진 축하해, 아르만! | 승진에 대해 축하해, 아르만! | Congratulations on your promotion, Arman! | ★ |
+| 2 | 정말 기쁜 깜짝 뉴스였어. | 정말 기쁜 깜짝 선물이었어. | This was such a nice surprise. | ★ |
+| 3 | 벌써 아주 야심찬데? | 벌써 아주 야심찬데? | You are so ambitious already. | ★ |
+| 4 | 기대할 일이 아주 많아. | 아주 많아, 기대할 일이. | There's so much to look forward to. | ★ |
+| 5 | 네 책임감이 훨씬 더 커진 거야. | 너는 더 많은 책임감을 가지게 된거야. | You have a lot more responsibility. | ★ |
+
+> **Notes**: 너는 ~하게 되었다 : 현재형 동사를 사용하면 해당 뉘앙스가 생긴다. ex. You have a bigger arms.
+
+
+## 20190111 Let me get this
 
 | No. | Expression | Disassemble | Correct | star | count |
 | :---: | :--- | :--- | :--- | :---: | :---: |
