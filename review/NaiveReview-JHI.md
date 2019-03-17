@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+### 20190118 승진축하 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 정말 기쁜 깜짝 뉴스였어 | 정말 기쁜 깜짝 뉴스였어 |  This was such a nice surprise, What a nice surprise  | ★ |
+| 2 | 기대할 일이 아주 많아 | 기대할 일이 아주 많아 |There's so much to look forward to | ★ |
+| 3 | 니 책임감이 훨씬 더 커진거야 | 니 책임감이 훨씬 더 커진거야 |You have a lot more responsibilities | ★ |
+| 4 |  빨리 새로운 프로젝트를 시작하고 싶어 | 빨리 새로운 프로젝트를 시작하고 싶어 | I can't wait to get a new project started | ★ |
+
 ### 20190104 내가낼게 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
