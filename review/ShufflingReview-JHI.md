@@ -2,6 +2,48 @@
 
 ---
 
+###  20190125 추천해주세요 ###
+
+## Original
+
+### Source
+
+* **A** 저기요, 이 터키시 딜라이트 상자는 얼마죠?
+* **B** 몇 상자 필요하신데요?
+* **A** 두 상자요. 그리고 차도 한 상자 사고싶어요. 추천해주실만한거 있나요?
+* **B** 손님이 드실건가요 아니면 선물인가요?
+* **A** 선물이에요. 좋은 걸로 권해주세요.   
+* **B** 그럼 이쪽으로 오세요. 이 차가 우리 가게에서 제일 잘나가는겁니다.
+*
+### Answer
+
+* **A** Excuse me. How much is this box of Turkish Delight?     
+* **B** How many boxes do you need?
+* **A** Two boxes. And I want to buy a box of tea too. Any recommendations?    
+* **B** For yourself or as a present?
+* **A** A present. Please recommend me something good.   
+* **B** Then come this way. This tea is the best seller at our shop.
+
+## Customized
+
+### Source
+
+* **A** 저기요. 이 2등석 가격은 얼마죠?
+* **B** 몇 자리나 필요하신데요?
+* **A** 여섯자리요. 그리고 응원 도구도 사고 싶어요. 추천해주실만한거 있나요?
+* **B** LED가 달린 머리띠를 추천합니다. 우리 구장에서 제일 잘가는거에요.
+* **A** 좋네요. 2등석 6자리랑 머리띠 6개 주세요.
+* **B** 마음에 들어하시니 기쁘네요. 호사를 누리세요.
+
+### Answer
+
+* **A** Excuse me. How much is the second-class seat?
+* **B** How many seats do you need?
+* **A** 6 seats. And I want to also buy a cheering tool. Any recommendations?
+* **B** I want to recommend a hairband with LED. This is the best seller at our stadium.
+* **A** It looks good. Please give 6 second-class seats and 6 hairdands.
+* **B** I'm glad you like it. Spoil yourself.
+
 ### 20190118 승진축하 ###
 
 ## Original
