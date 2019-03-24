@@ -3,6 +3,14 @@
 
 ---
 
+## 20190125 Any recommendations
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 손님이 드실 건가요, 아니면 선물인가요? | 손님 자신을 위한 건가요, 아니면 선물로서인가요? | For yourself or as a present? | ★ |
+| 2 | 좋은 걸로 권해주세요. | 부탁합니다, 권해주세요, 좋은 무언가로. | Please recommend me something good. | ★ |
+| 3 | 이 차가 저희 가게에서 제일 잘 나가는 것입니다. | 이 차가 가장 잘 팔리는 것입니다, 우리 가게에서. | This tea is the best seller at our shop. | ★ |
+
 ## 20190118 There is so much to look forward to
 
 | No. | Expression | Disassemble | Correct | star | count |
