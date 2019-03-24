@@ -80,7 +80,7 @@
 
 * **A** Execuse me, How much is this box of Godiva chocolate?
 * **B** How many boxes do you need?
-* **A** Two boxes. And I want to buy a box of black tea, too. Any recommendations?
+* **A** Three boxes. And I want to buy a box of black tea, too. Any recommendations?
 * **B** For yourself or as a present?
 * **A** For myself. Please recommend me which has less caffeine.
 * **B** Then come this way. You can find the least caffeine content on the left side, and the most content on the right side.
