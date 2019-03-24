@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+###  20190125 추천해주세요 ###
+
+| No. | Expression | Disassemble | Correct | star | count |
+| :---: | :--- | :--- | :--- | :---: | :---: |
+| 1 | 이 터키시 딜라이트 상자는 얼마죠? |  얼마죠, 이 터키시 딜리아트 상자는? | How much is this box of Turkish Delight?  | ★ |
+| 2 | 손님이 드실건가요 아니면 선물인가요? | 손님이 드실건가요 아니면 선물인가요? | For yourself or as a present? | ★ |
+| 3 | 그럼 이쪽으로 오세요 | 그럼, 오세요 이쪽으로  | Then come this way | ★ |
+| 4 | 이 차가 우리 가게에서 제일 잘나가는겁니다 | 이 차가 제일 잘나가는겁니다, 우리 가게에서 | This tea is the best seller at our shop | ★ |
+
+
 ### 20190118 승진축하 ###
 
 | No. | Expression | Disassemble | Correct | star | count |
