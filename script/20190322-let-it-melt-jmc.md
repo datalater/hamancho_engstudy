@@ -30,7 +30,7 @@
 ## Learning
 
 | No. | Source | Draft | Answer | star |
-| :---: | :--- | :--- | :--- | :---: | :---: |
+| :---: | :--- | :--- | :--- | :---: |
 | 1 | 어우, 이런. | Oh. | Aww. | ★ |
 | 2 | 목이 아프네.  | My throat is sore. | I've got a sore throat. `OR Draft` |  |
 | 3 | 아무래도 감기가 오려나봐요. | I guess I might catch a cold. | I'm afraid I'm coming down with a cold. `OR` I feel like I'm getting a cold. | ★ |
