@@ -60,12 +60,15 @@ $ git add script/20190125-any-recommendations-jmc.md
 $ git commit -v
 ```
 
+#### Vim
+
 `git commit` 명령어를 입력하면 vim 모드에 진입한다. vim 초보자라면 vim모드에서 키보드를 함부로 입력하면 안된다. 안전하게 아래 명령어를 순서대로 타이핑하자.
 
-1. <kbd>`shift + o`</kbd>
-2. `<WRITE_YOUR_COMMIT_MESSAGE>`
-3. <kbd>`Esc`</kbd>
-4. <kbd>`:x` + `enter`</kbd>
+1. <kbd>`ESC` + `gg`</kbd> 
+2. <kbd>`shift + o`</kbd>
+3. `<WRITE_YOUR_COMMIT_MESSAGE>`
+4. <kbd>`Esc`</kbd>
+5. <kbd>`:x` + `enter`</kbd>
 
 #### Rules
 
