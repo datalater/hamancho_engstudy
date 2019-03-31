@@ -3,6 +3,17 @@
 
 ---
 
+## 20190322 Let it melt
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 어우, 이런. | Oh. | Aww. | ★ |
+| 2 | 목이 아프네.  | My throat is sore. | I've got a sore throat. `OR Draft` |  |
+| 3 | 아무래도 감기가 오려나봐요. | I guess I might catch a cold. | I'm afraid I'm coming down with a cold. `OR` I feel like I'm getting a cold. | ★ |
+| 4 | 그럼 이 목캔디를 드세요. | Then have this cough drop. | Then take this cough drop. | ★ |
+| 5 | 따뜻한 물 좀 마실 수 있을까요? | May I have some hot water? | Can I get some warm water? | |
+| 6 | 오늘은 자전거 타지 말고 푹 쉬세요. | Do not ride bike today and get some rest. | Get enough rest today instead of riding a bike. `OR Draft` | ★ |
+
 ## 20190125 Any recommendations
 
 | No. | Expression | Disassemble | Correct | star | count |
