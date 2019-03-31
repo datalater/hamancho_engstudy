@@ -62,17 +62,17 @@
 
 ### Group
 
-* **A** Aww. I've got / lower back pains. I'm afraid / I can't / go to the movies.
+* **A** Aww. I've got / lower back pains. I'm afraid / I can't / go to the movies / later on.
 * **B** Alright. You've sit / too long, / so get some fresh air.
-* **A** I guess I have to. Is it okay to postpone the movie next week?
-* **B** Sure. It's gonna be too bad / if you have to / sit / for a longer time / watching movies. Go home / and get enough rest / today.
+* **A** I guess I have to. Is it okay to / postpone the movie next week?
+* **B** Sure. It's gonna be too bad / if you have to sit / for a longer time / watching movies. Go home / and get enough rest / today.
 
 ### Quest
 
-* **A** 어우, 이런. 생겼어 / 등허리 아픔. 안타깝게도 /  이따가 영화 보러 못 갈 것 같아.
-* **B** 알겠어. 오래 앉아 있었으니 밖에 바람 좀 쐬고 와.
-* **A** 그래야겠다. 영화는 다음주로 미뤄도 괜찮아?
-* **B** 당연하지. 오늘 영화까지 보면 더 오래 앉아 있어야 하니 등허리에 매우 안 좋을 거야. 오늘은 집에 가서 푹 쉬어.
+* **A** 어우, 이런. 생겼어 / 등허리 아픔. 안타깝게도 / 영화 보러 못 갈 것 같아 / 이따가.
+* **B** 알겠어. 오래 앉아 있었어 / 바람 좀 쐬고 와.
+* **A** 그래야겠다. 괜찮아? / 영화 다음주로 미뤄도
+* **B** 당연하지. 매우 안 좋을 거야 / 너가 앉아 있어야 한다면 / 오랫동안 / 영화 보는. 집에 가 / 푹 쉬어 / 오늘.
 
 ---
 
