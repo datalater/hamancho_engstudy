@@ -3,6 +3,24 @@
 
 ---
 
+## 20190329 Adopting a dog 
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 어우, 이런. | Aww. | Oh no. | |
+| 2 | 눈이 부었잖아.  | I've got swollen eyes. | My eyes are swollen (shut). `OR Draft` | ★ |
+| 3 | 내 눈도 그래. (eyes 생략하기) | Me too. | Mine too. | ★ |
+| 4 | 그걸 보니까 여러 해 전에 우리 개가 떠났을 때가 생각나더라. | Watching the movie reminds me of when our dog has passed away. | That reminded me of the(`OR that`) time when my dog left me many years ago. | ★ |
+| 5 | 우리 쌍둥이를 가졌잖아. | We've got twins. | We're having twins. | ★ |
+
+> We cried our eyes out last night.
+
+> Such a moving performance (o). Such a moving movie (x). Because 'moving movie' sounds bad.
+
+> This reminded me of my best friend in high school.
+
+> What do you think/feel about? How do you think/think about?
+
 ## 20190322 Let it melt
 
 | No. | Source | Draft | Answer | star |
