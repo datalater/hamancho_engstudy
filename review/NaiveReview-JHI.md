@@ -1,6 +1,15 @@
 
 ⓒ JHI 2017
 
+###  20190329 개를입양하는게어때 ###
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 눈이 부었잖아 | My eyes are swollen | My eyes are swollen | ★ |
+| 2 | 그걸 보니까 여러 해 전에 우리 개가 떠났을 때가 생각나더라 | The movie reminded me of the time the dog we raised was gone many years ago | That reminded me of the time when my dog left me many years ago | ★ |
+| 3 | 개 이야기나 나와서 말인데. 우리 개 한마리 입양하는게 어때? | As you mentiend the dog, what do you think about adoting a dog? | Speaking of dogs, what do you think about adopting a dog? | ★ |
+| 4 | 그건 곰곰이 생각해보기로 하자 | Let's think about it carefully |  Let's sleep on it `OR Draft` | ★ |
+
 ###  20190322 입안에서녹여드세요 ###
 
 | No. | Source | Draft | Correct | star |
