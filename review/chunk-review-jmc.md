@@ -125,4 +125,18 @@
 * **A** 그래야겠다. 괜찮아? / 영화 다음주로 미뤄도
 * **B** 당연하지. 매우 안 좋을 거야 / 너가 앉아 있어야 한다면 / 오랫동안 / 영화 보는. 집에 가 / 푹 쉬어 / 오늘.
 
+### Group
+
+* **A** Aww. I've got / cold sore in my mouth. I'm afraid / I have to change / the lunch menu.
+* **B** Alright. You have to avoid / very hot foods or beverages.
+* **A** You can say that again. Is it okay / to go eat naengmyeon for lunch? It means by cold noodles.
+* **B** Sure. I've heard of / the famous Pyeongyang naengmyeon restaurant / near work, / so I've always wanted / to checkout there. Let's go!
+
+### Quest
+
+* **A** 아우. 생겼어 / 입천장 헐음이. 안타깝지만 / 바꿔야 할 것 같아 / 점심 메뉴.
+* **B** 좋아. 피해야 해 / 매우 뜨거운 음식이나 음료.
+* **A** 맞아. 괜찮니 / 점심으로 냉면 먹으러 가도? 냉면은 차가운 면 음식이야.
+* **B** 물론. 들은 적 있어 / 유명한 평양냉면 맛집을 / 직장 근처에, / 항상 원했어 / 거기 가보는 것. 가자!
+
 ---
