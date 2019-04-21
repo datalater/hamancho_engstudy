@@ -2,7 +2,8 @@
 
 ---
 
-###  20190405 교통정체 피하기 ###
+
+##  20190405 교통정체 피하기
 
 ## Original
 
@@ -25,7 +26,7 @@
 
 ## Customized
 
-### Group
+### Group 1
 
 * **A** Jay, / Can you take a day off / next Friday?/  There's a food festival / in Busan / until the third/.
 * **B** I'd love to go see that./  I've always wanted to / have a fancy dinner / in that festival/
@@ -33,15 +34,29 @@
 * **B** I'll, louie. / Thanks./
 * **A** If you decide to go, / you'd better make a reservation / early / not to miss the train/
 
-
-
-### Quest
+### Quest 1
 
 * **A** 제이 / 하루 휴가 낼 수 있어 / 다음주 금요일? / 음식 축제가 있다 / 부산에 / 3일까지
 * **B** 정말 보러 가고 싶다 / 항상 원했다 / 근사한 저녁을 먹다 / 그 축제에서 /
 * **A** 멋지다 / 그러면 확인해라 / 니가 할 수 있는지 / 그리고 알려줘
 * **B** 그럴게, 루이. / 고마워 /
 * **A** 니가 가기로 결정하면 / 예약을 하는게 낫다 / 빨리 / 기차를 놓치지 않기 위해서
+
+### Group 2
+
+* **A** Louie,/  Can you take a week off / on August?/  There's a EPL opening match / on 16th August./
+* **B** I'd love to go see that. / I have always wanted / to watch EPL / in person./
+* **A** Cool, / then please check / if you can do that / and let me know  /
+* **B** I'll, rooney. /  Thanks./
+* **A** If you decide to go, / you'd better leave/  early / to visit tourist attractions / in london. /
+
+### Quest 2
+
+* **A** 루이/ 일주일 휴가 낼 수 있어 / 8월에? / EPL 개막전이 있다 / 8월 16일에 /
+* **B** 정말 보러 가고 싶다 / 항상 원했다 / EPL 보다 / 직접 /
+* **A** 좋아 / 그러면 확인해라 / 니가 할 수 있는지 / 그리고 알려줘
+* **B** 그럴게, 루니. / 고마워 /
+* **A** 니가 가기로 결정하면 / 가는게 낫다 / 빨리 / 관광지를 가다 / 런던에서 / 
 
 
 ###  20190329 개를입양하는게어때 ###
