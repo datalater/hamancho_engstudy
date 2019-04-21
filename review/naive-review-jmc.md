@@ -3,7 +3,22 @@
 
 ---
 
-## 20190329 Adopting a dog 
+## 20190405 Beat the traffic
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 다음주에 하루 휴가낼 수 있어? | Can you give a day off next week? | Can you take one day off next week? | ★ |
+| 2 | 10일까지 진해에서 벚꽃 축제를 하거든. | There is Sakura festival in Jinhae until 10th. | There's a cherry blossom festival in Jinhae until the 10th. | ★ |
+| 3 | 그럼 갈 수 있는지 확인하고 알려줘. | Then check if you can go and tell me. | Then please check if you can do that and let me know. `OR Draft` | |
+
+> * (며칠) 휴가를 내다: take one day off. take two days off.
+> * 하루 휴가를 주실 수 있나요: It’d be really helpful if you could give me a day off.
+> * 10일까지: until the 10th.
+> * 벚꽃 축제: A cherry blossom festival
+> * 보러 가자: let's go see that.
+> * ~하려면 ~하는 게 좋겠는데: We had better. We had better leave early.
+
+## 20190329 Adopting a dog
 
 | No. | Source | Draft | Answer | star |
 | :---: | :--- | :--- | :--- | :---: |
