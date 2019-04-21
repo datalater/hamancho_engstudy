@@ -1,6 +1,17 @@
 
 ⓒ JHI 2017
 
+###  20190405 교통정체피하기 ###
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 다음주에 하루 휴가 낼 수 있어? | Can you get a day off next week? |Can you take one day off next week? `or Draft` | ★ |
+| 2 | 늘 그 축제를 보고싶었거든 | Let me know whether you can go or not | I've always wanted to check out the festival `or Draft` | ★ |
+| 3 | 그럼 갈 수 있는지 확인하고 알려줘 |  Let me know whether you can go or not | please check if you can do that and let me know | ★ |
+| 4 | 교통정체를 피할 수 있게 일찍 출발해야해 | we'd better go early to beat the traffic | we'd better leave early to beat the traffic | ★ |
+
+
+
 ###  20190329 개를입양하는게어때 ###
 
 | No. | Source | Draft | Correct | star |

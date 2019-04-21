@@ -2,6 +2,48 @@
 
 ---
 
+###  20190405 교통정체 피하기 ###
+
+## Original
+
+### Group
+
+* **A** Eddy, / Can you take one day off / next week? / There's a cherry blossom festival / in Jinhae / until the tenth
+* **B** I'd love to go see that./  I've always wanted to / check out the festival/
+* **A** Cool, / then please check / if you can do that / and let me know/
+* **B** I'll, Min./  Thanks/
+* **A** If we decide to go, / we'd better leave early/  to beat the traffic
+*
+### Quest
+
+* **A** 에디 / 하루 휴가 낼 수 있니 / 다음주? / 벚꽃축제가 있다 / 진해에 / 10일까지 /
+* **B** 정말 보러 가고 싶다 / 항상 원했다 / 축제를 보다 /
+* **A** 좋아 / 그러면 확인하다 / 니가 할 수 있는지 / 그리고 알려줘
+* **B** 그럴게, 민 / 고마워  
+* **A** 우리가 가기로 결정하면 / 빨리 떠나는게 낫다 / 교통정체를 피하다 /
+
+
+## Customized
+
+### Group
+
+* **A** Jay, / Can you take a day off / next Friday?/  There's a food festival / in Busan / until the third/.
+* **B** I'd love to go see that./  I've always wanted to / have a fancy dinner / in that festival/
+* **A** Awesome,/  then please ckeck / if you can do that/ and let me know/   
+* **B** I'll, louie. / Thanks./
+* **A** If you decide to go, / you'd better make a reservation / early / not to miss the train/
+
+
+
+### Quest
+
+* **A** 제이 / 하루 휴가 낼 수 있어 / 다음주 금요일? / 음식 축제가 있다 / 부산에 / 3일까지
+* **B** 정말 보러 가고 싶다 / 항상 원했다 / 근사한 저녁을 먹다 / 그 축제에서 /
+* **A** 멋지다 / 그러면 확인해라 / 니가 할 수 있는지 / 그리고 알려줘
+* **B** 그럴게, 루이. / 고마워 /
+* **A** 니가 가기로 결정하면 / 예약을 하는게 낫다 / 빨리 / 기차를 놓치지 않기 위해서
+
+
 ###  20190329 개를입양하는게어때 ###
 
 ## Original
