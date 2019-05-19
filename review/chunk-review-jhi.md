@@ -8,8 +8,8 @@
 
 ### Group
 
-* **A** Arman, can you pleas e/ make 12 copies / of this ? /
-* **B** Ok,/ don't worry./ Is this for/ the meeting? /
+* **A** Arman, can you please/ make 12 copies / of this ? /
+* **B** OK,/ don't worry./ Is this for/ the meeting? /
 * **A** Yes. / well,/  we have 15 minutes / before the meeting./
 * **B** Nice. / I have something / to tell you./  I'm thinking of/  running my own restaurant./
 * **A** What? / Are you serious? / Why don't you / give it a second thought?/
@@ -29,7 +29,7 @@
 ### Group
 
 * **A** Jay, can you please / make 3 copies of / this poster?
-* **B** Ok,/  don't worry. / Is this for / the disply of your room?/  
+* **B** OK,/  don't worry. / Is this for / the display of your room?/  
 * **A** Yes. / well, / we have 30 minutes / before the movie./  
 * **B** Nice. / I have something to tell you. / I'm thinking of buying Ironman figure./
 * **A** What? / Are you kidding?  / Why don't you sleep on it?/
