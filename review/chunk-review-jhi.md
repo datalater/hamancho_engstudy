@@ -26,7 +26,7 @@
 
 ## Customized
 
-### Group
+### Group 1
 
 * **A** Jay, can you please / make 3 copies of / this poster?
 * **B** OK,/  don't worry. / Is this for / the display of your room?/  
@@ -35,8 +35,17 @@
 * **A** What? / Are you kidding?  / Why don't you sleep on it?/
 * **B** I've alomost / made up my mind.
 
+### Group 2
 
-### Quest
+* **A** Jay, I need you  / to lend me a hand / with my problem. / Can you please / make 3 copies of / each / this material?
+* **B** OK, / I will do that. / Is this for / the test?/
+* **A** Yes. / I should reread this material/  before I take the test. /
+* **B** Nice. / It'll help you / solve the problem / better.
+* **A** You're right. /  It must remind me / of the answer / well. / And I can finish the test/  in no time. /
+
+
+
+### Quest 1
 
 * **A**  제이 / 할 수 있니 / 3부 복사하다 / 이 포스터? /
 * **B** 그럼 / 걱정하지마 / ~을 위한거니? / 너의 방에 전시 /
@@ -44,6 +53,14 @@
 * **B** 좋네 / 나 가지고 있다 / 너에게 말하다 / 나는 생각 중이다 / 아이언맨 피규어를 사다 /
 * **A** 뭐? / 농담이지? / ~하는게 어때? / 신중히 생각하다
 * **B** 나 거의 했다 / 결심하다 /
+
+### Quest 2
+
+* **A**  제이, 나는 니가 필요해 / 도움을 주다 / 내 문제에 / 할 수 있니? / 3부 복사하다 / 각각 / 이 자료 /
+* **B** 그럼 / 내가 할 게. / ~을 위한거니? / 시험 /
+* **A** 응. / 이 자료를 다시 읽어야만 한다 / 시험을 치르기 전에 /
+* **B** 좋네 / 그게 너를 도울거야 / 문제를 해결하다 / 잘 /
+* **A** 맞아. / 나에게 떠올릴 게 할 것이다. / 정답을 / 잘. / 그리고 나는 시험을 끝낼 수 있다 / 빨리. /
 
 
 ##  20190405 교통정체 피하기
