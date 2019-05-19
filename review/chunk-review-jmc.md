@@ -27,7 +27,7 @@
 
 ## Customized
 
-### Group
+### Group 01
 
 * **A** Louie, can you please / make four copies of this?
 * **B** Okay. Don't worry. Is this for the contract?
@@ -38,7 +38,7 @@
 * **A** This is crazy. You said / you have to save money / for a house. What happened to / your new year's resolution?
 * **B** Oh right. I guess I have to buy silver one.
 
-### Quest
+### Quest 01
 
 * **A** 루이, 해줄 수 있니 / 이거 4장 복사?
 * **B** 그래. 걱정 마. 계약 건에 대한 거야?
@@ -48,6 +48,28 @@
 * **B** 난 거의 마음을 정햇어.
 * **A** 이건 미친 일이야. 너 말했잖아 / 돈을 모아야 한다 / 집 때문에. 어떻게 된거야 / 새해 계획?
 * **B** 아 맞다. 은으로 된 거 사야겠다.
+
+### Group 02
+
+* **A** Louie, can you please / lend me a hand / with my problem?
+* **B** Okay. Don't worry. What is up?
+* **A** I need to / build a new doll house / for Nancy. And I'm afraid / we have 2 hours / before Nancy comes.
+* **B** Nice. I have something to tell you. I'm thinking of / going to sleep now.
+* **A** What? Are you serious? Why don't you give it a second thought?
+* **B** I've been trying to / solve physics problem / and I am so tired. So enjoy your building a doll house.
+* **A** This is crazy. If you help me out, / I'm gonna / lend you a Ironman gold figure / for three weeks.
+* **B** Three months. No compromise.
+
+### Quest 02
+
+* **A** 루이, 해줄 수 있니 / 도움의 손길 빌려주기 / 내 문제에 대해
+* **B** 그래. 걱정 마. 무슨 일인데?
+* **A** 해야 돼 / 새로운 인형 집 만들기 / 낸시의 / 그리고 안타깝지만 / 2시간 남았어 / 낸시 오기까지.
+* **B** 잘됐다. 너한테 할 말 있어. 나 생각 중이야 / 지금 자려고.
+* **A** 뭐라고? 정말이야? 한 번 더 생각해 보는 게 어때?
+* **B** 나 해왔어 / 물리학 문제 푸는 것/ 그리고 매우 피곤해. 그러니 잘해봐 / 인형 집 짓는 것
+* **A** 이건 미친 일이야. 네가 날 도와주면 / 할게 / 아이언맨 골드 피규어 빌려주기 / 3주 동안.
+* **B** 3달. 타협 없어.
 
 ---
 
@@ -119,7 +141,7 @@
 
 ## Customized
 
-### Group
+### Group 01
 
 * **A** Oh no. My shirt / is shrunk.
 * **B** Yeah. Mine too. We washed it / with too hot water. Speaking of hot water, / what do you think / about going to the spa / on this weekend?
@@ -128,13 +150,31 @@
 * **A** Jordan, we are having / financial problems. Let's sleep on it.
 * **B** Alright.
 
-### Quest
+### Quest 01
 
 * **A** 어우, 이런. 셔츠가 / 줄어들었다.
 * **B** 그러게. 내 셔츠도 그래. 우리 빨래 했어 / 너무 뜨거운 물로. 뜨거운 물 하니까 / 어때 / 스파 가는 것 / 이번 주말
 * **A** 진짜 좋은 생각. 추천 있니 / 갈 만한 데
 * **B** 아니. 근데 생각난다 / 발리에 갔었던 때 / 우리 신혼여행으로. / 발리 하니까 / 진짜 원해 / 방문하기 거기 다시.
 * **A** 조든, 우리 있잖아 / 재정적 문제. 그건 곰곰이 생각해보기로 하자.
+* **B** 알겠어.
+
+### Group 02
+
+* **A** Oh no. My eyes / are swollen.
+* **B** Not only swollen, they are so red. What happened?
+* **A** I don't know. What should I do now?
+* **B** Get help from somebody who knows medical stuff.
+* **A** Who do you suggest I ask?
+* **B** Mr. Strange used to be a doctor. He will be glad to help you out.
+
+### Quest 02
+
+* **A** 어우, 이런. 눈 / 부었다.
+* **B** 그러게. 내 눈도 그래. 우리 울었어 / 많이 / 어젯밤에 . 그 개들이 대한 영화가 / 너무나 뭉클했다.
+* **A** 맞아. 그게 나에게 떠오르게 한다 / 우리 개가 떠났을 때 / 여러 해 전에.
+* **B** 자기야. 개 얘기가 나와서 말인데, / 어때 / 개 한 마리 입양하기
+* **A** 마이클, 우리 쌍둥이를 가졌잖아. 그건 곰곰이 생각해보기로 하자.
 * **B** 알겠어.
 
 ---
@@ -159,28 +199,28 @@
 
 ## Customized
 
-### Group
+### Group 01
 
 * **A** Aww. I've got / lower back pains. I'm afraid / I can't / go to the movies / later on.
 * **B** Alright. You've sit / too long, / so get some fresh air.
 * **A** I guess I have to. Is it okay to / postpone the movie next week?
 * **B** Sure. It's gonna be too bad / if you have to sit / for a longer time / watching movies. Go home / and get enough rest / today.
 
-### Quest
+### Quest 01
 
 * **A** 어우, 이런. 생겼어 / 등허리 아픔. 안타깝게도 / 영화 보러 못 갈 것 같아 / 이따가.
 * **B** 알겠어. 오래 앉아 있었어 / 바람 좀 쐬고 와.
 * **A** 그래야겠다. 괜찮아? / 영화 다음주로 미뤄도
 * **B** 당연하지. 매우 안 좋을 거야 / 너가 앉아 있어야 한다면 / 오랫동안 / 영화 보는. 집에 가 / 푹 쉬어 / 오늘.
 
-### Group
+### Group 02
 
 * **A** Aww. I've got / cold sore in my mouth. I'm afraid / I have to change / the lunch menu.
 * **B** Alright. You have to avoid / very hot foods or beverages.
 * **A** You can say that again. Is it okay / to go eat naengmyeon for lunch? It means by cold noodles.
 * **B** Sure. I've heard of / the famous Pyeongyang naengmyeon restaurant / near work, / so I've always wanted / to checkout there. Let's go!
 
-### Quest
+### Quest 02
 
 * **A** 아우. 생겼어 / 입천장 헐음이. 안타깝지만 / 바꿔야 할 것 같아 / 점심 메뉴.
 * **B** 좋아. 피해야 해 / 매우 뜨거운 음식이나 음료.
