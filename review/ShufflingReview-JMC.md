@@ -2,7 +2,55 @@
 
 ---
 
-# 20190329 Adopting a dog 
+# 20190412 Something to tell you
+
+## Original
+
+### Group
+
+* **A** Arman, can you please / make twelve copies of this?
+* **B** Okay. Don't worry. Is this for the meeting?
+* **A** Yes. Well we have 15 minutes / before the meeting.
+* **B** Nice. I have something to tell you. I'm thinking of / running my own restaurant.
+* **A** What? Are you serious? Why don't you give it a second thought?
+* **B** I've almost made up my mind.
+
+### Quest
+
+* **A** 아르만, 해줄 수 있니 / 이거 12부 복사?
+* **B** 그래. 걱정 마. 이거 회의 때 쓸거야?
+* **A** 응. 15분 남았네 / 회의까지.
+* **B** 잘됐다. 너한테 할 말이 있어. 나 생각 중이야 / 나의 식당 차리기.
+* **A** 뭐라고? 정말이야? 한 번 더 생각해보는 게 어때?
+* **B** 난 거의 마음을 정했어.
+
+## Customized
+
+### Group
+
+* **A** Louie, can you please / make four copies of this?
+* **B** Okay. Don't worry. Is this for the contract?
+* **A** Yes. Well we have 15 minutes / before the contract meeting.
+* **B** Nice. I have something to tell you. I'm thinking of / buying a new Ironman figure limited edition, which is made of gold.
+* **A** What? Are you serious? Why don't you give it a second thought?
+* **B** I've almost made up my mind.
+* **A** This is crazy. You said / you have to save money / for a house. What happened to / your new year's resolution?
+* **B** Oh right. I guess I have to buy silver one.
+
+### Quest
+
+* **A** 루이, 해줄 수 있니 / 이거 4장 복사?
+* **B** 그래. 걱정 마. 계약 건에 대한 거야?
+* **A** 응. 15분 남았네 / 계약 회의까지.
+* **B** 잘됐다. 너한테 할 말 있어. 나 생각 중이야 / 새 아이언맨 피규어 한정판 사기 / 금으로 만든.
+* **A** 뭐라고? 정말이야? 한 번 더 생각해 보는 게 어때?
+* **B** 난 거의 마음을 정햇어.
+* **A** 이건 미친 일이야. 너 말했잖아 / 돈을 모아야 한다 / 집 때문에. 어떻게 된거야 / 새해 계획?
+* **B** 아 맞다. 은으로 된 거 사야겠다.
+
+---
+
+# 20190329 Adopting a dog
 
 ## Original
 

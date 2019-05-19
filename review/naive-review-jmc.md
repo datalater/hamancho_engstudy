@@ -3,6 +3,17 @@
 
 ---
 
+## 20190412 Something to tell you
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 이거 12부 복사해줄래? | Could you copy this 12 papers? | Can you please make twelve copies of this? | ★ |
+| 2 | 회의까지 15분 남았네. | I have 15 minutes to the meeting. | We have 15 minutes before the meeting. | ★ |
+| 3 | 나 식당을 차릴까 생각 중이야. | I'm thinking about running a restaurant. | I'm thinking of running my own restaurant. `OR Draft` | |
+| 4 | 정말이야? 한 번 더 생각해보는 게 어때? | For real? Why don't you think one more time? | Are you serious? Why don't you give it a second thought? | ★ |
+
+---
+
 ## 20190405 Beat the traffic
 
 | No. | Source | Draft | Answer | star |
