@@ -2,6 +2,49 @@
 
 ---
 
+### 20190412 식당운영 생각 중
+
+## Original
+
+### Group
+
+* **A** Arman, can you please/ make 12 copies / of this ? /
+* **B** OK,/ don't worry./ Is this for/ the meeting? /
+* **A** Yes. / well,/  we have 15 minutes / before the meeting./
+* **B** Nice. / I have something / to tell you./  I'm thinking of/  running my own restaurant./
+* **A** What? / Are you serious? / Why don't you / give it a second thought?/
+* **B** I've alomost / made up my mind./
+*
+### Quest
+
+* **A** 아르만 / 할 수 있니 / 12부 복사하다 / 이것을? /
+* **B** 그럼 / 걱정하지마 / ~을 위한거니? / 회의 /
+* **A** 응. / 음 / 15분 남았다 / 회의 시작하기 전에 /
+* **B** 좋네 / 나 가지고 있다 / 너에게 말하다 / 나는 생각 중이다 / 내 식당을 운영하다 /
+* **A** 뭐? / 농담이지? / ~하는게 어때? / 두 번 생각하다
+* **B** 나 거의 했다 / 결심하다 /
+
+## Customized
+
+### Group
+
+* **A** Jay, can you please / make 3 copies of / this poster?
+* **B** OK,/  don't worry. / Is this for / the display of your room?/  
+* **A** Yes. / well, / we have 30 minutes / before the movie./  
+* **B** Nice. / I have something to tell you. / I'm thinking of buying Ironman figure./
+* **A** What? / Are you kidding?  / Why don't you sleep on it?/
+* **B** I've alomost / made up my mind.
+
+
+### Quest
+
+* **A**  제이 / 할 수 있니 / 3부 복사하다 / 이 포스터? /
+* **B** 그럼 / 걱정하지마 / ~을 위한거니? / 너의 방에 전시 /
+* **A** 응. / 30분 남았다 / 영화 시작하기 전에 /
+* **B** 좋네 / 나 가지고 있다 / 너에게 말하다 / 나는 생각 중이다 / 아이언맨 피규어를 사다 /
+* **A** 뭐? / 농담이지? / ~하는게 어때? / 신중히 생각하다
+* **B** 나 거의 했다 / 결심하다 /
+
 
 ##  20190405 교통정체 피하기
 
@@ -56,7 +99,7 @@
 * **B** 정말 보러 가고 싶다 / 항상 원했다 / EPL 보다 / 직접 /
 * **A** 좋아 / 그러면 확인해라 / 니가 할 수 있는지 / 그리고 알려줘
 * **B** 그럴게, 루니. / 고마워 /
-* **A** 니가 가기로 결정하면 / 가는게 낫다 / 빨리 / 관광지를 가다 / 런던에서 / 
+* **A** 니가 가기로 결정하면 / 가는게 낫다 / 빨리 / 관광지를 가다 / 런던에서 /
 
 
 ###  20190329 개를입양하는게어때 ###
