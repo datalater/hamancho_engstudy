@@ -1,12 +1,21 @@
 
 ⓒ JHI 2017
 
+### 20190412 식당운영 생각 중
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 아르만, 이거 12부 복사해줄래? | Can you copy that 12 pieces? | can you please make 12 copies of this? | ★ |
+| 2 | 회의까지 15분 남았네 |  Is it for meeting? | Is this for the meeting? | ★ |
+| 3 | 한 번 더 생각해보는게 어때? | How about thinking it once again? | Why don't you give it a second thought? | ★ |
+| 4 | 나 거의 마음을 정했어 | I've almost decided | I've alomost made up my mind | ★ |
+
 ###  20190405 교통정체피하기 ###
 
 | No. | Source | Draft | Correct | star |
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | 다음주에 하루 휴가 낼 수 있어? | Can you get a day off next week? |Can you take one day off next week? `or Draft` | ★ |
-| 2 | 늘 그 축제를 보고싶었거든 | Let me know whether you can go or not | I've always wanted to check out the festival `or Draft` | ★ |
+| 2 | 늘 그 축제를 보고싶었거든 | I always have wanted to enjoy that festival | I've always wanted to check out the festival `or Draft` | ★ |
 | 3 | 그럼 갈 수 있는지 확인하고 알려줘 |  Let me know whether you can go or not | please check if you can do that and let me know | ★ |
 | 4 | 교통정체를 피할 수 있게 일찍 출발해야해 | we'd better go early to beat the traffic | we'd better leave early to beat the traffic | ★ |
 
