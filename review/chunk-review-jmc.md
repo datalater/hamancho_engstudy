@@ -71,6 +71,22 @@
 * **A** 이건 미친 일이야. 네가 날 도와주면 / 할게 / 아이언맨 골드 피규어 빌려주기 / 3주 동안.
 * **B** 3달. 타협 없어.
 
+### Group 03
+
+* **A** Louie, can you please / come over / to the library lounge / to study / for our upcoming exam? The c programming test / seems to be / very difficult.
+* **B** Okay. Don't worry. Let's do a review / starting from chapter one / and then we will / work our way up / through chapter three. Does that sound OK / to you?
+* **A** That sounds like a good idea. I have something / to tell you. I'm thinking of / not studying / the notes from the lectures.
+* **A** What? Are you serious? Why don't you give it a second thought?
+* **B** I've been trying to / read all the chapters / but it is still quite confusing. Since we only have three hours / before the test, / I guess / I don't have time / to study the notes.
+
+### Quest 03
+
+* **A** 루이, 와줄 수 있니 / 도서관 라운지로 / 다가오는 시험을 공부 위해. c 프로그래밍 시험 / 일 것 같아 / 매우 어려움.
+* **B** 그래. 걱정 마. 복습하기를 하자 / 챕터 1부터 시작해서 / 그리고 나서 우리는 하자 / 진행시키자 / 챕터 3까지 쭉. 괜찮게 들려 / 너한테?
+* **A** 좋은 생각이야. 너한테 할 말 있어. 나 생각 중이야 / 공부 안 하는 거 / 강의 노트.
+* **A** 뭐라고? 정말이야? 한 번 더 생각해 보는 게 어때?
+* **B** 나 해왔어 / 읽기, 모든 챕터를 / 근데 아직 많이 헷갈려. 없기 때문에, 세 시간 밖에 / 시험까지 / 아마 내 생각에 / 시간 부족할 거야 / 강의 노트 공부하기.
+
 ---
 
 # 20190405 Beat the traffic
