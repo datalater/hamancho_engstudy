@@ -43,6 +43,16 @@
 * **B** Nice. / It'll help you / solve the problem / better.
 * **A** You're right. /  It must remind me / of the answer / well. / And I can finish the test/  in no time. /
 
+### Gruop 3
+
+**A** Jay, can you please / access the hangout / for my Atom problem?/    
+**B** Yes, / I have studied / Atom / for a long time./
+**A** Thanks, Jay!/  Atom is hard / for me / to handle. /
+**B** There is no need / for me / to study Atom. /
+**A** Maybe / I just made a big deal out of nothing. / I am still not confident / about my performance / on Atom. /
+**B** If you have worked hard / to overcome the problem, / you can improve / much. / Things get worse / when you don't study any more. /
+**A** I know. / Let's listen to some soothing music / before starting that work./
+
 
 
 ### Quest 1
@@ -61,6 +71,15 @@
 * **A** 응. / 이 자료를 다시 읽어야만 한다 / 시험을 치르기 전에 /
 * **B** 좋네 / 그게 너를 도울거야 / 문제를 해결하다 / 잘 /
 * **A** 맞아. / 나에게 떠올릴 게 할 것이다. / 정답을 / 잘. / 그리고 나는 시험을 끝낼 수 있다 / 빨리. /
+
+### Quest 3
+**A**  제이, 할 수 있니? / 행아웃에 접속하다 / 아톰 문제를 위해 /
+**B** 응. / 나는 공부해왔다 / 아톰을 / 오랫동안. /
+**A** 고마워, 제이 / 아톰은 어렵다 / 나에게 / 다루다. /
+**B** 필요가 없다 / 나에게는 / 아톰을 공부하다. /
+**A** 아마도 / 별거 아닌 것으로 호들갑 떨 수 있다. / 나는 여전히 자신이 없다 / 성과에 / 아톰에 대해.
+**B** 열심히 한다면 / 문제를 극복하다, / 너는 향상할 수 있다 / 많이. / 상황은 더 나빠질 것이다 / 공부를 더 이상 하지 않을 때. /
+**A** 나도 알아. / 달래주는 음악을 듣자 / 그 일을 시작하기 전에. /
 
 
 ##  20190405 교통정체 피하기
