@@ -3,6 +3,19 @@
 
 ---
 
+## 20190517 Could you hit B2
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 나 지하철 역에 내려줄래? | Can you get me off at the subway station? | Can you **drop me off** at the subway station? | ★ |
+| 2 | 저희는 다음 거 탈게요. | We'll take a next. | We'll take **the next one**. | ★ |
+| 3 | 제가 이쪽으로 갈게요. | I'll go this way | I'll **move over** here. | ★ |
+| 4 | 제가 눌러드릴게요. | I'll hit the button. | I'll hit it **for you**. | ★ |
+| 5 | 유모차가 있으시네요. | You have a baby car. | You have **a stroller**. |  |
+| 6 | 오늘 차 안 가지고 왔어. | I didn't bring my car today. | I **didn't drive** today. | ★ |
+
+---
+
 ## 20190412 Something to tell you
 
 | No. | Source | Draft | Answer | star |
