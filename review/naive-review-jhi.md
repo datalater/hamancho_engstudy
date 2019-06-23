@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+### 20190517 지하2층 눌러주실 수 있나요?
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 나 지하철역에 내려 줄래? | could you drop by me at subway station? | can you drop me off at the subway station? | ★ |
+| 2 | 오늘 차 안 가지고 왔어 | I don't take the car today | I didn't drive today | ★ |
+| 3 | 제가 이쪽으로 갈게요 | I move to there | I'll move over here | ★ |
+| 4 | 저희가 눌러드릴게요 |  We'll hit for you | I can hit it for you | ★ |
+| 5 | 지하 2층 좀 눌러 주시겠어요? | Could you hit B2?  | Could you hit B2? | ★  |
+
 ### 20190412 식당운영 생각 중
 
 | No. | Source | Draft | Correct | star |
