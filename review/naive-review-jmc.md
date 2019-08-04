@@ -3,6 +3,17 @@
 
 ---
 
+## 20190614 Leave your stuff
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 알고 보니까 이 제품이 1+1이더라구요. | I found out this was one-free-to-go. | I found out this item was **buy-one-get-one-free**. | ★ |
+| 2 | 제가 스킨 로션을 한 개 더 갖다 드릴게요. | I will get you one more toner. | **Let me** get you one more toner. | ★ |
+
+> (slang) bogo: buy-one-get-one (free); This item is bogo.
+
+---
+
 ## 20190517 Could you hit B2
 
 | No. | Source | Draft | Answer | star |
