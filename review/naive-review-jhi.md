@@ -1,6 +1,16 @@
 
 ⓒ JHI 2017
 
+### 20190614 물건 좀 놔둘게요.
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 무엇을 도와드릴까요? | how can I help you? | **What can I help you with?** | ★ |
+| 2 | 알고 보니까 이 제품이 1+1 이더라구요. | I found this one plus one product | I found out this item was **buy one get one free** | ★ |
+| 3 | 제가 스킨로션을 한 개 더 갖다드릴게요 | I'll give you one more skin lotion | Let me **get you one more toner** | ★ |
+| 4 | 좀 더 둘러볼게요 | I'll look around | I want to **look around for more** | ★ |
+| 5 | 손님 물건은 여기에 둘게요 | I'll leave your stuff here | I'll **leave your stuff** here | ★ |
+
 ### 20190517 지하2층 눌러주실 수 있나요?
 
 | No. | Source | Draft | Correct | star |
