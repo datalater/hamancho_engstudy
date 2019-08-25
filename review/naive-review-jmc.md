@@ -3,6 +3,24 @@
 
 ---
 
+## 20190705 Way better than I expected
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 심장이 아직도 쿵쾅거려. | I can still feel my heart beating. | My heart is **pouding**. `OR` My heart is **beating faster**. | ★ |
+| 2 | 기대했던 것보다 훨씬 더 좋더라. | It was way better than I expected.  | **It was way better than I expected**. | ★ |
+| 3 | 뭘. | My pleasure.  | **Sure thing**. `OR Draft` | ★ |
+| 4 | 근데 좀 걸으면서 흥분을 가라앉히고 싶어. | But I just want my heart to be calm as walking. | But I want to walk a little bit to **cool down**. | ★ |
+| 5 | 이제 발뒤꿈치 괜찮아? | Is your back feet okay now? | Is the **back of your foot** okay now? | ★ |
+
+> "Thank you."에 대한 대답:
+> * Sure thing.
+> * No worries.
+> * No problem.
+> * My pleasure.
+
+---
+
 ## 20190614 Leave your stuff
 
 | No. | Source | Draft | Answer | star |
