@@ -38,7 +38,7 @@
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | 심장이 아직도 쿵쾅거려. | I can still feel my heart beating. | My heart is **pouding**. `OR` My heart is **beating faster**. | ★ |
 | 2 | 기대했던 것보다 훨씬 더 좋더라. | It was way better than I expected.  | **It was way better than I expected**. | ★ |
-| 3 | 뭘. | My pleasure.  | Sure thing. `OR Draft` | ★ |
+| 3 | 뭘. | My pleasure.  | **Sure thing**. `OR Draft` | ★ |
 | 4 | 근데 좀 걸으면서 흥분을 가라앉히고 싶어. | But I just want my heart to be calm as walking. | But I want to walk a little bit to **cool down**. | ★ |
 | 5 | 이제 발뒤꿈치 괜찮아? | Is your back feet okay now? | Is the **back of your foot** okay now? | ★ |
 
@@ -88,14 +88,14 @@
 
 ### Group 02
 
-* **A** Aw. It's too hot and my heart is **pouding**.
-* **B** You need to cool down. Can you see the big tree over there? Get enough rest / in the shade of the tree.
+* **A** Aw. **It's way hotter than I expected**. My heart is **pouding**.
+* **B** You need to **cool down**. Can you see the big tree over there? Get enough rest / in the shade of the tree.
 * **A** Thank you.
 * **B** **Sure thing**.
 
 ### Quest 02
 
-* **A** 어우. 너무 덥고 심장이 빠르게 뛰어요.
+* **A** 어우. 제가 예상했던 것 보다 훨씬 더워요. 심장이 빠르게 뛰어요.
 * **B** 진정시켜야겠다. 저기 큰 나무 보여? 충분히 쉬어 / 나무 그늘 아래에서.
 * **A** 고맙습니다.
 * **B** 뭘.
