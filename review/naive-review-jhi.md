@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20190705 기대했던 것보다 좋아
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 심장이 아직도 쿵쾅거려 | My heart is still moving | **My heart is still pounding** | ★ |
+| 2 | 기대했던 것보다 훨씬 더 좋더라 | It was way better than I expected | **It was way better than I expected** | ★ |  
+| 3 | 근데 좀 걸으면서 흥분을 가라앉히고 싶어 | But I want to calm down myself by walking | **but I want to walk a little bit to cool down**  | ★  |
+
 ### 20190614 물건 좀 놔둘게요.
 
 | No. | Source | Draft | Correct | star |
