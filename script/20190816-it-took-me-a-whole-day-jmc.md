@@ -72,7 +72,7 @@
 
 ### Group 01
 
-* **A** Are you okay? [You look like there's something wrong.](https://www.reddit.com/r/NoStupidQuestions/comments/biezld/whats_a_good_response_for_when_someone_asks_whats/).
+* **A** Are you okay? [You look like there's something wrong](https://www.reddit.com/r/NoStupidQuestions/comments/biezld/whats_a_good_response_for_when_someone_asks_whats/).
 * **B** Today is **my first day at work**. And I don't have much experience / about dealing with difficult customers. I am so nervous.
 * **A** Hey, no one can't do it right / the first time. Just enjoy **your first day at work**.
 * **B** Thanks. Can you tell me / **the first thing I need to do** / when an upset customer comes?
