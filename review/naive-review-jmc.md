@@ -3,6 +3,16 @@
 
 ---
 
+## 20190816 It took me a whole week to finshi this
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 첫 출근날, 즐겁게 일하세요 소미씨. | Enjoy your work in your first day. | Enjoy **your first day at work Somi**. | ★ |
+| 2 | 해야 할 첫 번째 일은 보고서를 작성하는 거에요. | The first thing to do is write a report. | **Frst thing you need to do** is **make a report**. | ★ |
+| 3 | 이 보고서를 다 썼네. | I finished this paper. | **I am done with** this report. `OR` I've finished this report. | ★ |
+| 4 | 파일이 어디갔지? | Where is the file? | **Where did the file go?** | ★ |
+| 5 | (안타깝게도) 그런 것 같아요. | I guess. | **I'm afraid so**. | ★ |
+
 ## 20190705 Way better than I expected
 
 | No. | Source | Draft | Answer | star |
