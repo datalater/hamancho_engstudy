@@ -1,6 +1,57 @@
 ⓒ JHI 2019
 
 ---
+
+### 20190816 하루종일 걸렸다
+
+## Original
+
+### Group
+
+* **A** Enjoy your **first day / at work** / , Somi! /
+* **B** Thanks, / I'll do my best./   
+* **A** **First thing you need to do** / is / make a report. /
+* **B** Alright. / **I'm done with** / this report. /  Oops! / Where did the file go?/
+* **A** What happened? / Did you **lose / your file?**/
+* **B** I'm afraid so. / Oh, no... / **it took me a whole day** / to finish this./
+* **A** Calm down. / Did you **back it up?**/
+*
+### Quest
+
+* **A** 첫 날을 즐기세요 / 회사에서 / 소미씨! /  
+* **B** 감사합니다, / 최선을 다할게요. /
+* **A** 첫 번째 해야 할 일 / ~이다 / 보고서를 작성하다. /  
+* **B** 좋았어. / ~을 끝냈자 / 이 보고서. / 이런! / 파일이 어디 갔지? /
+* **A** 무슨 일이에요? / 잃어버렸나요 / 당신의 파일? /  
+* **B** 그런 것 같아요. / 오, 안 돼... / 하루종일 걸렸다 / 이것을 끝내다. /  
+* **A** 진정해요. / 백업은 해뒀나요?
+
+
+## Customized
+
+### Group 1
+
+* **A** How was / your **first day at work**?/  
+* **B** It's good / but There were so **many things / I need to do**. /
+* **A** You're right. / It reminded of the time / when I was in new employee. /
+
+### Quest 1
+
+* **A** 어땠어? / 직장에서의 첫 날은? /  
+* **B** 좋았어 / 근데 너무 일이 많았어 / 내가 해야하는. /  
+* **A** 맞아. / 그 때가 떠오르네 / 내가 신입사원이었을 때. /
+
+### Group 2
+
+* **A** **I'm done with** the travel plan. **It took me a month** to finish this.
+* **B** Congratulation! Don't forget to **back it up** not to **lose your file**.
+
+### Quest 2
+
+* **A** 여행 계획을 / 다 짰다./  이거 끝내는데  / 한 달이나 걸렸네. /
+* **B** 축하해. / 날아가버리지 않게 / 백업하도록 해. /
+
+
 ### 20190705 기대했던 것보다 좋아
 
 ## Original
@@ -46,7 +97,7 @@
 ### Quest 2
 * **A** 믿을 수 없어! / 나 1등에 당첨됐어 / 로또에서. /
 * **B** 축하해! / 너 근사한 저녁을 나한테 대접해야 해. /
-* **A** 물론이지! / 근데 나 걷고 싶어 / 좀 더 / 흥분을 가라앉히기 위해. / 
+* **A** 물론이지! / 근데 나 걷고 싶어 / 좀 더 / 흥분을 가라앉히기 위해. /
 
 
 ### 20190614 물건 좀 놔둘게요.

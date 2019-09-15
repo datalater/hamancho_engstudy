@@ -1,6 +1,17 @@
 
 ⓒ JHI 2017
 
+### 20190816 하루종일 걸렸다
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 첫 출근 날 즐겁게 일하세요 | Enjoy your first work day | Enjoy your **first day at work** | ★ |
+| 2 | 해야 할 첫 번째 일은 보고서를 작성하는 거에요.  | The first thing you have to do is to write a report  | **First thing you need to do**  is make a report  | ★ |
+| 3 | 파일이 어디 갔지?  | Where is the file?  | Where did the file go?  | ★ |
+| 4 | 이거 끝내는 데 하루 종일 걸렸는데  | it took me a whole day to finish this | **it took me a whole day** to finish this | ★ |
+| 5 | 백업은 해 뒀나요? | Did you make a backup file? | Did you **back it up**? | ★ |
+
+
 ### 20190705 기대했던 것보다 좋아
 
 | No. | Source | Draft | Correct | star |
