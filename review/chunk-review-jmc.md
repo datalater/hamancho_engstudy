@@ -44,7 +44,7 @@
 * **A** What time should we depart?
 * **B** I'm not sure. But sooner is better. The traffic is **terrible** today.
 * **A** Let's take a subway.
-* **C** Why don't we call the Kakao taxi? It would take at least 10 minutes to get the station.
+* **C** Why don't we call the Kakao taxi? It would take at least 10 minutes to get to the station.
 * **A** If we take a cab in this time, we must get stuck and should **get out** in the middle of the road. Then we have to walk **all the way** to the near station. We should take a subway.
 * **B** Yes. We'd better do that.
 
