@@ -3,6 +3,35 @@
 
 ---
 
+## 20190823 We'd better do that.
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 공항까지 가는데 얼마나 걸릴까요? | How long does it take to the airport? | How long **will it take** to get to the airport? | ★ |
+| 2 | 오늘 길이 엄청 막혀서요. | The traffic is very heavy today. | The traffic is **terrible** today. | ★ |
+| 3 | 우리 여기서 내리고 큰 길로 가서 다른 택시를 타는 게 어때요? | Why don't we get off here and go to main street and take another cab? | Why don't we **get out** here and take **another one** **on the main road**? | ★ |
+| 4 | 우리 다시 쭉 되돌아 가야 하나요? | Do we have to go back again? | Should we walk **all the way back**? | ★ |
+| 5 | 이 슬리퍼를 운동화로 갈아 신어야겠어요. | I have to replace this slipper to running shoes. | I **need to** **change from these filp flops to sneakers**. | ★ |
+
+> get off vs. get out
+> * get off: 버스나 기차에서 내릴 때.
+> * get out: 택시에서 내릴 때.
+
+> How long des it take?
+> * How long is it gonna take?
+
+> 오늘 교통이 괜찮네. (별로 안 밀리네.)
+> * The traffic is not bad today.
+
+> should vs had better
+> * You should take the subway: 부드러운 어조.
+> * You'd better take the subway: 강한 어조. (윗사람에게 쓰면 조금 무례할 수 있음)
+
+> all the way to the becah.
+> * 해변까지 쭉 or 멀리.
+
+---
+
 ## 20190816 It took me a whole week to finshi this
 
 | No. | Source | Draft | Answer | star |
