@@ -1,6 +1,14 @@
 
 ⓒ JHI 2017
 
+### 20190823 그러는게 낫겠다
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 오늘 길이 엄청 막혀서요 | Traffic jam is really heavy today | The traffic is terrible today | ★ |
+| 2 | 우리 여기서 내리고 큰길로 가서 다른 택시를 타는 게 어때요? |  We get off now and go the big road. How about taking another taxi?  | Why don't we get out here and take another one on the main road? | ★ |
+| 3 |우리 다시 쭉 되돌아 걸어가야 하나요? | Do we have to walk back again along the way we have walked? | Should we walk all the way back? | ★ |
+
 ### 20190816 하루종일 걸렸다
 
 | No. | Source | Draft | Correct | star |

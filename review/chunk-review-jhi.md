@@ -2,6 +2,43 @@
 
 ---
 
+### 20190823 그러는게 낫겠다
+
+## Original
+
+### Group
+
+* **A**  **How long will it take to get to** / the airport? /
+* **B** I'm not sure. / The traffic is terrible / today. /   
+* **A** **Why don't we** / get out here / and take another one / on the main road? /
+* **B** Yes, we'd better do that. / Ah, wait. / Should we walk / all the way back? /
+* **A** I'm afraid so. /
+* **B** Please wait. / I need to change / from these flip-flops to sneakers. /
+*
+### Quest
+
+* **A** ~ 가는데 얼마나 걸릴까요? / 공항 /
+* **B** 잘 모르겠네요. / 길이 엄청 막히네요 / 오늘. /
+* **A** ~ 하는게 어때? / 여기서 내리다 / 다른 택시를 타다 / 큰 길에서? /  
+* **B** 응, 그러는 게 낫겠어. / 아, 잠깐만요. / 걸어야 하나요 / 우리가 왔던 길을 따라? /
+* **A** 그럴 것 같네요. /
+* **B** 기다려주세요. / 나 바꿔야만 해요 / 슬리퍼에서 운동화로. /
+
+
+## Customized
+
+### Group 1
+
+* **A** **How long will it take to get to** / Old Traffford? /
+* **B** I'm not sure. / The traffic is heavy / today. / **Why don't you** / take the underground? /
+* **A** I'd better do that. / I don't want to miss the game / because of traffic jam. /
+
+### Quest 1
+
+* **A** ~가는데 얼마나 걸릴까요 / 올드트래포드? /
+* **B** 모르겠네요. / 길이 막힌다 / 오늘. / ~ 하는게 어때 / 지하철을 타다? /  
+* **A** 그러는게 낫겠네요. / 게임을 놓치기 싫다 / 교통체증으로 /
+
 ### 20190816 하루종일 걸렸다
 
 ## Original
