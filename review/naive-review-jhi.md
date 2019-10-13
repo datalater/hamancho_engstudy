@@ -1,6 +1,17 @@
 
 ⓒ JHI 2017
 
+### 20190913 회사에서 평상복 입다
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 우리 가끔 야근을 하나요? | Do we sometimes have overtime work? | Do we sometimes work overtime? | ★ |
+| 2 | 우리 회사는 직원들의 삶의 질을 존중하거든요 | We respect the quality of life for the employee |  Our company respects its employees quality of life | ★ |
+| 3 | 그럼 직원들이 더 자진해서 자기 일을 잘하려고 하겠죠? | And employees tries to work better for themselves |  Then the employees will be more willing to do their job well | ★ |
+| 4 | 재킷이 뒤집어진거 아니에요? | I think your jacket turn around | isn't it your jacket inside out | ★ |
+| 5 | 이건 뒤집어입을 수도 있어요 | I can wear it by turning around | It's reversible | ★ |
+
+
 ### 20190823 그러는게 낫겠다
 
 | No. | Source | Draft | Correct | star |
