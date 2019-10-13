@@ -33,7 +33,7 @@
 * **A** It's nice to wear a causual clothes at work.
 * **B** We used to wear a suit to work but that policy was changed.
 * **A** Do we sometimes work overtime?
-* **B** No, we rerely do that. Our company respects its employees quality of life.
+* **B** No, we rarely do that. Our company respects its employees quality of life.
 * **A** Sounds nice. Then the employees will be more willing to do their job well.
 * **B** Yeap. Oh, by the way, isn't it your jacket inside out?
 * **A** Is it? Ah, no. It's reversible.
@@ -64,7 +64,7 @@
 * **A** It's nice / to wear a causual clothes / at work. /
 * **B** We used to / wear a suit / to work / but / that policy was changed. /
 * **A** Do we sometimes / **work overtime**? /
-* **B** No, / we **rerely** do that. / Our company respects / its employees **quality of life**. /
+* **B** No, / we **rarely** do that. / Our company respects / its employees **quality of life**. /
 * **A** Sounds nice. / Then / the employees will **be more willing to** / do their job / well. /
 * **B** Yeap. / Oh, by the way, / isn't it /  your jacket / inside out?
 * **A** Is it? / Ah, no. / It's reversible.
@@ -85,7 +85,7 @@
 
 ### Group 1
 
-* **A** I **rerely** / **work overtime**. /
+* **A** I **rarely** / **work overtime**. /
 * **B** Sounds nice. / I usually / work overtime. / Sometimes / I have to stay up all night. /
 * **A** It'so sad. /**I'm more willing to** / do my job well / at work / to enjoy **quality of life** / after work. /
 
