@@ -3,6 +3,21 @@
 
 ---
 
+## 20190913 nice to wear casual clothes at work
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 예전엔 정장을 입고 출근을 했었는데 그 규정이 바뀌었어요. | We used to go to work with suits but the rule has changed. | We used to **wear a suit to work but that policy was changed**. | ★ |
+| 2 | 우리 가끔 야근을 하나요? | Do we frequently do overtime work? | Do we sometimes **work overtime**? | ★ |
+| 3 | 거의 안 해요. | Almost not. | **We rarely do that**. | ★ |
+| 4 | 우리 회사는 직원들의 삶의 질을 존중하거든요. | Our company respects the quality of employee's life. | Our company respects **its employee's quality of life**. | ★ |
+| 5 | 반가운 말이네요. | It's nice to hear. | **Sounds nice**. | ★ |
+| 6 | 그럼 직원들이 더 자진해서 자기 일을 잘하려고 하겠죠? | Then they would work harder volunteerily? | Then the employees **would be more willing to do their job well**? | ★ |
+| 7 | 어 그런데 재캣이 뒤집어진 것 아니에요? | Oh, isn't your jacket flipped? | Oh, by the way isn't your jacket **inside out**? | ★ |
+| 8 | 이건 뒤집어 입을 수도 있어요. | You can wear this in reverse. | It's **reversible**. | ★ |
+
+---
+
 ## 20190823 We'd better do that.
 
 | No. | Source | Draft | Answer | star |
