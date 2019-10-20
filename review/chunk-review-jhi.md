@@ -1,6 +1,47 @@
 ⓒ JHI 2019
 
 ---
+### 20190920 고를 수 있는 다양한 관광지가 있다.
+
+## Original
+
+### Group
+
+* **A** I bought / this Granada city tour ticket. /
+* **B** **Is that for** / the sightseeing bus? /
+* **A** Yes, / I can **hop on and off** / with this ticket / **as much as I want** / for the day. / I want to look around / the city / first. / And I'll definitely / **check out** / the Alhambra. /
+* **B** Are you interested in / driving around / the city / on a scooter? /
+* **A** Yes, / I was thinking of / doing that / tomorrow. /
+* **B** There is **a variety of tours** / to choose from. / You can choose / how much of / the city you want to see. /
+
+
+### Quest
+
+* **A** 나는 샀다 / 이 그라나다 시티투어 티켓. /
+* **B** ~을 위한건가요 / 관광버스? /
+* **A** 네, / 나는 타고 내릴 수 있다 / 이 티켓으로 / 내가 원하는 만큼 / 하루 동안. / 나는 구경하고 싶다 / 도시 / 우선. / 나는 당연히 / 보다 / 알함브라. /
+* **B** ~에 관심이 있나요 / (탈것을 통해)둘러보다 / 도시 / 스쿠터로? /
+* **A** 네, / 나는 생각 중이다 / 그것을 하다 / 내일. /
+* **B** 다양한 투어가 있다 / ~로 부터 고르다. / 너는 고를 수 있다 / 얼마나 많이 / 도시 / 너는 보고 싶다. /
+
+
+## Customized
+
+### Group 1
+
+* **A** I bought / this London pass. / I can **hop on and off** / with this ticket / **as much as I want** / for three days. /
+* **B** **Is that for** / the Undergorund? /
+* **A** Yes, / I can also **check out** / **a variery of tourist attractions** / at discouted prices. /
+* **B** It's nice. / But **there's so much to do, but so little time.** /
+
+### Quest 1
+
+* **A** 나는 샀다 / 이 런던 패스. / 나는 타고 내릴 수 있다 / 이 티켓으로 / 내가 원하는만큼 / 3일 동안. /
+* **B** ~을 위한건가요 / (런던) 지하철? /
+* **A** 네, / 나는 또한 볼 수 있다 / 다양한 관광명소들 / 할인된 가격으로. /
+* **B** 좋네요. / 하지만 할 일은 많은데, 시간이 너무 없다. /
+
+
 
 ### 20190913 회사에서 평상복 입다
 

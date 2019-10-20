@@ -1,6 +1,17 @@
 
 ⓒ JHI 2017
 
+### 20190920 고를 수 있는 다양한 관광지가 있다.
+
+| No. | Source | Draft | Correct | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 그걸로 관광버스를 타는건가요? | Are you going to take the tour bus by that ticket? | **Is that for** the sightseeing bus? | ★ |
+| 2 | 이 표로 하루에 원하는만큼 타고 내릴 수 있어요 | I can take and off the bus whenever I want in a day |  I can **hop on and off** with this ticket as much as I want for the day | ★ |
+| 3 | 우선 도시를 구경하고 싶고요 | First I want to tour city | I want to look around the city first | ★ |
+| 4 | 도시를 얼마나 보고 싶은지 선택할 수 있죠 | You can choose how many you want to see city | You can choose **how much of the city you want to see** | ★ |
+
+
+
 ### 20190913 회사에서 평상복 입다
 
 | No. | Source | Draft | Correct | star |
