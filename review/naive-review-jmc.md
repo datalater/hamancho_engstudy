@@ -3,6 +3,19 @@
 
 ---
 
+## 20191020 There's a variety of tours to choose from.
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 그걸로 관광버스를 타는 건가요? | Are you taking the tour bus with that? | **Is that for** **the sightseeing bus**? | ★ |
+| 2 | 네, 이 표로 하루에 원하는 만큼 타고 내릴 수 있어요. | Yes, I can use it whenever I want for a day. | Yes, **I can hop on and off with this ticket** **as much as I want for the day**. | ★ |
+| 3 | 당연히 알함브라를 볼 거예요. | of course, I will go to Alhambra. | I'll **definitely check out the Alhambra**. | ★ |
+| 4 | 스쿠터를 타고 도시를 둘러보는 거 관심 있어요? | Are you interested in looking around the city by scooter? | Are you interested in **driving around the city on a scooter**? | ★ |
+| 5 | 네, 그건 내일 할까 생각하고 있었어요. | Yeah, I was considering to do it tomorrow. | Yes, **I was thinking of doing that tomorrow**. | ★ |
+| 6 | 도시를 얼마나 보고 싶은지 선택할 수 있죠. | You can choose how much you want to look around the city. | **You can choose how much of the city you want to see**. | ★ |
+
+---
+
 ## 20190913 nice to wear casual clothes at work
 
 | No. | Source | Draft | Answer | star |
