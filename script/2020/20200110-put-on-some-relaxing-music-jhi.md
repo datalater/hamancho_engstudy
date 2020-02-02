@@ -23,7 +23,7 @@
 * **A** Ah, I have to go now. Could you take me to subway station?
 * **B** I can take you to your home. It's Friday.
 * **A** Wow, it's nice. Thanks. Put on some relaxing music.
-* **B** Altight. And I turn on the hitter.
+* **B** Altight. And I turn on the heater.
 * **A** Yeah, please do it. It's so cold today.
 
 ## Answer
@@ -33,7 +33,7 @@
 * **A** Now **we should get going**. **Will you drop me off at** the subway station?
 * **B** I can take you to your home. It's Friday.
 * **A** Oh, **cool**. Thanks. Put on some relaxing music.
-* **B** Alright. And **I'll turn on the hitter too.**
+* **B** Alright. And **I'll turn on the heater too.**
 * **A** Yes, please. **It's freezing today.**
 
 ## Learning
@@ -50,7 +50,7 @@
 > **Notes:**
 > * 나 지하철역에 내려줄래? : Will you drop me off at the subway station?
 > * 내가 집에 데려다줄 수 있어: I can take you to your home.
-> * 히터도 켤게: I'll turn on the hitter too.
+> * 히터도 켤게: I'll turn on the heater too.
 > * 내일 출근 안한다: We don't have work tomorrow. We're not working tomorrow.
 > * 윤종신 노래 틀어줘: Put on 윤종신
 > * 에어컨 틀어줘: turn on the A.C(Air Conditioner )
