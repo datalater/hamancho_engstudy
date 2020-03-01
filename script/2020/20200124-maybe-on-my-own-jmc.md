@@ -41,9 +41,7 @@
 * **B** Yes. **At seven twenty in the morning** right? **I hope I don't sleep through the alarm**.
 * **A** **Go to bed early tonight if you can**.
 
-## B. Deliberate practice
-
-### Blueprint
+### Mistakes
 
 > Answer에서 bold로 표시한 부분을 한눈에 비교할 수 있게 Source, Draft 모두 기록하세요.
 
@@ -54,13 +52,28 @@
 | 3 | 거기로 가는 직행열차가 하나밖에 없다는 거 아세요? | Do you know there's only one express to there? | Do you know there's only one **direct train to get there**? | ★ |
 | 4 | 아침 7시 20분 맞죠? | Seven twenty in the morning right? | **At seven twenty in the morning** right? | ★ |
 | 5 | 알람 소리를 못 듣고 자면 안 되는데. | I should wake up when the alarm rings. | **I hope I don't sleep through the alarm**. | ★ |
-| 6 | 가능하면, 오늘 저녁에 일찍 주무세요. | Go to bed early tonight if you can. | **Go to bed early tonight if you can**. | ★ |
+| 6 | 가능하면, 오늘 저녁에 일찍 주무세요. | If possible, you'd better go to sleep early tonight. | **Go to bed early tonight if you can**. | ★ |
 
 > **Notes**
 > * (아침에 어떻게 일어나?) 적어도 알람 세 개 맞춰: I set at least three alarms.
 > * 혼자 갈 거 같기도 해: Maybe on my own. | Maybe by myself.
 > * 내가 ~하지 않아야 할 텐데: I hope I don't ~
 > * 알람 소리를 지나치고 자다: sleep through the alarm
+
+## B. Deliberate practice
+
+### Blueprint
+
+> 스킬 회로가 어떻게 연결되는지를 보여주는 도면, 즉 스킬의 내적인 청사진을 시각적으로 인식할 수 있게 됩니다. 빠르게 직관적으로 쭉 이어서 할 수 있을 때까지 머릿속에 지도를 그리세요.
+
+| No. | Source | Draft | Answer | star |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | 메테오라에 그룹 투어로 가실 건가요, 아니면 혼자 가실 건가요? | Are you going to Meteora with group or by yourself? |  | ★ |
+| 2 | 메테오라에 갔다가 테살로니키로 올라갈 계획이에요. | I am going to Thessaloniki after Meteora. |  | ★ |
+| 3 | 거기로 가는 직행열차가 하나밖에 없다는 거 아세요? | Do you know there's only one express to there? |  | ★ |
+| 4 | 아침 7시 20분 맞죠? | Seven twenty in the morning right? |  | ★ |
+| 5 | 알람 소리를 못 듣고 자면 안 되는데. | I should wake up when the alarm rings. |  | ★ |
+| 6 | 가능하면, 오늘 저녁에 일찍 주무세요. | If possible, you'd better go to sleep early tonight. |  | ★ |
 
 ### Myelination
 
@@ -73,7 +86,6 @@
 **거기로 가는 직행열차:**
 
 * '거기로 가는' => to get there
-
 
 **~하면 안 되는데:**
 
