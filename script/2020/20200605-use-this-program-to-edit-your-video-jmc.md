@@ -59,10 +59,7 @@
 
 > 02 방송에서 추가로 얘기한 내용을 적으세요.
 
-* 퇴근하자: let's head home / let's get out of here / let's call it a day / let's take off
-* 주말에 뭐 할거야: do you have any plans for the weekend? hmm, I probably stay at the house and read a nice book. `OR` no big plans.
-* 방금 전에 말한 것처럼: as we talked about earlier, if you want to know about any special plans ~
-* 찾아보는 중이야, 알아보는 중이야: I'm looking for ~
+* 편집 했어?: Did you make any changes?
 
 ## B. Deliberate practice
 
